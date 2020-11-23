@@ -440,7 +440,7 @@ adaptive planning, evolutionary development, early delivery and continuous impro
 	\begin{tabular}{ | p {1.5 cm} | p {4 cm} | p {3.5 cm} |  p {4.5 cm} | }
 		
 		\hline 
-		User story ID & As a $<$Type of Users$>$ &I want to $<$Perform some task$>$ & So that I can $<$Achieve some goal $>$ \\
+	\bf	User story ID & \bf As a $<$Type of Users$>$ & \bf I want to $<$Perform some task$>$ & \bf So that I can $<$Achieve some goal $>$ \\
 		\hline
 		1 & Admin/User/Company & Home Page & Go to other activities\\ \hline
 	2 & User/Company & Registration & Access the system\\ \hline
@@ -649,6 +649,74 @@ adaptive planning, evolutionary development, early delivery and continuous impro
 	\includegraphics[width=0.5\linewidth]{img/sprint/sp4a2}
 	\caption{Sprint 4}
 \end{figure}
+\section{Sprint Review}
+\begin{center}
+	\begin{tabular}{ | p {1.5 cm} | p {7.0 cm} | p {7.0 cm} |   }
+		
+		\hline 
+	\bf 	User story ID & \bf Comments from scrum master if any & \bf Comments from product owner if any \\
+		\hline
+		1 & satisfied & satisfied\\ \hline
+		2 & completed & Data enter in registration form must preserve whenever an error occure during the form validation time. 
+		\\ \hline
+		3 & satisfied  & satisfied  \\ \hline
+		4 & satisfied  & satisfied  \\ \hline
+		5 & satisfied & satisfied  \\ \hline
+		
+	
+		
+	\end{tabular}
+	\captionof{figure}{ Sprint 1}
+\end{center}
+\begin{center}
+	\begin{tabular}{ | p {1.5 cm} | p {7.0 cm} | p {7.0 cm} |   }
+		
+		\hline 
+		\bf 	User story ID & \bf Comments from scrum master if any & \bf Comments from product owner if any \\
+		\hline
+		6 & satisfied & satisfied\\ \hline
+		7 & satisfied & satisfied 
+		\\ \hline
+		8 & satisfied  & satisfied  \\ \hline
+		9 & satisfied  & satisfied  \\ \hline
+		
+	\end{tabular}
+	\captionof{figure}{ Sprint 2}
+\end{center}
+\pagebreak
+\begin{center}
+	\begin{tabular}{ | p {1.5 cm} | p {7.0 cm} | p {7.0 cm} |   }
+		
+		\hline 
+		\bf 	User story ID & \bf Comments from scrum master if any & \bf Comments from product owner if any \\
+		\hline
+		10 & satisfied & satisfied\\ \hline
+		11 & satisfied & satisfied 
+		\\ \hline
+		12 & satisfied  & satisfied  \\ \hline
+		13 & completed  & Remove user id,user name and status in user view exam result.
+		  \\ \hline
+		
+	\end{tabular}
+	\captionof{figure}{ Sprint 3}
+\end{center}
+\begin{center}
+	\begin{tabular}{ | p {1.5 cm} | p {7.0 cm} | p {7.0 cm} |   }
+		
+		\hline 
+		\bf 	User story ID & \bf Comments from scrum master if any & \bf Comments from product owner if any \\
+		\hline
+		14 & satisfied & satisfied\\ \hline
+		15 & satisfied & satisfied 
+		\\ \hline
+		16 & satisfied  & satisfied  \\ \hline
+		17 & satisfied & satisfied
+		\\ \hline
+			18 & satisfied & satisfied
+		\\ \hline
+	\end{tabular}
+	\captionof{figure}{ Sprint 4}
+\end{center}
 \section{Database Design}
 \subsection{Login Table}
 Both uses and company can access their account only after login in to the system with proper username and password. This Table stores username and password of both users and company who registered in the website.
@@ -751,7 +819,7 @@ Any users can gets the functionality of the system only after their registration
 
 \subsection{Countries Table}
 
-
+This table stores the countrie's name. 
 \begin{center}
 	\begin{tabular} { | p {1 cm} | p {3 cm} | p {3 cm} |  p {3 cm} |  p {4 cm} | }
 		
@@ -775,7 +843,7 @@ Any users can gets the functionality of the system only after their registration
 \end{center}
 \subsection{States Table}
 
-
+This table stores the names of states in each  country.
 \begin{center}
 	\begin{tabular} { | p {1 cm} | p {3 cm} | p {3 cm} |  p {3 cm} |  p {4 cm} | }
 		
@@ -799,7 +867,7 @@ Any users can gets the functionality of the system only after their registration
 \end{center}
 \subsection{Cities Table}
 
-
+This table stores the names of cities in each  states.
 \begin{center}
 	\begin{tabular} { | p {1 cm} | p {3 cm} | p {3 cm} |  p {3 cm} |  p {4 cm} | }
 		
@@ -1067,14 +1135,14 @@ There is an option to make communication between user and company.This Table sto
 \pagebreak
 \section{User Interface Design}
 \subsection {Homepage}
-Homepage of Worklord Website
+This form show Homepage of Worklord Website.From which we can go to all other activities.
 \begin{figure}[bph]
 	\centering
-	\includegraphics[width=.6\linewidth]{img/homepage}
+	\includegraphics[width=.4\linewidth]{pencil/homepage}
 	\caption{Homepage}
 \end{figure}
 \subsection {Login}
-Login Page for admin,company and users
+Once registerd in the website,using this Page admin,company and users can login to their accounts.
 \begin{figure}[bph]
 	\centering
 	\includegraphics[width=.4\linewidth]{img/login}
@@ -1083,17 +1151,17 @@ Login Page for admin,company and users
 \pagebreak
 
 \subsection {Job Search}
-Helps to Search Available Jobs in the website
+Helps to Search Available Jobs in the website.There is also an option to searrch jobs based on experience,job name etc.
 \begin{figure}[bph]
 	\centering
-	\includegraphics[width=.65\linewidth]{img/searchjob}
+	\includegraphics[width=.65\linewidth]{img/usersearchjob}
 	\caption{Job Search}
 \end{figure}
 \subsection {Jobs}
-Job Details
+Show the each of the job Details.and also candidate can apply for particular job.
 \begin{figure}[bph]
 	\centering
-	\includegraphics[width=.6\linewidth]{img/searchjobapply}
+	\includegraphics[width=.6\linewidth]{img/user/userappyjob}
 	\caption{Jobs}
 \end{figure}
 \pagebreak
@@ -1133,61 +1201,98 @@ Registration form for User
 \end{figure}
 \pagebreak
 
-\subsection {Dashboard}
+\subsection { User Dashboard}
 Dashboard for Users, Shows available functions for user
 \begin{figure}[bph]
 	\centering
-	\includegraphics[width=.8\linewidth]{img/user/userhompage}
-	\caption{Dashboard}
+	\includegraphics[width=.8\linewidth]{img/user/userhme}
+	\caption{User Dashboard}
 \end{figure}
+\pagebreak
 \subsection {My Applications}
-Applied Job's Details and Status
+This show Applied Job's Details and Status
 \begin{figure}[bph]
 	\centering
 	\includegraphics[width=.7\linewidth]{img/user/useraplictns}
 	\caption{My Applications}
 \end{figure}
-\pagebreak
+
 \subsection {Update Profile}
-Update User's Details and Resume
+Update User's Details and Resume.
 \begin{figure}[bph]
 	\centering
 	\includegraphics[width=.7\linewidth ]{img/user/userupdate}
 	\caption{Update Profile}
 \end{figure}
 
-\subsection {Exams}
+\subsection {User Exam Overview}
 Attend Exams and View scores
 \begin{figure}[bph]
 	\centering
-	\includegraphics[width=.4\linewidth]{img/user/userexm}
-		\caption{Exams}
+	\includegraphics[width=.4\linewidth]{img/user/userexamoverview}
+		\caption{User Exam Overview}
+\end{figure}
+\subsection {User view Examlist}
+Attend Exams and View scores
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.4\linewidth]{img/user/useviewexamlist}
+	\caption{User view Examlist}
+	\end{figure}
+\pagebreak
+\subsection {User Take Assessment}
+Attend Exams and View scores
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.4\linewidth]{img/user/examassessmnt}
+	\caption{ User Take Assessment}
+\end{figure}
+\subsection {User Attend Exam}
+Attend Exams and View scores
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.4\linewidth]{img/user/attendexam}
+	\caption{User Attend Exam}
 \end{figure}
 \pagebreak
-
-\subsection {Tasks}
+\subsection {User View Tasks}
 Attend Tasks
 \begin{figure}[bph]
 	\centering
-	\includegraphics[width=.6\linewidth ]{img/user/usertasks}
-\caption{Tasks}
+	\includegraphics[width=.6\linewidth ]{img/user/userviewtask}
+\caption{User View Tasks}
 \end{figure}
-
-\subsection {Results}
+\pagebreak
+\subsection {User Submit Task}
+Attend Tasks
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.6\linewidth ]{img/user/takeassessment}
+	\caption{User Submit Task}
+\end{figure}
+\pagebreak
+\subsection {User View Exam Results}
 View Scores for Task and Exams
 \begin{figure}[bph]
 	\centering
-	\includegraphics[width=.6\linewidth ]{img/user/userviewscr}
-\caption{Results}
+	\includegraphics[width=.6\linewidth ]{img/user/usrexmrslt}
+\caption{User View Exam Results}
+\end{figure}
+\subsection {User View Task Results}
+View Scores for Task and Exams
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.6\linewidth ]{img/user/usrtskrslt}
+	\caption{User View Task Results}
 \end{figure}
 \pagebreak
 
 \pagebreak
 \subsection {Settings}
-Change Password or Delete Account
+registered user can Change  Password   and also Delete Account if needed.
 \begin{figure}[bph]
 	\centering
-	\includegraphics[width=.6\linewidth ]{img/user/userstings}
+	\includegraphics[width=.6\linewidth ]{img/user/changeuserpassword}
 	\caption{Settings}
 \end{figure}
 
@@ -1204,7 +1309,7 @@ Registration form for company
 Dashboard for company
 \begin{figure}[bph]
 	\centering
-	\includegraphics[width=1\linewidth]{img/company/company_home_page}
+	\includegraphics[width=1\linewidth]{img/company/untitled_page}
 	\caption{Dashboard}
 \end{figure}
 
@@ -1221,7 +1326,7 @@ Edit Company details
 Create New Job Posts with Details
 \begin{figure}[bph]
 	\centering
-	\includegraphics[width=.6\linewidth]{img/company/createpostjob}
+	\includegraphics[width=.6\linewidth]{img/company/postjob}
 	\caption{Create Job Post}
 \end{figure}
 \pagebreak
@@ -1246,37 +1351,53 @@ View Job Post Applications from Users and Review
 Download Resumes of Applied Users for Company's Job Posts
 \begin{figure}[bph]
 	\centering
-	\includegraphics[width=.7\linewidth]{img/company/dwnldresm}
+	\includegraphics[width=.7\linewidth]{img/company/download_resume}
 	\caption{Download Resume}
 \end{figure}
-
-\subsection {Exam Scores}
-Exam Scores of Applied Users for Company's Job Posts
+\pagebreak
+\subsection {Company View all Exam }
+Using this form company can view all eaxams and search any candidate's exam score who attend the task.
 \begin{figure}[bph]
 	\centering
-	\includegraphics[width=.6\linewidth]{img/company/cmpnyviewexmscr}
-	\caption{Exam Scores}
+	\includegraphics[width=.6\linewidth]{img/company/ce1}
+	\caption{Company View all Exam}
 \end{figure}
 \pagebreak
-\subsection {Task Scores}
-Task Scores of Applied Users for Company's Job Posts
+\subsection {Company View Exam  Score}
+Using this form company can view any candidate's exam score who attend the exam.
 \begin{figure}[bph]
 	\centering
-	\includegraphics[width=.7\linewidth]{img/company/cmpnytaskviewscr}
-	\caption{Task Scores}
+	\includegraphics[width=.6\linewidth]{img/company/cmpnyviewsinlexmrslt}
+	\caption{Company  Exam  Score}
 \end{figure}
-
-\subsection {Settings}
-Change FullName or Password of Company and also Delete Account
+\pagebreak
+\subsection {Company View All Task }
+Using this form company can view all tasks and search any candidate's task score who submit the task.
 \begin{figure}[bph]
 	\centering
-	\includegraphics[width=.6\linewidth]{img/company/cmpnystngs}
+	\includegraphics[width=.7\linewidth]{img/company/ct1}
+	\caption{Company View All Task }
+\end{figure}
+\pagebreak
+\subsection {Company View Task Scores }
+Using this form company can view any candidate's task score who submit the task.
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth]{img/company/ct2}
+	\caption{Company View Task Scores }
+\end{figure}
+\pagebreak
+\subsection {Settings}
+ registered company can Change FullName or Password of Company and also Delete Account if needed.
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.6\linewidth]{img/company/changecmpnypassword}
 	\caption{Settings}
 \end{figure}
 \pagebreak
 \addcontentsline{toc}{section}{ - Admin}
 \subsection {Admin Homepage}
-Overview of Job Portal with Registered Companies, User, Job Post, etc.. 
+Overview of WorkLord with Registered Companies, User, Job Post, etc.. 
 \begin{figure}[bph]
 	\centering
 	\includegraphics[width=1\linewidth]{img/admin/admindash}
@@ -1287,7 +1408,7 @@ Overview of Job Portal with Registered Companies, User, Job Post, etc..
 \pagebreak
 
 \subsection {Active Jobs}
-Show active Jobs from Companies and manage them
+Admin can active or reject job vaccancies posted by different companies. 
 \begin{figure}[bph]
 	\centering
 	\includegraphics[width=.6\linewidth]{img/admin/adminavtvejobs}
@@ -1295,7 +1416,7 @@ Show active Jobs from Companies and manage them
 \end{figure}
 
 \subsection {Candidates}
-Show candidates details
+Show candidates details that are registered in the website and also can download the resume of each cadidates.
 \begin{figure}[bph]
 	\centering
 	\includegraphics[width=.6\linewidth]{img/admin/adminviewcandidts}
@@ -1304,82 +1425,137 @@ Show candidates details
 \pagebreak
 
 \subsection {Companies}
-Show company details and manage them
+Show company details that are registered in the website and also can approve or rejact the registration of each company.
 \begin{figure}[bph]
 	\centering
 	\includegraphics[width=.8\linewidth]{img/admin/adminviewcmpny}
 	\caption{Companies}
 \end{figure}
-
-\subsection {Exams}
-Show details of exams
+\pagebreak
+\subsection {Admin Exam Dashboard}
+Show details of exams.
 \begin{figure}[bph]
 	\centering
-	\includegraphics[width=.6\linewidth]{img/admin/adminexam}
-	\caption{Exams}
+	\includegraphics[width=.6\linewidth]{img/admin/overview}
+	\caption{Admin Exam Dashboard}
 \end{figure}
 \pagebreak
 
-\subsection {Add Exams}
-Add exams for users
+\subsection {Admin View  Exams}
+View alla exams created by admin.
 \begin{figure}[bph]
 	\centering
-	\includegraphics[width=.5\linewidth]{img/admin/adminaddtasks}
-	\caption{Add Exams}
+	\includegraphics[width=.5\linewidth]{img/admin/e1}
+	\caption{Admin View  Exams}
 \end{figure}
-
+\subsection {Admin Add Exams}
+Admin can create new exam with exam name,duration, terms and conditions and passmark.
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.5\linewidth]{img/admin/add_exam}
+	\caption{Admin Add Exams}
+\end{figure}
+\pagebreak
 \subsection {Add Questions}
 Add Questions for Exams
 \begin{figure}[bph]
 	\centering
-	\includegraphics[width=.5\linewidth]{img/admin/adminaddqstns}
+	\includegraphics[width=.5\linewidth]{img/admin/addexmqstn}
 	\caption{Add Questions}
 \end{figure}
 \pagebreak
-
-
-\subsection {View Scores}
-View Scores of Exams
+\subsection {View Exam  Questions}
+Using this form admin can view questions of each exams and also can upadate and delete questions.
 \begin{figure}[bph]
 	\centering
-	\includegraphics[width=.55\linewidth]{img/admin/adminviewscores}
-	\caption{View Scores}
+	\includegraphics[width=.5\linewidth]{img/admin/viweexmqstn}
+	\caption{View Exam  Questions}
 \end{figure}
 
-\subsection {Tasks}
-Show Tasks for users
+
+\pagebreak
+\subsection { View Tasks}
+View alla task created by admin.
 \begin{figure}[bph]
 	\centering
-	\includegraphics[width=.55\linewidth]{img/admin/admintasks}
-	\caption{Tasks}
+	\includegraphics[width=.55\linewidth]{img/admin/t1}
+	\caption{ View Tasks}
 \end{figure}
 \pagebreak
 
 \subsection {Add Tasks}
-Add New Tasks
+ Admin can create new tasks with task name,question, terms and conditions and passmark.
 \begin{figure}[bph]
 	\centering
-	\includegraphics[width=.6\linewidth]{img/admin/adminaddtasks}
+	\includegraphics[width=.6\linewidth]{img/admin/addtask}
 	\caption{Add Tasks}
 \end{figure}
-
-\subsection {View Scores}
-View Task Scores for Users
+\pagebreak
+\subsection {View Task Question}
+Using this form admin can view question of each task.
 \begin{figure}[bph]
 	\centering
-	\includegraphics[width=.6\linewidth]{img/admin/admintaskviewscores}
-	\caption{View Scores}
+	\includegraphics[width=.6\linewidth]{img/admin/viewtaskqstn}
+	\caption{View Task Question}
 \end{figure}
 \pagebreak
-
-\subsection {Task Review}
-Review tasks done by users
+\subsection { Admin View All Exam Scores}
+This form list all task created by admin.By selecting action admin can view candidate's  task score of each task. 
 \begin{figure}[bph]
 	\centering
-	\includegraphics[width=.8\linewidth]{img/admin/admintaskreview}
-	\caption{Task Review}
+	\includegraphics[width=.6\linewidth]{img/admin/adviewallxmrslt}
+	\caption{ Admin View All Exam Scores}
+\end{figure}
+\pagebreak
+\subsection { Admin View Particular Exam Scores}
+Admin can view scores of particular task submited by candidates. 
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.6\linewidth]{img/admin/adminviewrsltofparticlrxam}
+	\caption{Admin View Particular Exam Scores}
+\end{figure}
+\pagebreak
+\subsection { Admin View All Task Scores}
+This form list all task created by admin.By selecting action admin can view candidate's  task score of each task. 
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.6\linewidth]{img/admin/adviewalltskrslt}
+	\caption{Admin View All Task Scores}
+\end{figure}
+\pagebreak
+\subsection { Admin View Particular Task Scores}
+Admin can view scores of particular task submited by candidates. 
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.6\linewidth]{img/admin/adview_singletskrslt}
+	\caption{Admin View Particular Task Scores}
+\end{figure}
+\pagebreak
+\subsection { View Tasks For  Review}
+This form list all the tasks one by one created by admin.by selecting action admin can view list of candidates they submit particular task.
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.8\linewidth]{img/admin/rvwtask1}
+	\caption{T View Tasks For  Review}
 \end{figure}
 
 \pagebreak
+\subsection {   Review  Tasks}
+This form list all candidate they submit a particular task.from which admin can move to reviewing each task.
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.8\linewidth]{img/admin/rvwtsk2}
+	\caption{Review  Tasks}
+\end{figure}
 
+\pagebreak
+\subsection {  Enter Task Score}
+Admin can evaluate the task submited by candidates by evaluating the githublink and upload the score for their task using this form.This form also display task question and it's properties.
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.8\linewidth]{img/admin/rvwtsk3}
+	\caption{Enter Task Score}
+\end{figure}
+
+\pagebreak
 \end{document}
