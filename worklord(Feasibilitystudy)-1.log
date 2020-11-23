@@ -1,129 +1,137 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.8.14)  21 NOV 2020 13:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.18)  23 NOV 2020 14:54
 entering extended mode
 **./worklord(Feasibilitystudy)-1.tex
 (worklord(Feasibilitystudy)-1.tex
-LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-06-18>
-(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
-Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
-(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
-File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-10-27> xparse <2020-03-03>
+(C:\Users\Althaf\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\Althaf\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
-\c@part=\count167
-\c@chapter=\count168
-\c@section=\count169
-\c@subsection=\count170
-\c@subsubsection=\count171
-\c@paragraph=\count172
-\c@subparagraph=\count173
-\c@figure=\count174
-\c@table=\count175
+\c@part=\count175
+\c@chapter=\count176
+\c@section=\count177
+\c@subsection=\count178
+\c@subsubsection=\count179
+\c@paragraph=\count180
+\c@subparagraph=\count181
+\c@figure=\count182
+\c@table=\count183
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen134
+\bibindent=\dimen138
 )
-(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
-Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+(C:\Users\Althaf\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+(C:\Users\Althaf\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
 )
-(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
-Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+(C:\Users\Althaf\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+(C:\Users\Althaf\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+(C:\Users\Althaf\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.
+cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
-(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
-))
-\Gin@req@height=\dimen135
-\Gin@req@width=\dimen136
-) ("C:\Users\HP\Downloads\New folder\tex/latex/psnfss\times.sty"
-Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
-)
-("C:\Users\HP\Downloads\New folder\tex/latex/geometry\geometry.sty"
-Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(C:\Users\Althaf\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.de
+f
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+) (C:\Users\Althaf\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+) (C:\Users\Althaf\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.st
+y
+Package: geometry 2020/01/02 v5.9 Page Geometry
+(C:\Users\Althaf\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+(C:\Users\Althaf\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count176
-\Gm@cntv=\count177
-\c@Gm@tempcnt=\count178
-\Gm@bindingoffset=\dimen137
-\Gm@wd@mp=\dimen138
-\Gm@odd@mp=\dimen139
-\Gm@even@mp=\dimen140
-\Gm@layoutwidth=\dimen141
-\Gm@layoutheight=\dimen142
-\Gm@layouthoffset=\dimen143
-\Gm@layoutvoffset=\dimen144
+\Gm@cnth=\count184
+\Gm@cntv=\count185
+\c@Gm@tempcnt=\count186
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
 \Gm@dimlist=\toks16
 
-("C:\Users\HP\Downloads\New folder\tex/latex/geometry\geometry.cfg"))
-("C:\Users\HP\Downloads\New folder\tex/latex/multirow\multirow.sty"
+(C:\Users\Althaf\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)
+)
+(C:\Users\Althaf\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
 \multirow@colwidth=\skip49
-\multirow@cntb=\count179
+\multirow@cntb=\count187
 \multirow@dima=\skip50
-\bigstrutjot=\dimen145
-)
-("C:\Users\HP\Downloads\New folder\tex/latex/caption\caption.sty"
-Package: caption 2020/09/02 v3.5a Customizing captions (AR)
+\bigstrutjot=\dimen149
+) (C:\Users\Althaf\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
 
-("C:\Users\HP\Downloads\New folder\tex/latex/caption\caption3.sty"
-Package: caption3 2020/08/30 v2.0 caption3 kernel (AR)
-\captionmargin=\dimen146
-\captionmargin@=\dimen147
-\captionwidth=\dimen148
-\caption@tempdima=\dimen149
-\caption@indent=\dimen150
-\caption@parindent=\dimen151
-\caption@hangindent=\dimen152
+(C:\Users\Althaf\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen150
+\captionmargin@=\dimen151
+\captionwidth=\dimen152
+\caption@tempdima=\dimen153
+\caption@indent=\dimen154
+\caption@parindent=\dimen155
+\caption@hangindent=\dimen156
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count180
-\c@continuedfloat=\count181
+\c@caption@flags=\count188
+\c@continuedfloat=\count189
 )
-(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blindtext.sty
+(C:\Users\Althaf\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blindtext.st
+y
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
-
-(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
+ (C:\Users\Althaf\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count182
-\c@Blindtext=\count183
-\c@blind@countparstart=\count184
-\blind@countxx=\count185
-\blindtext@numBlindtext=\count186
-\blind@countyy=\count187
-\c@blindlist=\count188
-\c@blindlistlevel=\count189
-\c@blindlist@level=\count190
-\blind@listitem=\count191
-\c@blind@listcount=\count192
-\c@blind@levelcount=\count193
-\blind@mathformula=\count194
-\blind@Mathformula=\count195
-\c@blind@randomcount=\count196
-\c@blind@randommax=\count197
-\c@blind@pangramcount=\count198
-\c@blind@pangrammax=\count199
+\c@blindtext=\count190
+\c@Blindtext=\count191
+\c@blind@countparstart=\count192
+\blind@countxx=\count193
+\blindtext@numBlindtext=\count194
+\blind@countyy=\count195
+\c@blindlist=\count196
+\c@blindlistlevel=\count197
+\c@blindlist@level=\count198
+\blind@listitem=\count199
+\c@blind@listcount=\count266
+\c@blind@levelcount=\count267
+\blind@mathformula=\count268
+\blind@Mathformula=\count269
+\c@blind@randomcount=\count270
+\c@blind@randommax=\count271
+\c@blind@pangramcount=\count272
+\c@blind@pangrammax=\count273
 )
-(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdfmod
-e.def
-File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count266
-\l__pdf_internal_box=\box45
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 9
+.
+
+(C:\Users\Althaf\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(C:\Users\Althaf\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
+ftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count274
+\l__pdf_internal_box=\box47
 ) (worklord(Feasibilitystudy)-1.aux
 
 LaTeX Warning: Label `fig:ksblogo' multiply defined.
@@ -145,27 +153,24 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 9
-.
- ("C:\Users\HP\Downloads\New folder\tex/latex/psnfss\ot1ptm.fd"
-File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-)
-(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+
+(C:\Users\Althaf\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
+kii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count267
-\scratchdimen=\dimen153
-\scratchbox=\box46
-\nofMPsegments=\count268
-\nofMParguments=\count269
+\scratchcounter=\count275
+\scratchdimen=\dimen157
+\scratchbox=\box48
+\nofMPsegments=\count276
+\nofMParguments=\count277
 \everyMPshowfont=\toks17
-\MPscratchCnt=\count270
-\MPscratchDim=\dimen154
-\MPnumerator=\count271
-\makeMPintoPDFobject=\count272
+\MPscratchCnt=\count278
+\MPscratchDim=\dimen158
+\MPnumerator=\count279
+\makeMPintoPDFobject=\count280
 \everyMPtoPDFconversion=\toks18
 )
-(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base
-.sty
+(C:\Users\Althaf\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-
+base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
@@ -213,7 +218,7 @@ Package pdftex.def Info: kmct.png  used on input line 34.
 (pdftex.def)             Requested size: 131.08641pt x 128.20248pt.
 [1
 
-{C:/Users/HP/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./kmct.png>]
+{C:/Users/Althaf/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./kmct.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 58--68
 
  []
@@ -248,23 +253,23 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 1.
  [4
 
-] [5])
+] [5] [6])
 \tf@toc=\write3
 \openout3 = `worklord(Feasibilitystudy)-1.toc'.
 
- [6]
-(worklord(Feasibilitystudy)-1.lof [7
+ [7]
+(worklord(Feasibilitystudy)-1.lof [8
 
 ])
 \tf@lof=\write4
 \openout4 = `worklord(Feasibilitystudy)-1.lof'.
 
- [8] (worklord(Feasibilitystudy)-1.lot)
+ [9] (worklord(Feasibilitystudy)-1.lot)
 \tf@lot=\write5
 \openout5 = `worklord(Feasibilitystudy)-1.lot'.
 
 
-[9
+[10
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 143--146
@@ -276,7 +281,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 147--157
 
  []
 
-[10]
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 173--179
 
  []
@@ -291,7 +296,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 187--192
 
  []
 
-[11]
+[12]
 Chapter 1.
 
 Underfull \hbox (badness 10000) in paragraph at lines 198--199
@@ -308,7 +313,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 202--203
 
  []
 
-[12
+[13
 
 ]
 Chapter 2.
@@ -322,9 +327,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 224--225
 
  []
 
-[13
+[14
 
-] [14]
+] [15]
 Underfull \hbox (badness 10000) in paragraph at lines 234--235
 
  []
@@ -349,7 +354,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 238--239
 
  []
 
-[15]
+[16]
 Chapter 3.
 
 Underfull \hbox (badness 10000) in paragraph at lines 246--247
@@ -366,14 +371,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 251--253
 
  []
 
-[16
+[17
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 254--255
 
  []
 
-[17] [18] [19]
+[18] [19] [20]
 Underfull \hbox (badness 10000) in paragraph at lines 323--324
 
  []
@@ -443,24 +448,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 342--343
 
  []
 
-[20] [21]
+[21] [22]
 Chapter 4.
-[22
+[23
 
 ]
-<img/useractivity.png, id=76, 825.0825pt x 856.70062pt>
+<img/useractivity.png, id=79, 825.0825pt x 856.70062pt>
 File: img/useractivity.png Graphic file (type png)
 <use img/useractivity.png>
 Package pdftex.def Info: img/useractivity.png  used on input line 400.
 (pdftex.def)             Requested size: 346.89731pt x 360.1909pt.
- [23 <./img/useractivity.png>]
-<img/cmpnyactivity.png, id=82, 885.3075pt x 840.89156pt>
+ [24 <./img/useractivity.png>]
+<img/cmpnyactivity.png, id=85, 885.3075pt x 840.89156pt>
 File: img/cmpnyactivity.png Graphic file (type png)
 <use img/cmpnyactivity.png>
 Package pdftex.def Info: img/cmpnyactivity.png  used on input line 410.
 (pdftex.def)             Requested size: 346.89731pt x 329.49893pt.
- [24 <./img/cmpnyactivity.png>]
-<img/adminactivity.png, id=87, 895.09406pt x 698.61pt>
+ [25 <./img/cmpnyactivity.png>]
+<img/adminactivity.png, id=91, 895.09406pt x 698.61pt>
 File: img/adminactivity.png Graphic file (type png)
 <use img/adminactivity.png>
 Package pdftex.def Info: img/adminactivity.png  used on input line 421.
@@ -470,13 +475,13 @@ Overfull \hbox (43.36464pt too wide) in paragraph at lines 421--423
  [][] 
  []
 
-[25 <./img/adminactivity.png>]
-<img/use_case_diagram.png, id=93, 828.09375pt x 1084.80281pt>
+[26 <./img/adminactivity.png>]
+<img/use_case_diagram.png, id=96, 828.09375pt x 1084.80281pt>
 File: img/use_case_diagram.png Graphic file (type png)
 <use img/use_case_diagram.png>
 Package pdftex.def Info: img/use_case_diagram.png  used on input line 431.
 (pdftex.def)             Requested size: 303.53267pt x 397.62984pt.
- [26 <./img/use_case_diagram.png>]
+ [27 <./img/use_case_diagram.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 443--443
 []\OT1/ptm/m/n/12 User
  []
@@ -487,53 +492,43 @@ Underfull \hbox (badness 1112) in paragraph at lines 443--444
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 452--452
-[]\OT1/ptm/m/n/12 View jobs,Delete
+Underfull \hbox (badness 4378) in paragraph at lines 452--452
+[]\OT1/ptm/m/n/12 View jobs, Delete
+ []
+
+
+Underfull \hbox (badness 3271) in paragraph at lines 453--453
+[]\OT1/ptm/m/n/12 Search jobs, View
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 453--453
-[]\OT1/ptm/m/n/12 Search jobs,View
+\OT1/ptm/m/n/12 jobs, Ap-ply job,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 453--453
-[]\OT1/ptm/m/n/12 Search jobs,View
+Underfull \hbox (badness 6691) in paragraph at lines 453--453
+\OT1/ptm/m/n/12 View job ap-pli-ca-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 453--453
-\OT1/ptm/m/n/12 jobs,Apply job,View
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 455--455
-[]\OT1/ptm/m/n/12 View ap-pli-ca-
+Underfull \hbox (badness 1824) in paragraph at lines 453--453
+[]\OT1/ptm/m/n/12 Search jobs, View jobs,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 455--455
-\OT1/ptm/m/n/12 tions,Download
+[]\OT1/ptm/m/n/12 View ap-pli-ca-tions,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 455--455
-[]\OT1/ptm/m/n/12 View job ap-pli-ca-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 457--457
-[]\OT1/ptm/m/n/12 Create ex-ams,Add
- []
-
-
-Underfull \hbox (badness 2538) in paragraph at lines 457--457
-[]\OT1/ptm/m/n/12 Create ex-ams,Add ques-
+[]\OT1/ptm/m/n/12 View job ap-pli-ca-tions,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 462--462
-[]\OT1/ptm/m/n/12 View exam,task
+[]\OT1/ptm/m/n/12 View exam, task
  []
 
 
@@ -551,7 +546,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 466--466
 []\OT1/ptm/m/n/12 Update Pro-file,Change
  []
 
-[27]
+[28]
 Overfull \hbox (3.71504pt too wide) in paragraph at lines 478--478
  \OT1/ptm/b/n/12 STORY 
  []
@@ -666,7 +661,7 @@ Overfull \hbox (23.11124pt too wide) in paragraph at lines 475--513
  [] 
  []
 
-[28]
+[29]
 Overfull \hbox (3.71504pt too wide) in paragraph at lines 520--520
  \OT1/ptm/b/n/12 STORY 
  []
@@ -747,13 +742,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 537--537
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 539--539
-[]\OT1/ptm/m/n/12 Update Pro-
+Underfull \hbox (badness 5893) in paragraph at lines 539--539
+[]\OT1/ptm/m/n/12 Update Pro-file,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 539--539
-\OT1/ptm/m/n/12 file, Change
+\OT1/ptm/m/n/12 Change pass-
  []
 
 
@@ -761,7 +756,7 @@ Overfull \hbox (23.11124pt too wide) in paragraph at lines 517--541
  [] 
  []
 
-[29]
+[30]
 Underfull \hbox (badness 10000) in paragraph at lines 552--553
 []\OT1/ptm/b/n/12 START
  []
@@ -791,57 +786,57 @@ Underfull \hbox (badness 10000) in paragraph at lines 557--560
 \OT1/ptm/b/n/12 FILLED
  []
 
-[30]
-<img/sprint/sp1PLN.png, id=111, 449.68pt x 436.63126pt>
+[31]
+<img/sprint/sp1PLN.png, id=115, 449.68pt x 436.63126pt>
 File: img/sprint/sp1PLN.png Graphic file (type png)
 <use img/sprint/sp1PLN.png>
 Package pdftex.def Info: img/sprint/sp1PLN.png  used on input line 593.
 (pdftex.def)             Requested size: 433.62pt x 421.05338pt.
- [31 <./img/sprint/sp1PLN.png>]
-<img/sprint/SSPRINT2PLAN.png, id=117, 542.52687pt x 431.11063pt>
+ [32 <./img/sprint/sp1PLN.png>]
+<img/sprint/SSPRINT2PLAN.png, id=120, 542.52687pt x 431.11063pt>
 File: img/sprint/SSPRINT2PLAN.png Graphic file (type png)
 <use img/sprint/SSPRINT2PLAN.png>
 Package pdftex.def Info: img/sprint/SSPRINT2PLAN.png  used on input line 600.
 (pdftex.def)             Requested size: 433.62pt x 344.57977pt.
- [32 <./img/sprint/SSPRINT2PLAN.png>]
-<img/sprint/sp3p.png, id=122, 480.79625pt x 373.89688pt>
+ [33 <./img/sprint/SSPRINT2PLAN.png>]
+<img/sprint/sp3p.png, id=125, 480.79625pt x 373.89688pt>
 File: img/sprint/sp3p.png Graphic file (type png)
 <use img/sprint/sp3p.png>
 Package pdftex.def Info: img/sprint/sp3p.png  used on input line 607.
 (pdftex.def)             Requested size: 433.62pt x 337.21722pt.
 
-[33 <./img/sprint/sp3p.png>]
-<img/sprint/sp4p.png, id=127, 381.425pt x 402.50375pt>
+[34 <./img/sprint/sp3p.png>]
+<img/sprint/sp4p.png, id=130, 381.425pt x 402.50375pt>
 File: img/sprint/sp4p.png Graphic file (type png)
 <use img/sprint/sp4p.png>
 Package pdftex.def Info: img/sprint/sp4p.png  used on input line 614.
 (pdftex.def)             Requested size: 390.25534pt x 411.83815pt.
- [34 <./img/sprint/sp4p.png>]
-<img/sprint/sp1actual.png, id=132, 448.17438pt x 438.63875pt>
+ [35 <./img/sprint/sp4p.png>]
+<img/sprint/sp1actual.png, id=135, 448.17438pt x 438.63875pt>
 File: img/sprint/sp1actual.png Graphic file (type png)
 <use img/sprint/sp1actual.png>
 Package pdftex.def Info: img/sprint/sp1actual.png  used on input line 622.
 (pdftex.def)             Requested size: 390.25534pt x 381.96066pt.
- [35 <./img/sprint/sp1actual.png>]
-<img/sprint/SPRINT2ACTUAL.png, id=137, 542.52687pt x 432.61626pt>
+ [36 <./img/sprint/sp1actual.png>]
+<img/sprint/SPRINT2ACTUAL.png, id=140, 542.52687pt x 432.61626pt>
 File: img/sprint/SPRINT2ACTUAL.png Graphic file (type png)
 <use img/sprint/SPRINT2ACTUAL.png>
 Package pdftex.def Info: img/sprint/SPRINT2ACTUAL.png  used on input line 629.
 (pdftex.def)             Requested size: 390.25534pt x 311.20622pt.
- [36 <./img/sprint/SPRINT2ACTUAL.png>]
-<img/sprint/sp3a.png, id=142, 498.36188pt x 436.12938pt>
+ [37 <./img/sprint/SPRINT2ACTUAL.png>]
+<img/sprint/sp3a.png, id=146, 498.36188pt x 436.12938pt>
 File: img/sprint/sp3a.png Graphic file (type png)
 <use img/sprint/sp3a.png>
 Package pdftex.def Info: img/sprint/sp3a.png  used on input line 636.
 (pdftex.def)             Requested size: 390.25534pt x 341.53047pt.
- [37 <./img/sprint/sp3a.png>]
-<img/sprint/sp4a1.png, id=148, 503.38063pt x 416.05438pt>
+ [38 <./img/sprint/sp3a.png>]
+<img/sprint/sp4a1.png, id=151, 503.38063pt x 416.05438pt>
 File: img/sprint/sp4a1.png Graphic file (type png)
 <use img/sprint/sp4a1.png>
 Package pdftex.def Info: img/sprint/sp4a1.png  used on input line 643.
 (pdftex.def)             Requested size: 390.25534pt x 322.55309pt.
-[38 <./img/sprint/sp4a1.png>]
-<img/sprint/sp4a2.png, id=153, 268.50313pt x 221.82875pt>
+[39 <./img/sprint/sp4a1.png>]
+<img/sprint/sp4a2.png, id=156, 268.50313pt x 221.82875pt>
 File: img/sprint/sp4a2.png Graphic file (type png)
 <use img/sprint/sp4a2.png>
 Package pdftex.def Info: img/sprint/sp4a2.png  used on input line 649.
@@ -856,7 +851,7 @@ Overfull \hbox (24.71855pt too wide) in paragraph at lines 657--675
  [] 
  []
 
-[39 <./img/sprint/sp4a2.png>]
+[40 <./img/sprint/sp4a2.png>]
 Overfull \hbox (1.31693pt too wide) in paragraph at lines 687--687
 []\OT1/ptm/b/n/12 CONSTRAINTS| 
  []
@@ -866,7 +861,7 @@ Overfull \hbox (38.94493pt too wide) in paragraph at lines 681--706
  [] 
  []
 
-[40]
+[41]
 Overfull \hbox (1.31693pt too wide) in paragraph at lines 721--721
 []\OT1/ptm/b/n/12 CONSTRAINTS| 
  []
@@ -881,7 +876,7 @@ Overfull \hbox (38.94493pt too wide) in paragraph at lines 715--748
  [] 
  []
 
-[41]
+[42]
 Overfull \hbox (1.31693pt too wide) in paragraph at lines 762--762
 []\OT1/ptm/b/n/12 CONSTRAINTS| 
  []
@@ -911,7 +906,7 @@ Overfull \hbox (24.71855pt too wide) in paragraph at lines 804--822
  [] 
  []
 
-[42]
+[43]
 Overfull \hbox (3.43759pt too wide) in paragraph at lines 831--831
  []\OT1/ptm/b/n/12 No.| 
  []
@@ -936,7 +931,7 @@ Overfull \hbox (24.71855pt too wide) in paragraph at lines 856--875
  [] 
  []
 
-[43]
+[44]
 Overfull \hbox (1.31693pt too wide) in paragraph at lines 888--888
 []\OT1/ptm/b/n/12 CONSTRAINTS| 
  []
@@ -956,7 +951,7 @@ Overfull \hbox (24.71855pt too wide) in paragraph at lines 908--931
  [] 
  []
 
-[44]
+[45]
 Overfull \hbox (1.31693pt too wide) in paragraph at lines 947--947
 []\OT1/ptm/b/n/12 CONSTRAINTS| 
  []
@@ -976,7 +971,7 @@ Overfull \hbox (24.71855pt too wide) in paragraph at lines 966--983
  [] 
  []
 
-[45]
+[46]
 Overfull \hbox (1.31693pt too wide) in paragraph at lines 996--996
 []\OT1/ptm/b/n/12 CONSTRAINTS| 
  []
@@ -1006,7 +1001,7 @@ Overfull \hbox (24.71855pt too wide) in paragraph at lines 1017--1036
  [] 
  []
 
-[46]
+[47]
 Overfull \hbox (1.31693pt too wide) in paragraph at lines 1049--1049
 []\OT1/ptm/b/n/12 CONSTRAINTS| 
  []
@@ -1021,244 +1016,815 @@ Overfull \hbox (24.71855pt too wide) in paragraph at lines 1043--1062
  [] 
  []
 
-[47]
-<img/homepage.png, id=183, 782.925pt x 429.605pt>
+[48]
+<img/homepage.png, id=186, 782.925pt x 429.605pt>
 File: img/homepage.png Graphic file (type png)
 <use img/homepage.png>
 Package pdftex.def Info: img/homepage.png  used on input line 1073.
 (pdftex.def)             Requested size: 260.17464pt x 142.75992pt.
-<img/login.png, id=184, 344.03531pt x 274.02374pt>
+<img/login.png, id=187, 344.03531pt x 274.02374pt>
 File: img/login.png Graphic file (type png)
 <use img/login.png>
 Package pdftex.def Info: img/login.png  used on input line 1080.
 (pdftex.def)             Requested size: 173.44534pt x 138.14883pt.
- [48 <./img/homepage.png> <./img/login.png>]
-<img/searchjob.png, id=190, 464.4853pt x 313.9228pt>
+ [49 <./img/homepage.png> <./img/login.png>]
+<img/searchjob.png, id=194, 464.4853pt x 313.9228pt>
 File: img/searchjob.png Graphic file (type png)
 <use img/searchjob.png>
 Package pdftex.def Info: img/searchjob.png  used on input line 1089.
 (pdftex.def)             Requested size: 281.85034pt x 190.4915pt.
-<img/searchjobapply.png, id=191, 465.99094pt x 313.9228pt>
+<img/searchjobapply.png, id=195, 465.99094pt x 313.9228pt>
 File: img/searchjobapply.png Graphic file (type png)
 <use img/searchjobapply.png>
 Package pdftex.def Info: img/searchjobapply.png  used on input line 1096.
 (pdftex.def)             Requested size: 260.17464pt x 175.27823pt.
- [49 <./img/searchjob.png> <./img/searchjobapply.png>]
-<img/notification.png, id=198, 379.4175pt x 206.27063pt>
+ [50 <./img/searchjob.png> <./img/searchjobapply.png>]
+<img/notification.png, id=201, 379.4175pt x 206.27063pt>
 File: img/notification.png Graphic file (type png)
 <use img/notification.png>
 Package pdftex.def Info: img/notification.png  used on input line 1105.
 (pdftex.def)             Requested size: 303.53267pt x 165.01985pt.
-<img/view_notifctn.png, id=199, 384.6872pt x 244.66406pt>
+<img/view_notifctn.png, id=202, 384.6872pt x 244.66406pt>
 File: img/view_notifctn.png Graphic file (type png)
 <use img/view_notifctn.png>
 Package pdftex.def Info: img/view_notifctn.png  used on input line 1114.
 (pdftex.def)             Requested size: 303.53267pt x 193.06221pt.
- [50 <./img/notification.png> <./img/view_notifctn.png>]
-<img/create_msg.png, id=205, 377.15906pt x 242.40562pt>
+ [51 <./img/notification.png> <./img/view_notifctn.png>]
+<img/create_msg.png, id=208, 377.15906pt x 242.40562pt>
 File: img/create_msg.png Graphic file (type png)
 <use img/create_msg.png>
 Package pdftex.def Info: img/create_msg.png  used on input line 1123.
 (pdftex.def)             Requested size: 216.81pt x 139.34515pt.
-<img/user/user_registration.png, id=206, 804.00375pt x 663.47874pt>
+<img/user/user_registration.png, id=209, 804.00375pt x 663.47874pt>
 File: img/user/user_registration.png Graphic file (type png)
 <use img/user/user_registration.png>
 Package pdftex.def Info: img/user/user_registration.png  used on input line 113
 1.
 (pdftex.def)             Requested size: 260.17464pt x 214.69664pt.
-[51 <./img/create_msg.png> <./img/user/user_registration.png>]
-<img/user/userhompage.png, id=212, 526.21594pt x 356.0803pt>
+[52 <./img/create_msg.png> <./img/user/user_registration.png>]
+<img/user/userhompage.png, id=215, 526.21594pt x 356.0803pt>
 File: img/user/userhompage.png Graphic file (type png)
 <use img/user/userhompage.png>
 Package pdftex.def Info: img/user/userhompage.png  used on input line 1140.
 (pdftex.def)             Requested size: 346.89731pt x 234.7475pt.
-<img/user/useraplictns.png, id=213, 526.21594pt x 216.05719pt>
+<img/user/useraplictns.png, id=216, 526.21594pt x 216.05719pt>
 File: img/user/useraplictns.png Graphic file (type png)
 <use img/user/useraplictns.png>
 Package pdftex.def Info: img/user/useraplictns.png  used on input line 1147.
 (pdftex.def)             Requested size: 303.53267pt x 124.63081pt.
- [52 <./img/user/userhompage.png> <./img/user/useraplictns.png>]
-<img/user/userupdate.png, id=219, 593.96906pt x 460.72125pt>
+ [53 <./img/user/userhompage.png> <./img/user/useraplictns.png>]
+<img/user/userupdate.png, id=222, 593.96906pt x 460.72125pt>
 File: img/user/userupdate.png Graphic file (type png)
 <use img/user/userupdate.png>
 Package pdftex.def Info: img/user/userupdate.png  used on input line 1155.
 (pdftex.def)             Requested size: 303.53267pt x 235.4498pt.
-<img/user/userexm.png, id=220, 335.75438pt x 213.04594pt>
+<img/user/userexm.png, id=223, 335.75438pt x 213.04594pt>
 File: img/user/userexm.png Graphic file (type png)
 <use img/user/userexm.png>
 Package pdftex.def Info: img/user/userexm.png  used on input line 1163.
 (pdftex.def)             Requested size: 173.44534pt x 110.05634pt.
- [53 <./img/user/userupdate.png> <./img/user/userexm.png>]
-<img/user/usertasks.png, id=226, 339.51843pt x 211.54031pt>
+ [54 <./img/user/userupdate.png> <./img/user/userexm.png>]
+<img/user/usertasks.png, id=229, 339.51843pt x 211.54031pt>
 File: img/user/usertasks.png Graphic file (type png)
 <use img/user/usertasks.png>
 Package pdftex.def Info: img/user/usertasks.png  used on input line 1172.
 (pdftex.def)             Requested size: 260.17464pt x 162.11185pt.
-<img/user/userviewscr.png, id=227, 386.94562pt x 283.0575pt>
+<img/user/userviewscr.png, id=230, 386.94562pt x 283.0575pt>
 File: img/user/userviewscr.png Graphic file (type png)
 <use img/user/userviewscr.png>
 Package pdftex.def Info: img/user/userviewscr.png  used on input line 1180.
 (pdftex.def)             Requested size: 260.17464pt x 190.32562pt.
- [54 <./img/user/usertasks.png> <./img/user/userviewscr.png>]
-<img/user/userstings.png, id=233, 449.42906pt x 216.05719pt>
+ [55 <./img/user/usertasks.png> <./img/user/userviewscr.png>]
+<img/user/userstings.png, id=237, 449.42906pt x 216.05719pt>
 File: img/user/userstings.png Graphic file (type png)
 <use img/user/userstings.png>
 Package pdftex.def Info: img/user/userstings.png  used on input line 1190.
 (pdftex.def)             Requested size: 260.17464pt x 125.07916pt.
-<img/company/company_registration.png, id=234, 565.36218pt x 372.64218pt>
+<img/company/company_registration.png, id=238, 565.36218pt x 372.64218pt>
 File: img/company/company_registration.png Graphic file (type png)
 <use img/company/company_registration.png>
 Package pdftex.def Info: img/company/company_registration.png  used on input li
 ne 1199.
 (pdftex.def)             Requested size: 346.89731pt x 228.6533pt.
- [55 <./img/user/userstings.png> <./img/company/company_registration.png>]
-<img/company/company_home_page.png, id=241, 816.04875pt x 498.86375pt>
+ [56 <./img/user/userstings.png> <./img/company/company_registration.png>]
+<img/company/company_home_page.png, id=244, 816.04875pt x 498.86375pt>
 File: img/company/company_home_page.png Graphic file (type png)
 <use img/company/company_home_page.png>
 Package pdftex.def Info: img/company/company_home_page.png  used on input line 
 1207.
 (pdftex.def)             Requested size: 433.62pt x 265.0816pt.
- [56 <./img/company/company_home_page.png>]
-<img/company/cmpnyprflupdt.png, id=246, 548.80031pt x 339.51843pt>
+ [57 <./img/company/company_home_page.png>]
+<img/company/cmpnyprflupdt.png, id=249, 548.80031pt x 339.51843pt>
 File: img/company/cmpnyprflupdt.png Graphic file (type png)
 <use img/company/cmpnyprflupdt.png>
 Package pdftex.def Info: img/company/cmpnyprflupdt.png  used on input line 1216
 .
 (pdftex.def)             Requested size: 260.17464pt x 160.96208pt.
-<img/company/createpostjob.png, id=247, 486.31688pt x 341.02406pt>
+<img/company/createpostjob.png, id=250, 486.31688pt x 341.02406pt>
 File: img/company/createpostjob.png Graphic file (type png)
 <use img/company/createpostjob.png>
 Package pdftex.def Info: img/company/createpostjob.png  used on input line 1224
 .
 (pdftex.def)             Requested size: 260.17464pt x 182.44347pt.
- [57 <./img/company/cmpnyprflupdt.png> <./img/company/createpostjob.png>]
-<img/company/postedjobs.png, id=253, 380.17032pt x 228.10219pt>
+ [58 <./img/company/cmpnyprflupdt.png> <./img/company/createpostjob.png>]
+<img/company/postedjobs.png, id=256, 380.17032pt x 228.10219pt>
 File: img/company/postedjobs.png Graphic file (type png)
 <use img/company/postedjobs.png>
 Package pdftex.def Info: img/company/postedjobs.png  used on input line 1232.
 (pdftex.def)             Requested size: 260.17464pt x 156.10982pt.
-<img/company/jobapltns.png, id=254, 342.5297pt x 222.8325pt>
+<img/company/jobapltns.png, id=257, 342.5297pt x 222.8325pt>
 File: img/company/jobapltns.png Graphic file (type png)
 <use img/company/jobapltns.png>
 Package pdftex.def Info: img/company/jobapltns.png  used on input line 1240.
 (pdftex.def)             Requested size: 303.53267pt x 197.47707pt.
- [58 <./img/company/postedjobs.png> <./img/company/jobapltns.png>]
-<img/company/dwnldresm.png, id=260, 439.6425pt x 292.09125pt>
+ [59 <./img/company/postedjobs.png> <./img/company/jobapltns.png>]
+<img/company/dwnldresm.png, id=263, 439.6425pt x 292.09125pt>
 File: img/company/dwnldresm.png Graphic file (type png)
 <use img/company/dwnldresm.png>
 Package pdftex.def Info: img/company/dwnldresm.png  used on input line 1249.
 (pdftex.def)             Requested size: 303.53267pt x 201.66795pt.
-<img/company/cmpnyviewexmscr.png, id=261, 377.91188pt x 223.58531pt>
+<img/company/cmpnyviewexmscr.png, id=264, 377.91188pt x 223.58531pt>
 File: img/company/cmpnyviewexmscr.png Graphic file (type png)
 <use img/company/cmpnyviewexmscr.png>
 Package pdftex.def Info: img/company/cmpnyviewexmscr.png  used on input line 12
 57.
 (pdftex.def)             Requested size: 260.17464pt x 153.92944pt.
- [59 <./img/company/dwnldresm.png> <./img/company/cmpnyviewexmscr.png>]
-<img/company/cmpnytaskviewscr.png, id=267, 381.67593pt x 228.855pt>
+ [60 <./img/company/dwnldresm.png> <./img/company/cmpnyviewexmscr.png>]
+<img/company/cmpnytaskviewscr.png, id=270, 381.67593pt x 228.855pt>
 File: img/company/cmpnytaskviewscr.png Graphic file (type png)
 <use img/company/cmpnytaskviewscr.png>
 Package pdftex.def Info: img/company/cmpnytaskviewscr.png  used on input line 1
 265.
 (pdftex.def)             Requested size: 303.53267pt x 182.00868pt.
-<img/company/cmpnystngs.png, id=268, 451.6875pt x 298.86656pt>
+<img/company/cmpnystngs.png, id=271, 451.6875pt x 298.86656pt>
 File: img/company/cmpnystngs.png Graphic file (type png)
 <use img/company/cmpnystngs.png>
 Package pdftex.def Info: img/company/cmpnystngs.png  used on input line 1273.
 (pdftex.def)             Requested size: 260.17464pt x 172.15703pt.
- [60 <./img/company/cmpnytaskviewscr.png> <./img/company/cmpnystngs.png>]
-<img/admin/admindash.png, id=274, 769.87625pt x 498.86375pt>
+ [61 <./img/company/cmpnytaskviewscr.png> <./img/company/cmpnystngs.png>]
+<img/admin/admindash.png, id=278, 769.87625pt x 498.86375pt>
 File: img/admin/admindash.png Graphic file (type png)
 <use img/admin/admindash.png>
 Package pdftex.def Info: img/admin/admindash.png  used on input line 1282.
 (pdftex.def)             Requested size: 433.62pt x 280.98315pt.
- [61 <./img/admin/admindash.png>]
-<img/admin/adminavtvejobs.png, id=280, 417.81094pt x 274.77657pt>
+ [62 <./img/admin/admindash.png>]
+<img/admin/adminavtvejobs.png, id=283, 417.81094pt x 274.77657pt>
 File: img/admin/adminavtvejobs.png Graphic file (type png)
 <use img/admin/adminavtvejobs.png>
 Package pdftex.def Info: img/admin/adminavtvejobs.png  used on input line 1293.
 
 (pdftex.def)             Requested size: 260.17464pt x 171.1144pt.
-<img/admin/adminviewcandidts.png, id=281, 442.65375pt x 293.59688pt>
+<img/admin/adminviewcandidts.png, id=284, 442.65375pt x 293.59688pt>
 File: img/admin/adminviewcandidts.png Graphic file (type png)
 <use img/admin/adminviewcandidts.png>
 Package pdftex.def Info: img/admin/adminviewcandidts.png  used on input line 13
 01.
 (pdftex.def)             Requested size: 260.17464pt x 172.57553pt.
- [62 <./img/admin/adminavtvejobs.png> <./img/admin/adminviewcandidts.png>]
-<img/admin/adminviewcmpny.png, id=287, 516.42938pt x 228.855pt>
+ [63 <./img/admin/adminavtvejobs.png> <./img/admin/adminviewcandidts.png>]
+<img/admin/adminviewcmpny.png, id=290, 516.42938pt x 228.855pt>
 File: img/admin/adminviewcmpny.png Graphic file (type png)
 <use img/admin/adminviewcmpny.png>
 Package pdftex.def Info: img/admin/adminviewcmpny.png  used on input line 1310.
 
 (pdftex.def)             Requested size: 346.89731pt x 153.73013pt.
-<img/admin/adminexam.png, id=288, 369.63094pt x 272.51813pt>
+<img/admin/adminexam.png, id=291, 369.63094pt x 272.51813pt>
 File: img/admin/adminexam.png Graphic file (type png)
 <use img/admin/adminexam.png>
 Package pdftex.def Info: img/admin/adminexam.png  used on input line 1318.
 (pdftex.def)             Requested size: 260.17464pt x 191.82175pt.
- [63 <./img/admin/adminviewcmpny.png> <./img/admin/adminexam.png>]
-<img/admin/adminaddtasks.png, id=294, 395.22656pt x 233.37187pt>
+ [64 <./img/admin/adminviewcmpny.png> <./img/admin/adminexam.png>]
+<img/admin/adminaddtasks.png, id=297, 395.22656pt x 233.37187pt>
 File: img/admin/adminaddtasks.png Graphic file (type png)
 <use img/admin/adminaddtasks.png>
 Package pdftex.def Info: img/admin/adminaddtasks.png  used on input line 1327.
 (pdftex.def)             Requested size: 216.81pt x 128.02019pt.
-<img/admin/adminaddqstns.png, id=295, 393.72093pt x 410.2828pt>
+<img/admin/adminaddqstns.png, id=298, 393.72093pt x 410.2828pt>
 File: img/admin/adminaddqstns.png Graphic file (type png)
 <use img/admin/adminaddqstns.png>
 Package pdftex.def Info: img/admin/adminaddqstns.png  used on input line 1335.
 (pdftex.def)             Requested size: 216.81pt x 225.92543pt.
- [64 <./img/admin/adminaddtasks.png> <./img/admin/adminaddqstns.png>]
-<img/admin/adminviewscores.png, id=301, 369.63094pt x 278.54062pt>
+ [65 <./img/admin/adminaddtasks.png> <./img/admin/adminaddqstns.png>]
+<img/admin/adminviewscores.png, id=304, 369.63094pt x 278.54062pt>
 File: img/admin/adminviewscores.png Graphic file (type png)
 <use img/admin/adminviewscores.png>
 Package pdftex.def Info: img/admin/adminviewscores.png  used on input line 1345
 .
 (pdftex.def)             Requested size: 238.49231pt x 179.71895pt.
-<img/admin/admintasks.png, id=302, 365.86688pt x 274.77657pt>
+<img/admin/admintasks.png, id=305, 365.86688pt x 274.77657pt>
 File: img/admin/admintasks.png Graphic file (type png)
 <use img/admin/admintasks.png>
 Package pdftex.def Info: img/admin/admintasks.png  used on input line 1353.
 (pdftex.def)             Requested size: 238.49231pt x 179.11415pt.
- [65 <./img/admin/adminviewscores.png> <./img/admin/admintasks.png>]
+ [66 <./img/admin/adminviewscores.png> <./img/admin/admintasks.png>]
 File: img/admin/adminaddtasks.png Graphic file (type png)
 <use img/admin/adminaddtasks.png>
 Package pdftex.def Info: img/admin/adminaddtasks.png  used on input line 1362.
 (pdftex.def)             Requested size: 260.17464pt x 153.62708pt.
-<img/admin/admintaskviewscores.png, id=308, 368.1253pt x 275.52937pt>
+<img/admin/admintaskviewscores.png, id=311, 368.1253pt x 275.52937pt>
 File: img/admin/admintaskviewscores.png Graphic file (type png)
 <use img/admin/admintaskviewscores.png>
 Package pdftex.def Info: img/admin/admintaskviewscores.png  used on input line 
 1370.
 (pdftex.def)             Requested size: 260.17464pt x 194.74432pt.
- [66 <./img/admin/admintaskviewscores.png>]
-<img/admin/admintaskreview.png, id=313, 371.13657pt x 272.51813pt>
+ [67 <./img/admin/admintaskviewscores.png>]
+<img/admin/admintaskreview.png, id=317, 371.13657pt x 272.51813pt>
 File: img/admin/admintaskreview.png Graphic file (type png)
 <use img/admin/admintaskreview.png>
 Package pdftex.def Info: img/admin/admintaskreview.png  used on input line 1379
 .
 (pdftex.def)             Requested size: 346.89731pt x 254.72414pt.
- [67 <./img/admin/admintaskreview.png>] (worklord(Feasibilitystudy)-1.aux)
+ [68 <./img/admin/admintaskreview.png>]
+Chapter 5.
+
+Overfull \hbox (3.43759pt too wide) in paragraph at lines 1393--1393
+ []\OT1/ptm/b/n/12 No.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1401--1403
+[]\OT1/ptm/m/n/12 Admin/ Com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1403--1403
+[]\OT1/ptm/m/n/12 Admin/ Com-
+ []
+
+
+Overfull \hbox (1.58171pt too wide) in paragraph at lines 1404--1404
+[]\OT1/ptm/m/n/12 Registration| 
+ []
+
+
+Underfull \hbox (badness 3138) in paragraph at lines 1404--1404
+\OT1/ptm/m/n/12 dates should be
+ []
+
+
+Underfull \hbox (badness 6157) in paragraph at lines 1404--1404
+\OT1/ptm/m/n/12 able to reg-is-ter
+ []
+
+
+Underfull \hbox (badness 3138) in paragraph at lines 1404--1404
+\OT1/ptm/m/n/12 dates should be
+ []
+
+
+Underfull \hbox (badness 6157) in paragraph at lines 1404--1404
+\OT1/ptm/m/n/12 able to reg-is-ter
+ []
+
+
+Underfull \hbox (badness 1199) in paragraph at lines 1405--1405
+\OT1/ptm/m/n/12 tem can able to
+ []
+
+
+Underfull \hbox (badness 1199) in paragraph at lines 1405--1405
+\OT1/ptm/m/n/12 tem can able to
+ []
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 1406--1406
+[]\OT1/ptm/m/n/12 View com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1406--1406
+\OT1/ptm/m/n/12 the com-pa-nies
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1406--1406
+\OT1/ptm/m/n/12 reg-is-ter in the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1406--1406
+\OT1/ptm/m/n/12 the com-pa-nies
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1406--1406
+\OT1/ptm/m/n/12 reg-is-ter in the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1407--1407
+[]\OT1/ptm/m/n/12 Approve/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1407--1407
+\OT1/ptm/m/n/12 Dis-ap-prove
+ []
+
+
+Underfull \hbox (badness 5924) in paragraph at lines 1407--1407
+[]\OT1/ptm/m/n/12 Admin can ap-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1407--1407
+\OT1/ptm/m/n/12 re-ac-ti-vate com-
+ []
+
+
+Underfull \hbox (badness 5924) in paragraph at lines 1407--1407
+[]\OT1/ptm/m/n/12 Admin can ap-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1407--1407
+\OT1/ptm/m/n/12 re-ac-ti-vate com-
+ []
+
+[69
+
+]
+Overfull \hbox (3.43759pt too wide) in paragraph at lines 1420--1420
+ []\OT1/ptm/b/n/12 No.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1428--1429
+[]\OT1/ptm/m/n/12 Employer can
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1428--1429
+\OT1/ptm/m/n/12 post job va-
+ []
+
+
+Underfull \hbox (badness 4391) in paragraph at lines 1428--1429
+\OT1/ptm/m/n/12 can-cies in their
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1429--1429
+[]\OT1/ptm/m/n/12 Employer can
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1429--1429
+\OT1/ptm/m/n/12 post job va-
+ []
+
+
+Underfull \hbox (badness 4391) in paragraph at lines 1429--1429
+\OT1/ptm/m/n/12 can-cies in their
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1431--1431
+[]\OT1/ptm/m/n/12 View and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1431--1431
+\OT1/ptm/m/n/12 and delete job
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1431--1431
+\OT1/ptm/m/n/12 and delete job
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1433--1433
+[]\OT1/ptm/m/n/12 Search,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1433--1433
+\OT1/ptm/m/n/12 jobs and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1433--1433
+\OT1/ptm/m/n/12 view ap-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1433--1433
+\OT1/ptm/m/n/12 plied job
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1433--1433
+\OT1/ptm/m/n/12 ap-pli-ca-
+ []
+
+
+Underfull \hbox (badness 2221) in paragraph at lines 1433--1433
+[]\OT1/ptm/m/n/12 Users can view,
+ []
+
+
+Underfull \hbox (badness 2221) in paragraph at lines 1433--1433
+[]\OT1/ptm/m/n/12 Users can view,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1435--1435
+[]\OT1/ptm/m/n/12 View
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1435--1435
+[]\OT1/ptm/m/n/12 Companies can
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 1435--1435
+\OT1/ptm/m/n/12 view and delete
+ []
+
+
+Underfull \hbox (badness 2617) in paragraph at lines 1435--1435
+\OT1/ptm/m/n/12 their posted job
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1435--1435
+[]\OT1/ptm/m/n/12 Companies can
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 1435--1435
+\OT1/ptm/m/n/12 view and delete
+ []
+
+
+Underfull \hbox (badness 2617) in paragraph at lines 1435--1435
+\OT1/ptm/m/n/12 their posted job
+ []
+
+[70]
+Overfull \hbox (3.43759pt too wide) in paragraph at lines 1448--1448
+ []\OT1/ptm/b/n/12 No.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1456--1456
+[]\OT1/ptm/m/n/12 View Job
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1456--1456
+\OT1/ptm/m/n/12 Ap-pli-ca-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1456--1456
+\OT1/ptm/m/n/12 tions And
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1456--1456
+\OT1/ptm/m/n/12 Down-load
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1456--1457
+[]\OT1/ptm/m/n/12 Employer can
+ []
+
+
+Underfull \hbox (badness 4699) in paragraph at lines 1456--1457
+\OT1/ptm/m/n/12 view job ap-pli-
+ []
+
+
+Underfull \hbox (badness 5924) in paragraph at lines 1456--1457
+\OT1/ptm/m/n/12 ca-tion for their
+ []
+
+
+Underfull \hbox (badness 1406) in paragraph at lines 1456--1457
+\OT1/ptm/m/n/12 job post ap-plied
+ []
+
+
+Underfull \hbox (badness 1412) in paragraph at lines 1456--1457
+\OT1/ptm/m/n/12 di-dates and also
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1456--1457
+\OT1/ptm/m/n/12 em-ployer can
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1456--1457
+\OT1/ptm/m/n/12 down-load their
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1457--1457
+[]\OT1/ptm/m/n/12 Employer can
+ []
+
+
+Underfull \hbox (badness 4699) in paragraph at lines 1457--1457
+\OT1/ptm/m/n/12 view job ap-pli-
+ []
+
+
+Underfull \hbox (badness 5924) in paragraph at lines 1457--1457
+\OT1/ptm/m/n/12 ca-tion for their
+ []
+
+
+Underfull \hbox (badness 1406) in paragraph at lines 1457--1457
+\OT1/ptm/m/n/12 job post ap-plied
+ []
+
+
+Underfull \hbox (badness 1412) in paragraph at lines 1457--1457
+\OT1/ptm/m/n/12 di-dates and also
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1457--1457
+\OT1/ptm/m/n/12 em-ployer can
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1457--1457
+\OT1/ptm/m/n/12 down-load their
+ []
+
+
+Underfull \hbox (badness 2486) in paragraph at lines 1459--1459
+[]\OT1/ptm/m/n/12 Create Ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
+\OT1/ptm/m/n/12 tions and also
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
+\OT1/ptm/m/n/12 man-age cre-ated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
+\OT1/ptm/m/n/12 tions and also
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
+\OT1/ptm/m/n/12 man-age cre-ated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
+[]\OT1/ptm/m/n/12 Create
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
+\OT1/ptm/m/n/12 tions and also
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
+\OT1/ptm/m/n/12 man-age cre-ated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
+\OT1/ptm/m/n/12 tions and also
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
+\OT1/ptm/m/n/12 man-age cre-ated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1463--1463
+[]\OT1/ptm/m/n/12 Attend
+ []
+
+
+Underfull \hbox (badness 2635) in paragraph at lines 1463--1463
+[]\OT1/ptm/m/n/12 User can at-tend
+ []
+
+
+Underfull \hbox (badness 2635) in paragraph at lines 1463--1463
+[]\OT1/ptm/m/n/12 User can at-tend
+ []
+
+[71]
+Overfull \hbox (3.43759pt too wide) in paragraph at lines 1476--1476
+ []\OT1/ptm/b/n/12 No.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+[]\OT1/ptm/m/n/12 View can-
+ []
+
+
+Underfull \hbox (badness 2452) in paragraph at lines 1484--1484
+\OT1/ptm/m/n/12 reg-is-tered can-di-
+ []
+
+
+Underfull \hbox (badness 2452) in paragraph at lines 1484--1484
+\OT1/ptm/m/n/12 reg-is-tered can-di-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1486--1486
+[]\OT1/ptm/m/n/12 Attend
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1488--1488
+[]\OT1/ptm/m/n/12 View
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1488--1488
+\OT1/ptm/m/n/12 Scores,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1488--1488
+\OT1/ptm/m/n/12 Re-view
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1488--1488
+[]\OT1/ptm/m/n/12 Admin/ user/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1488--1488
+\OT1/ptm/m/n/12 com-pany can
+ []
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 1488--1488
+\OT1/ptm/m/n/12 view can-di-date's
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1488--1488
+\OT1/ptm/m/n/12 exam and task
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1488--1488
+[]\OT1/ptm/m/n/12 Admin/ user/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1488--1488
+\OT1/ptm/m/n/12 com-pany can
+ []
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 1488--1488
+\OT1/ptm/m/n/12 view can-di-date's
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1488--1488
+\OT1/ptm/m/n/12 exam and task
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1490--1490
+[]\OT1/ptm/m/n/12 Send/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1490--1490
+\OT1/ptm/m/n/12 Re-ceive
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1490--1490
+[]\OT1/ptm/m/n/12 user/ com-pany
+ []
+
+
+Underfull \hbox (badness 1888) in paragraph at lines 1490--1490
+\OT1/ptm/m/n/12 can send or re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1490--1490
+[]\OT1/ptm/m/n/12 user/ com-pany
+ []
+
+
+Underfull \hbox (badness 1888) in paragraph at lines 1490--1490
+\OT1/ptm/m/n/12 can send or re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1492--1492
+[]\OT1/ptm/m/n/12 Update
+ []
+
+
+Underfull \hbox (badness 2469) in paragraph at lines 1492--1492
+\OT1/ptm/m/n/12 pro-file and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1492--1492
+\OT1/ptm/m/n/12 change
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1492--1492
+[]\OT1/ptm/m/n/12 User/ com-pany
+ []
+
+
+Underfull \hbox (badness 1412) in paragraph at lines 1492--1492
+\OT1/ptm/m/n/12 can up-date their
+ []
+
+
+Underfull \hbox (badness 5924) in paragraph at lines 1492--1492
+\OT1/ptm/m/n/12 pro-file and can
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1492--1492
+[]\OT1/ptm/m/n/12 User/ com-pany
+ []
+
+
+Underfull \hbox (badness 1412) in paragraph at lines 1492--1492
+\OT1/ptm/m/n/12 can up-date their
+ []
+
+
+Underfull \hbox (badness 5924) in paragraph at lines 1492--1492
+\OT1/ptm/m/n/12 pro-file and can
+ []
+
+[72]
+Underfull \hbox (badness 10000) in paragraph at lines 1501--1505
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1506--1507
+
+ []
+
+[73]
+Chapter 6.
+[74
+
+]
+Chapter 7.
+[75
+
+]
+Chapter 8.
+[76
+
+]
+Chapter 9.
+[77
+
+] (worklord(Feasibilitystudy)-1.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3609 strings out of 480790
- 63737 string characters out of 2898708
- 309763 words of memory out of 3000000
- 19552 multiletter control sequences out of 15000+200000
- 547953 words of font info for 50 fonts, out of 3000000 for 9000
+ 3678 strings out of 479799
+ 65906 string characters out of 2869247
+ 357076 words of memory out of 3000000
+ 20601 multiletter control sequences out of 15000+200000
+ 550703 words of font info for 55 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,9n,43p,1628b,306s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Us
-ers/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
-<C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:
-/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Us
-ers/HP/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on worklord(Feasibilitystudy)-1.pdf (67 pages, 1020211 bytes).
+ 66i,9n,72p,1628b,308s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Althaf/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C
+:/Users/Althaf/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmm
+i12.pfb><C:/Users/Althaf/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/ut
+mb8a.pfb><C:/Users/Althaf/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/u
+tmr8a.pfb><C:/Users/Althaf/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/
+utmri8a.pfb>
+Output written on worklord(Feasibilitystudy)-1.pdf (77 pages, 1031174 bytes).
 PDF statistics:
- 336 PDF objects out of 1000 (max. 8388607)
+ 368 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  251 words of extra memory for PDF output out of 10000 (max. 10000000)
 

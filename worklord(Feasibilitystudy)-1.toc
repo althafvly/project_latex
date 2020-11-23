@@ -1,102 +1,116 @@
-\contentsline {section}{LIST OF FIGURES}{7}%
-\contentsline {section}{LIST OF TABLES}{9}%
-\contentsline {section}{ABSTRACT}{11}%
-\contentsline {chapter}{\numberline {1}INTRODUCTION}{12}%
-\contentsline {chapter}{\numberline {2}LITERATURE SURVEY}{13}%
-\contentsline {subsection}{\numberline {2.0.1}Job Procurement}{13}%
-\contentsline {subsection}{\numberline {2.0.2}Importance of Job Portals}{14}%
-\contentsline {subsection}{\numberline {2.0.3}Features of Job Portals}{14}%
-\contentsline {subsection}{\numberline {2.0.4}References}{15}%
-\contentsline {chapter}{\numberline {3}SYSTEM ANALYSIS}{16}%
-\contentsline {section}{\numberline {3.1}Existing system}{16}%
-\contentsline {section}{\numberline {3.2}Proposed system}{17}%
-\contentsline {section}{\numberline {3.3}Module Description}{18}%
-\contentsline {subsection}{\numberline {3.3.1}User}{18}%
-\contentsline {subsection}{\numberline {3.3.2}Company}{18}%
-\contentsline {subsection}{\numberline {3.3.3}Admin}{18}%
-\contentsline {section}{\numberline {3.4}Feasibility Study}{19}%
-\contentsline {subsection}{\numberline {3.4.1}Operational Feasibility}{19}%
-\contentsline {subsection}{\numberline {3.4.2}Technical Feasibility}{19}%
-\contentsline {subsection}{\numberline {3.4.3}Economic Feasibility}{19}%
-\contentsline {section}{\numberline {3.5}System Environment}{20}%
-\contentsline {subsection}{\numberline {3.5.1}Minimum Requirements (User)}{20}%
-\contentsline {subsection}{\numberline {3.5.2}Minimum Requirements (Developer)}{20}%
-\contentsline {section}{\numberline {3.6}Actor and Their Roles}{21}%
-\contentsline {subsection}{\numberline {3.6.1}User}{21}%
-\contentsline {subsection}{\numberline {3.6.2}Company}{21}%
-\contentsline {subsection}{\numberline {3.6.3}Admin}{21}%
-\contentsline {chapter}{\numberline {4}METHODOLOGY}{22}%
-\contentsline {section}{\numberline {4.1}Introduction}{22}%
-\contentsline {section}{\numberline {4.2}UML Diagrams}{23}%
-\contentsline {subsection}{\numberline {4.2.1}Activity Diagram}{23}%
-\contentsline {subsection}{\numberline {4.2.2}UseCase Diagrams}{26}%
-\contentsline {section}{\numberline {4.3}User Story}{27}%
-\contentsline {section}{\numberline {4.4} Product Backlog}{28}%
-\contentsline {section}{\numberline {4.5}Project Plan}{30}%
-\contentsline {section}{\numberline {4.6}Sprint Backlog Planned}{31}%
-\contentsline {subsection}{\numberline {4.6.1}Sprint 1}{31}%
-\contentsline {subsection}{\numberline {4.6.2}Sprint 2}{32}%
-\contentsline {subsection}{\numberline {4.6.3}Sprint 3}{33}%
-\contentsline {subsection}{\numberline {4.6.4}Sprint 4}{34}%
-\contentsline {section}{\numberline {4.7}Sprint Backlog Actual}{35}%
-\contentsline {subsection}{\numberline {4.7.1}Sprint 1}{35}%
-\contentsline {subsection}{\numberline {4.7.2}Sprint 2}{36}%
-\contentsline {subsection}{\numberline {4.7.3}Sprint 3}{37}%
-\contentsline {subsection}{\numberline {4.7.4}Sprint 4}{38}%
-\contentsline {section}{\numberline {4.8}Database Design}{39}%
-\contentsline {subsection}{\numberline {4.8.1}Login Table}{39}%
-\contentsline {subsection}{\numberline {4.8.2}Company Table}{40}%
-\contentsline {subsection}{\numberline {4.8.3}User Table}{41}%
-\contentsline {subsection}{\numberline {4.8.4}Countries Table}{42}%
-\contentsline {subsection}{\numberline {4.8.5}States Table}{42}%
-\contentsline {subsection}{\numberline {4.8.6}Cities Table}{42}%
-\contentsline {subsection}{\numberline {4.8.7}Job Post Table}{43}%
-\contentsline {subsection}{\numberline {4.8.8}Job Apply Table}{43}%
-\contentsline {subsection}{\numberline {4.8.9}Exams Table}{44}%
-\contentsline {subsection}{\numberline {4.8.10}Exam Questions Table}{44}%
-\contentsline {subsection}{\numberline {4.8.11}Assessment Record Table}{45}%
-\contentsline {subsection}{\numberline {4.8.12}Task Table}{45}%
-\contentsline {subsection}{\numberline {4.8.13}Task Submit Table}{46}%
-\contentsline {subsection}{\numberline {4.8.14}MailBox}{46}%
-\contentsline {subsection}{\numberline {4.8.15}Reply MailBox}{47}%
-\contentsline {section}{\numberline {4.9}User Interface Design}{48}%
-\contentsline {subsection}{\numberline {4.9.1}Homepage}{48}%
-\contentsline {subsection}{\numberline {4.9.2}Login}{48}%
-\contentsline {subsection}{\numberline {4.9.3}Job Search}{49}%
-\contentsline {subsection}{\numberline {4.9.4}Jobs}{49}%
-\contentsline {subsection}{\numberline {4.9.5}Mailbox}{50}%
-\contentsline {subsection}{\numberline {4.9.6}View Mailbox}{50}%
-\contentsline {subsection}{\numberline {4.9.7}Compose Message}{51}%
-\contentsline {section}{ - User}{51}%
-\contentsline {subsection}{\numberline {4.9.8}User Registration}{51}%
-\contentsline {subsection}{\numberline {4.9.9}Dashboard}{52}%
-\contentsline {subsection}{\numberline {4.9.10}My Applications}{52}%
-\contentsline {subsection}{\numberline {4.9.11}Update Profile}{53}%
-\contentsline {subsection}{\numberline {4.9.12}Exams}{53}%
-\contentsline {subsection}{\numberline {4.9.13}Tasks}{54}%
-\contentsline {subsection}{\numberline {4.9.14}Results}{54}%
-\contentsline {subsection}{\numberline {4.9.15}Settings}{55}%
-\contentsline {section}{ - Company}{55}%
-\contentsline {subsection}{\numberline {4.9.16}Company Registration}{55}%
-\contentsline {subsection}{\numberline {4.9.17}Dashboard}{56}%
-\contentsline {subsection}{\numberline {4.9.18}Edit Profile}{57}%
-\contentsline {subsection}{\numberline {4.9.19}Create Job Post}{57}%
-\contentsline {subsection}{\numberline {4.9.20}Job Posts}{58}%
-\contentsline {subsection}{\numberline {4.9.21}Job Applications}{58}%
-\contentsline {subsection}{\numberline {4.9.22}Download Resumes}{59}%
-\contentsline {subsection}{\numberline {4.9.23}Exam Scores}{59}%
-\contentsline {subsection}{\numberline {4.9.24}Task Scores}{60}%
-\contentsline {subsection}{\numberline {4.9.25}Settings}{60}%
-\contentsline {section}{ - Admin}{60}%
-\contentsline {subsection}{\numberline {4.9.26}Admin Homepage}{61}%
-\contentsline {subsection}{\numberline {4.9.27}Active Jobs}{62}%
-\contentsline {subsection}{\numberline {4.9.28}Candidates}{62}%
-\contentsline {subsection}{\numberline {4.9.29}Companies}{63}%
-\contentsline {subsection}{\numberline {4.9.30}Exams}{63}%
-\contentsline {subsection}{\numberline {4.9.31}Add Exams}{64}%
-\contentsline {subsection}{\numberline {4.9.32}Add Questions}{64}%
-\contentsline {subsection}{\numberline {4.9.33}View Scores}{65}%
-\contentsline {subsection}{\numberline {4.9.34}Tasks}{65}%
-\contentsline {subsection}{\numberline {4.9.35}Add Tasks}{66}%
-\contentsline {subsection}{\numberline {4.9.36}View Scores}{66}%
-\contentsline {subsection}{\numberline {4.9.37}Task Review}{67}%
+\contentsline {section}{LIST OF FIGURES}{8}{}%
+\contentsline {section}{LIST OF TABLES}{10}{}%
+\contentsline {section}{ABSTRACT}{12}{}%
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{13}{}%
+\contentsline {chapter}{\numberline {2}LITERATURE SURVEY}{14}{}%
+\contentsline {subsection}{\numberline {2.0.1}Job Procurement}{14}{}%
+\contentsline {subsection}{\numberline {2.0.2}Importance of Job Portals}{15}{}%
+\contentsline {subsection}{\numberline {2.0.3}Features of Job Portals}{15}{}%
+\contentsline {subsection}{\numberline {2.0.4}References}{16}{}%
+\contentsline {chapter}{\numberline {3}SYSTEM ANALYSIS}{17}{}%
+\contentsline {section}{\numberline {3.1}Existing system}{17}{}%
+\contentsline {section}{\numberline {3.2}Proposed system}{18}{}%
+\contentsline {section}{\numberline {3.3}Module Description}{19}{}%
+\contentsline {subsection}{\numberline {3.3.1}User}{19}{}%
+\contentsline {subsection}{\numberline {3.3.2}Company}{19}{}%
+\contentsline {subsection}{\numberline {3.3.3}Admin}{19}{}%
+\contentsline {section}{\numberline {3.4}Feasibility Study}{20}{}%
+\contentsline {subsection}{\numberline {3.4.1}Operational Feasibility}{20}{}%
+\contentsline {subsection}{\numberline {3.4.2}Technical Feasibility}{20}{}%
+\contentsline {subsection}{\numberline {3.4.3}Economic Feasibility}{20}{}%
+\contentsline {section}{\numberline {3.5}System Environment}{21}{}%
+\contentsline {subsection}{\numberline {3.5.1}Minimum Requirements (User)}{21}{}%
+\contentsline {subsection}{\numberline {3.5.2}Minimum Requirements (Developer)}{21}{}%
+\contentsline {section}{\numberline {3.6}Actor and Their Roles}{22}{}%
+\contentsline {subsection}{\numberline {3.6.1}User}{22}{}%
+\contentsline {subsection}{\numberline {3.6.2}Company}{22}{}%
+\contentsline {subsection}{\numberline {3.6.3}Admin}{22}{}%
+\contentsline {chapter}{\numberline {4}METHODOLOGY}{23}{}%
+\contentsline {section}{\numberline {4.1}Introduction}{23}{}%
+\contentsline {section}{\numberline {4.2}UML Diagrams}{24}{}%
+\contentsline {subsection}{\numberline {4.2.1}Activity Diagram}{24}{}%
+\contentsline {subsection}{\numberline {4.2.2}UseCase Diagrams}{27}{}%
+\contentsline {section}{\numberline {4.3}User Story}{28}{}%
+\contentsline {section}{\numberline {4.4} Product Backlog}{29}{}%
+\contentsline {section}{\numberline {4.5}Project Plan}{31}{}%
+\contentsline {section}{\numberline {4.6}Sprint Backlog Planned}{32}{}%
+\contentsline {subsection}{\numberline {4.6.1}Sprint 1}{32}{}%
+\contentsline {subsection}{\numberline {4.6.2}Sprint 2}{33}{}%
+\contentsline {subsection}{\numberline {4.6.3}Sprint 3}{34}{}%
+\contentsline {subsection}{\numberline {4.6.4}Sprint 4}{35}{}%
+\contentsline {section}{\numberline {4.7}Sprint Backlog Actual}{36}{}%
+\contentsline {subsection}{\numberline {4.7.1}Sprint 1}{36}{}%
+\contentsline {subsection}{\numberline {4.7.2}Sprint 2}{37}{}%
+\contentsline {subsection}{\numberline {4.7.3}Sprint 3}{38}{}%
+\contentsline {subsection}{\numberline {4.7.4}Sprint 4}{39}{}%
+\contentsline {section}{\numberline {4.8}Database Design}{40}{}%
+\contentsline {subsection}{\numberline {4.8.1}Login Table}{40}{}%
+\contentsline {subsection}{\numberline {4.8.2}Company Table}{41}{}%
+\contentsline {subsection}{\numberline {4.8.3}User Table}{42}{}%
+\contentsline {subsection}{\numberline {4.8.4}Countries Table}{43}{}%
+\contentsline {subsection}{\numberline {4.8.5}States Table}{43}{}%
+\contentsline {subsection}{\numberline {4.8.6}Cities Table}{43}{}%
+\contentsline {subsection}{\numberline {4.8.7}Job Post Table}{44}{}%
+\contentsline {subsection}{\numberline {4.8.8}Job Apply Table}{44}{}%
+\contentsline {subsection}{\numberline {4.8.9}Exams Table}{45}{}%
+\contentsline {subsection}{\numberline {4.8.10}Exam Questions Table}{45}{}%
+\contentsline {subsection}{\numberline {4.8.11}Assessment Record Table}{46}{}%
+\contentsline {subsection}{\numberline {4.8.12}Task Table}{46}{}%
+\contentsline {subsection}{\numberline {4.8.13}Task Submit Table}{47}{}%
+\contentsline {subsection}{\numberline {4.8.14}MailBox}{47}{}%
+\contentsline {subsection}{\numberline {4.8.15}Reply MailBox}{48}{}%
+\contentsline {section}{\numberline {4.9}User Interface Design}{49}{}%
+\contentsline {subsection}{\numberline {4.9.1}Homepage}{49}{}%
+\contentsline {subsection}{\numberline {4.9.2}Login}{49}{}%
+\contentsline {subsection}{\numberline {4.9.3}Job Search}{50}{}%
+\contentsline {subsection}{\numberline {4.9.4}Jobs}{50}{}%
+\contentsline {subsection}{\numberline {4.9.5}Mailbox}{51}{}%
+\contentsline {subsection}{\numberline {4.9.6}View Mailbox}{51}{}%
+\contentsline {subsection}{\numberline {4.9.7}Compose Message}{52}{}%
+\contentsline {section}{ - User}{52}{}%
+\contentsline {subsection}{\numberline {4.9.8}User Registration}{52}{}%
+\contentsline {subsection}{\numberline {4.9.9}Dashboard}{53}{}%
+\contentsline {subsection}{\numberline {4.9.10}My Applications}{53}{}%
+\contentsline {subsection}{\numberline {4.9.11}Update Profile}{54}{}%
+\contentsline {subsection}{\numberline {4.9.12}Exams}{54}{}%
+\contentsline {subsection}{\numberline {4.9.13}Tasks}{55}{}%
+\contentsline {subsection}{\numberline {4.9.14}Results}{55}{}%
+\contentsline {subsection}{\numberline {4.9.15}Settings}{56}{}%
+\contentsline {section}{ - Company}{56}{}%
+\contentsline {subsection}{\numberline {4.9.16}Company Registration}{56}{}%
+\contentsline {subsection}{\numberline {4.9.17}Dashboard}{57}{}%
+\contentsline {subsection}{\numberline {4.9.18}Edit Profile}{58}{}%
+\contentsline {subsection}{\numberline {4.9.19}Create Job Post}{58}{}%
+\contentsline {subsection}{\numberline {4.9.20}Job Posts}{59}{}%
+\contentsline {subsection}{\numberline {4.9.21}Job Applications}{59}{}%
+\contentsline {subsection}{\numberline {4.9.22}Download Resumes}{60}{}%
+\contentsline {subsection}{\numberline {4.9.23}Exam Scores}{60}{}%
+\contentsline {subsection}{\numberline {4.9.24}Task Scores}{61}{}%
+\contentsline {subsection}{\numberline {4.9.25}Settings}{61}{}%
+\contentsline {section}{ - Admin}{61}{}%
+\contentsline {subsection}{\numberline {4.9.26}Admin Homepage}{62}{}%
+\contentsline {subsection}{\numberline {4.9.27}Active Jobs}{63}{}%
+\contentsline {subsection}{\numberline {4.9.28}Candidates}{63}{}%
+\contentsline {subsection}{\numberline {4.9.29}Companies}{64}{}%
+\contentsline {subsection}{\numberline {4.9.30}Exams}{64}{}%
+\contentsline {subsection}{\numberline {4.9.31}Add Exams}{65}{}%
+\contentsline {subsection}{\numberline {4.9.32}Add Questions}{65}{}%
+\contentsline {subsection}{\numberline {4.9.33}View Scores}{66}{}%
+\contentsline {subsection}{\numberline {4.9.34}Tasks}{66}{}%
+\contentsline {subsection}{\numberline {4.9.35}Add Tasks}{67}{}%
+\contentsline {subsection}{\numberline {4.9.36}View Scores}{67}{}%
+\contentsline {subsection}{\numberline {4.9.37}Task Review}{68}{}%
+\contentsline {chapter}{\numberline {5}TESTING AND IMPLEMENTATION}{69}{}%
+\contentsline {section}{\numberline {5.1}Testing}{69}{}%
+\contentsline {subsection}{\numberline {5.1.1}Test Case - 1 }{69}{}%
+\contentsline {subsection}{\numberline {5.1.2}Test Case - 2 }{70}{}%
+\contentsline {subsection}{\numberline {5.1.3}Test Case - 3 }{71}{}%
+\contentsline {subsection}{\numberline {5.1.4}Test Case - 4 }{72}{}%
+\contentsline {section}{\numberline {5.2}Implementation}{73}{}%
+\contentsline {chapter}{\numberline {6}RESULTS AND DISCUSSION}{74}{}%
+\contentsline {chapter}{\numberline {7}CONCLUSION}{75}{}%
+\contentsline {chapter}{\numberline {8}REFERENCES}{76}{}%
+\contentsline {chapter}{\numberline {9}APPENDIX}{77}{}%
+\contentsline {section}{\numberline {9.1}Source Code}{77}{}%
+\contentsline {section}{\numberline {9.2}Screenshots}{77}{}%
+\contentsline {section}{\numberline {9.3}Git History}{77}{}%
