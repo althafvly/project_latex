@@ -132,4 +132,4 @@
 \contentsline {chapter}{\numberline {9}APPENDIX}{84}{}%
 \contentsline {section}{\numberline {9.1}Source Code}{84}{}%
 \contentsline {section}{\numberline {9.2}Screenshots}{84}{}%
-\contentsline {section}{\numberline {9.3}Git History}{84}{}%
+\contentsline {section}{\numberline {9.3}Git History}{85}{}%

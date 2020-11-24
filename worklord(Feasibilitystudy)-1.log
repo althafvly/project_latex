@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.18)  24 NOV 2020 10:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.18)  24 NOV 2020 16:32
 entering extended mode
 **./worklord(Feasibilitystudy)-1.tex
 (worklord(Feasibilitystudy)-1.tex
@@ -1027,16 +1027,16 @@ File: img/login.png Graphic file (type png)
 Package pdftex.def Info: img/login.png  used on input line 1161.
 (pdftex.def)             Requested size: 173.44534pt x 138.14883pt.
  [38 <./pencil/homepage.png> <./img/login.png>]
-<img/usersearchjob.png, id=197, 1156.32pt x 749.80125pt>
+<img/usersearchjob.png, id=197, 706.13812pt x 478.78876pt>
 File: img/usersearchjob.png Graphic file (type png)
 <use img/usersearchjob.png>
 Package pdftex.def Info: img/usersearchjob.png  used on input line 1170.
-(pdftex.def)             Requested size: 281.85034pt x 182.75902pt.
-<img/user/userappyjob.png, id=198, 1156.32pt x 749.80125pt>
+(pdftex.def)             Requested size: 281.85034pt x 191.10298pt.
+<img/user/userappyjob.png, id=198, 706.89093pt x 479.54156pt>
 File: img/user/userappyjob.png Graphic file (type png)
 <use img/user/userappyjob.png>
 Package pdftex.def Info: img/user/userappyjob.png  used on input line 1177.
-(pdftex.def)             Requested size: 260.17464pt x 168.698pt.
+(pdftex.def)             Requested size: 260.17464pt x 176.4983pt.
  [39 <./img/usersearchjob.png> <./img/user/userappyjob.png>]
 <img/notification.png, id=204, 379.4175pt x 206.27063pt>
 File: img/notification.png Graphic file (type png)
@@ -1061,11 +1061,11 @@ Package pdftex.def Info: img/user/user_registration.png  used on input line 121
 2.
 (pdftex.def)             Requested size: 260.17464pt x 214.69664pt.
  [41 <./img/create_msg.png> <./img/user/user_registration.png>]
-<img/user/userhme.png, id=218, 1385.175pt x 1053.9375pt>
+<img/user/userhme.png, id=218, 795.72281pt x 547.2947pt>
 File: img/user/userhme.png Graphic file (type png)
 <use img/user/userhme.png>
 Package pdftex.def Info: img/user/userhme.png  used on input line 1221.
-(pdftex.def)             Requested size: 346.89731pt x 263.93402pt.
+(pdftex.def)             Requested size: 346.89731pt x 238.58904pt.
 
 [42 <./img/user/userhme.png>]
 <img/user/useraplictns.png, id=223, 526.21594pt x 216.05719pt>
@@ -1078,53 +1078,53 @@ File: img/user/userupdate.png Graphic file (type png)
 <use img/user/userupdate.png>
 Package pdftex.def Info: img/user/userupdate.png  used on input line 1237.
 (pdftex.def)             Requested size: 303.53267pt x 235.4498pt.
-<img/user/userexamoverview.png, id=225, 1505.625pt x 1505.625pt>
+<img/user/userexamoverview.png, id=225, 875.52094pt x 441.14813pt>
 File: img/user/userexamoverview.png Graphic file (type png)
 <use img/user/userexamoverview.png>
 Package pdftex.def Info: img/user/userexamoverview.png  used on input line 1245
 .
-(pdftex.def)             Requested size: 173.44534pt x 173.4304pt.
+(pdftex.def)             Requested size: 173.44534pt x 87.39337pt.
  [43 <./img/user/useraplictns.png> <./img/user/userupdate.png>]
-<img/user/useviewexamlist.png, id=232, 1505.625pt x 1505.625pt>
+<img/user/useviewexamlist.png, id=232, 730.22812pt x 449.42906pt>
 File: img/user/useviewexamlist.png Graphic file (type png)
 <use img/user/useviewexamlist.png>
 Package pdftex.def Info: img/user/useviewexamlist.png  used on input line 1252.
 
-(pdftex.def)             Requested size: 173.44534pt x 173.4304pt.
+(pdftex.def)             Requested size: 173.44534pt x 106.74736pt.
  [44 <./img/user/userexamoverview.png> <./img/user/useviewexamlist.png>]
 <img/user/examassessmnt.png, id=238, 386.44376pt x 230.8625pt>
 File: img/user/examassessmnt.png Graphic file (type png)
 <use img/user/examassessmnt.png>
 Package pdftex.def Info: img/user/examassessmnt.png  used on input line 1260.
 (pdftex.def)             Requested size: 173.44534pt x 103.6159pt.
-<img/user/attendexam.png, id=239, 1505.625pt x 1505.625pt>
+<img/user/attendexam.png, id=239, 733.99219pt x 451.6875pt>
 File: img/user/attendexam.png Graphic file (type png)
 <use img/user/attendexam.png>
 Package pdftex.def Info: img/user/attendexam.png  used on input line 1267.
-(pdftex.def)             Requested size: 173.44534pt x 173.4304pt.
+(pdftex.def)             Requested size: 173.44534pt x 106.7324pt.
  [45 <./img/user/examassessmnt.png> <./img/user/attendexam.png>]
-<img/user/userviewtask.png, id=245, 1165.35374pt x 749.80125pt>
+<img/user/userviewtask.png, id=245, 731.73375pt x 435.87843pt>
 File: img/user/userviewtask.png Graphic file (type png)
 <use img/user/userviewtask.png>
 Package pdftex.def Info: img/user/userviewtask.png  used on input line 1275.
-(pdftex.def)             Requested size: 260.17464pt x 167.39372pt.
+(pdftex.def)             Requested size: 260.17464pt x 154.98068pt.
  [46 <./img/user/userviewtask.png>]
-<img/user/takeassessment.png, id=250, 1505.625pt x 1505.625pt>
+<img/user/takeassessment.png, id=250, 731.73375pt x 435.12563pt>
 File: img/user/takeassessment.png Graphic file (type png)
 <use img/user/takeassessment.png>
 Package pdftex.def Info: img/user/takeassessment.png  used on input line 1283.
-(pdftex.def)             Requested size: 260.17464pt x 260.1571pt.
+(pdftex.def)             Requested size: 260.17464pt x 154.71301pt.
  [47 <./img/user/takeassessment.png>]
-<img/user/usrexmrslt.png, id=255, 1165.35374pt x 749.80125pt>
+<img/user/usrexmrslt.png, id=255, 728.7225pt x 442.65375pt>
 File: img/user/usrexmrslt.png Graphic file (type png)
 <use img/user/usrexmrslt.png>
 Package pdftex.def Info: img/user/usrexmrslt.png  used on input line 1291.
-(pdftex.def)             Requested size: 260.17464pt x 167.39372pt.
-<img/user/usrtskrslt.png, id=256, 1165.35374pt x 749.80125pt>
+(pdftex.def)             Requested size: 260.17464pt x 158.03812pt.
+<img/user/usrtskrslt.png, id=256, 725.71124pt x 439.6425pt>
 File: img/user/usrtskrslt.png Graphic file (type png)
 <use img/user/usrtskrslt.png>
 Package pdftex.def Info: img/user/usrtskrslt.png  used on input line 1298.
-(pdftex.def)             Requested size: 260.17464pt x 167.39372pt.
+(pdftex.def)             Requested size: 260.17464pt x 157.62045pt.
  [48 <./img/user/usrexmrslt.png> <./img/user/usrtskrslt.png>]
 <img/user/changeuserpassword.png, id=262, 398.99063pt x 194.22563pt>
 File: img/user/changeuserpassword.png Graphic file (type png)
@@ -1140,68 +1140,68 @@ ne 1317.
 (pdftex.def)             Requested size: 346.89731pt x 228.6533pt.
  [49 <./img/user/changeuserpassword.png> <./img/company/company_registration.pn
 g>]
-<img/company/untitled_page.png, id=270, 1225.57875pt x 749.80125pt>
+<img/company/untitled_page.png, id=270, 884.55469pt x 483.30562pt>
 File: img/company/untitled_page.png Graphic file (type png)
 <use img/company/untitled_page.png>
 Package pdftex.def Info: img/company/untitled_page.png  used on input line 1325
 .
-(pdftex.def)             Requested size: 433.62pt x 265.28319pt.
+(pdftex.def)             Requested size: 433.62pt x 236.92506pt.
  [50 <./img/company/untitled_page.png>]
-<img/company/cmpnyprflupdt.png, id=275, 1225.57875pt x 749.80125pt>
+<img/company/cmpnyprflupdt.png, id=275, 832.61063pt x 514.17094pt>
 File: img/company/cmpnyprflupdt.png Graphic file (type png)
 <use img/company/cmpnyprflupdt.png>
 Package pdftex.def Info: img/company/cmpnyprflupdt.png  used on input line 1334
 .
-(pdftex.def)             Requested size: 260.17464pt x 159.16762pt.
-<img/company/postjob.png, id=276, 1225.57875pt x 749.80125pt>
+(pdftex.def)             Requested size: 260.17464pt x 160.67018pt.
+<img/company/postjob.png, id=276, 736.25063pt x 522.45187pt>
 File: img/company/postjob.png Graphic file (type png)
 <use img/company/postjob.png>
 Package pdftex.def Info: img/company/postjob.png  used on input line 1342.
-(pdftex.def)             Requested size: 260.17464pt x 159.16762pt.
+(pdftex.def)             Requested size: 260.17464pt x 184.6227pt.
  [51 <./img/company/cmpnyprflupdt.png> <./img/company/postjob.png>]
-<img/company/postedjobs.png, id=282, 1156.32pt x 749.80125pt>
+<img/company/postedjobs.png, id=282, 575.90157pt x 348.55219pt>
 File: img/company/postedjobs.png Graphic file (type png)
 <use img/company/postedjobs.png>
 Package pdftex.def Info: img/company/postedjobs.png  used on input line 1350.
-(pdftex.def)             Requested size: 260.17464pt x 168.698pt.
-<img/company/jobapltns.png, id=283, 1156.32pt x 749.80125pt>
+(pdftex.def)             Requested size: 260.17464pt x 157.46928pt.
+<img/company/jobapltns.png, id=283, 516.42938pt x 333.49594pt>
 File: img/company/jobapltns.png Graphic file (type png)
 <use img/company/jobapltns.png>
 Package pdftex.def Info: img/company/jobapltns.png  used on input line 1358.
-(pdftex.def)             Requested size: 303.53267pt x 196.82005pt.
+(pdftex.def)             Requested size: 303.53267pt x 196.01793pt.
 
 [52 <./img/company/postedjobs.png> <./img/company/jobapltns.png>]
-<img/company/download_resume.png, id=289, 1081.03876pt x 749.80125pt>
+<img/company/download_resume.png, id=289, 520.19344pt x 341.77687pt>
 File: img/company/download_resume.png Graphic file (type png)
 <use img/company/download_resume.png>
 Package pdftex.def Info: img/company/download_resume.png  used on input line 13
 67.
-(pdftex.def)             Requested size: 303.53267pt x 210.52641pt.
+(pdftex.def)             Requested size: 303.53267pt x 199.42497pt.
  [53 <./img/company/download_resume.png>]
-<img/company/ce1.png, id=294, 1165.35374pt x 749.80125pt>
+<img/company/ce1.png, id=294, 727.21687pt x 438.13687pt>
 File: img/company/ce1.png Graphic file (type png)
 <use img/company/ce1.png>
 Package pdftex.def Info: img/company/ce1.png  used on input line 1375.
-(pdftex.def)             Requested size: 260.17464pt x 167.39372pt.
+(pdftex.def)             Requested size: 260.17464pt x 156.75307pt.
  [54 <./img/company/ce1.png>]
-<img/company/cmpnyviewsinlexmrslt.png, id=299, 1505.625pt x 1505.625pt>
+<img/company/cmpnyviewsinlexmrslt.png, id=299, 737.00343pt x 453.94594pt>
 File: img/company/cmpnyviewsinlexmrslt.png Graphic file (type png)
 <use img/company/cmpnyviewsinlexmrslt.png>
 Package pdftex.def Info: img/company/cmpnyviewsinlexmrslt.png  used on input li
 ne 1383.
-(pdftex.def)             Requested size: 260.17464pt x 260.1571pt.
+(pdftex.def)             Requested size: 260.17464pt x 160.248pt.
  [55 <./img/company/cmpnyviewsinlexmrslt.png>]
-<img/company/ct1.png, id=305, 1505.625pt x 1505.625pt>
+<img/company/ct1.png, id=305, 727.96968pt x 441.90094pt>
 File: img/company/ct1.png Graphic file (type png)
 <use img/company/ct1.png>
 Package pdftex.def Info: img/company/ct1.png  used on input line 1391.
-(pdftex.def)             Requested size: 303.53267pt x 303.53194pt.
+(pdftex.def)             Requested size: 303.53267pt x 184.2553pt.
  [56 <./img/company/ct1.png>]
-<img/company/ct2.png, id=310, 1505.625pt x 1505.625pt>
+<img/company/ct2.png, id=310, 731.73375pt x 449.42906pt>
 File: img/company/ct2.png Graphic file (type png)
 <use img/company/ct2.png>
 Package pdftex.def Info: img/company/ct2.png  used on input line 1399.
-(pdftex.def)             Requested size: 303.53267pt x 303.53194pt.
+(pdftex.def)             Requested size: 303.53267pt x 186.42728pt.
  [57 <./img/company/ct2.png>]
 <img/company/changecmpnypassword.png, id=315, 403.00563pt x 263.98625pt>
 File: img/company/changecmpnypassword.png Graphic file (type png)
@@ -1237,99 +1237,99 @@ Package pdftex.def Info: img/admin/adminviewcmpny.png  used on input line 1444.
 (pdftex.def)             Requested size: 346.89731pt x 153.73013pt.
 
 [61 <./img/admin/adminviewcmpny.png>]
-<img/admin/overview.png, id=338, 1505.625pt x 1505.625pt>
+<img/admin/overview.png, id=338, 872.50969pt x 429.10312pt>
 File: img/admin/overview.png Graphic file (type png)
 <use img/admin/overview.png>
 Package pdftex.def Info: img/admin/overview.png  used on input line 1452.
-(pdftex.def)             Requested size: 260.17464pt x 260.1571pt.
+(pdftex.def)             Requested size: 260.17464pt x 127.95276pt.
  [62 <./img/admin/overview.png>]
-<img/admin/e1.png, id=343, 1081.03876pt x 749.80125pt>
+<img/admin/e1.png, id=343, 731.73375pt x 442.65375pt>
 File: img/admin/e1.png Graphic file (type png)
 <use img/admin/e1.png>
 Package pdftex.def Info: img/admin/e1.png  used on input line 1461.
-(pdftex.def)             Requested size: 216.81pt x 150.36946pt.
-<img/admin/add_exam.png, id=344, 1081.03876pt x 749.80125pt>
+(pdftex.def)             Requested size: 216.81pt x 131.15584pt.
+<img/admin/add_exam.png, id=344, 731.73375pt x 532.99126pt>
 File: img/admin/add_exam.png Graphic file (type png)
 <use img/admin/add_exam.png>
 Package pdftex.def Info: img/admin/add_exam.png  used on input line 1468.
-(pdftex.def)             Requested size: 216.81pt x 150.36946pt.
+(pdftex.def)             Requested size: 216.81pt x 157.92235pt.
  [63 <./img/admin/e1.png> <./img/admin/add_exam.png>]
-<img/admin/addexmqstn.png, id=350, 1081.03876pt x 1505.625pt>
+<img/admin/addexmqstn.png, id=350, 709.90219pt x 699.36281pt>
 File: img/admin/addexmqstn.png Graphic file (type png)
 <use img/admin/addexmqstn.png>
 Package pdftex.def Info: img/admin/addexmqstn.png  used on input line 1476.
-(pdftex.def)             Requested size: 216.81pt x 301.94673pt.
+(pdftex.def)             Requested size: 216.81pt x 213.58813pt.
  [64 <./img/admin/addexmqstn.png>]
-<img/admin/viweexmqstn.png, id=355, 1081.03876pt x 752.8125pt>
+<img/admin/viweexmqstn.png, id=355, 730.98094pt x 434.37282pt>
 File: img/admin/viweexmqstn.png Graphic file (type png)
 <use img/admin/viweexmqstn.png>
 Package pdftex.def Info: img/admin/viweexmqstn.png  used on input line 1484.
-(pdftex.def)             Requested size: 216.81pt x 150.97336pt.
+(pdftex.def)             Requested size: 216.81pt x 128.83481pt.
 
 [65 <./img/admin/viweexmqstn.png>]
-<img/admin/t1.png, id=360, 1081.03876pt x 749.80125pt>
+<img/admin/t1.png, id=360, 729.47531pt x 436.63126pt>
 File: img/admin/t1.png Graphic file (type png)
 <use img/admin/t1.png>
 Package pdftex.def Info: img/admin/t1.png  used on input line 1494.
-(pdftex.def)             Requested size: 238.49231pt x 165.41443pt.
+(pdftex.def)             Requested size: 238.49231pt x 142.7496pt.
  [66 <./img/admin/t1.png>]
-<img/admin/addtask.png, id=365, 1081.03876pt x 749.80125pt>
+<img/admin/addtask.png, id=365, 731.73375pt x 537.50812pt>
 File: img/admin/addtask.png Graphic file (type png)
 <use img/admin/addtask.png>
 Package pdftex.def Info: img/admin/addtask.png  used on input line 1503.
-(pdftex.def)             Requested size: 260.17464pt x 180.44794pt.
+(pdftex.def)             Requested size: 260.17464pt x 191.11607pt.
  [67 <./img/admin/addtask.png>]
-<img/admin/viewtaskqstn.png, id=371, 1231.60126pt x 903.375pt>
+<img/admin/viewtaskqstn.png, id=371, 727.96968pt x 278.54062pt>
 File: img/admin/viewtaskqstn.png Graphic file (type png)
 <use img/admin/viewtaskqstn.png>
 Package pdftex.def Info: img/admin/viewtaskqstn.png  used on input line 1511.
-(pdftex.def)             Requested size: 260.17464pt x 190.83089pt.
+(pdftex.def)             Requested size: 260.17464pt x 99.552pt.
  [68 <./img/admin/viewtaskqstn.png>]
-<img/admin/adviewallxmrslt.png, id=376, 1165.35374pt x 749.80125pt>
+<img/admin/adviewallxmrslt.png, id=376, 730.22812pt x 438.8897pt>
 File: img/admin/adviewallxmrslt.png Graphic file (type png)
 <use img/admin/adviewallxmrslt.png>
 Package pdftex.def Info: img/admin/adviewallxmrslt.png  used on input line 1519
 .
-(pdftex.def)             Requested size: 260.17464pt x 167.39372pt.
+(pdftex.def)             Requested size: 260.17464pt x 156.37282pt.
  [69 <./img/admin/adviewallxmrslt.png>]
-<img/admin/adminviewrsltofparticlrxam.png, id=381, 1165.35374pt x 749.80125pt>
+<img/admin/adminviewrsltofparticlrxam.png, id=381, 726.46407pt x 437.38406pt>
 File: img/admin/adminviewrsltofparticlrxam.png Graphic file (type png)
 <use img/admin/adminviewrsltofparticlrxam.png>
 Package pdftex.def Info: img/admin/adminviewrsltofparticlrxam.png  used on inpu
 t line 1527.
-(pdftex.def)             Requested size: 260.17464pt x 167.39372pt.
+(pdftex.def)             Requested size: 260.17464pt x 156.6439pt.
  [70 <./img/admin/adminviewrsltofparticlrxam.png>]
-<img/admin/adviewalltskrslt.png, id=386, 1165.35374pt x 749.80125pt>
+<img/admin/adviewalltskrslt.png, id=386, 727.96968pt x 439.6425pt>
 File: img/admin/adviewalltskrslt.png Graphic file (type png)
 <use img/admin/adviewalltskrslt.png>
 Package pdftex.def Info: img/admin/adviewalltskrslt.png  used on input line 153
 5.
-(pdftex.def)             Requested size: 260.17464pt x 167.39372pt.
+(pdftex.def)             Requested size: 260.17464pt x 157.13074pt.
  [71 <./img/admin/adviewalltskrslt.png>]
-<img/admin/adview_singletskrslt.png, id=391, 1505.625pt x 864.22874pt>
+<img/admin/adview_singletskrslt.png, id=391, 732.48656pt x 441.14813pt>
 File: img/admin/adview_singletskrslt.png Graphic file (type png)
 <use img/admin/adview_singletskrslt.png>
 Package pdftex.def Info: img/admin/adview_singletskrslt.png  used on input line
  1543.
-(pdftex.def)             Requested size: 260.17464pt x 149.33017pt.
+(pdftex.def)             Requested size: 260.17464pt x 156.69283pt.
  [72 <./img/admin/adview_singletskrslt.png>]
-<img/admin/rvwtask1.png, id=396, 1165.35374pt x 749.80125pt>
+<img/admin/rvwtask1.png, id=396, 727.21687pt x 437.38406pt>
 File: img/admin/rvwtask1.png Graphic file (type png)
 <use img/admin/rvwtask1.png>
 Package pdftex.def Info: img/admin/rvwtask1.png  used on input line 1551.
-(pdftex.def)             Requested size: 346.89731pt x 223.19164pt.
+(pdftex.def)             Requested size: 346.89731pt x 208.64722pt.
  [73 <./img/admin/rvwtask1.png>]
-<img/admin/rvwtsk2.png, id=402, 1165.35374pt x 749.80125pt>
+<img/admin/rvwtsk2.png, id=402, 734.745pt x 447.17062pt>
 File: img/admin/rvwtsk2.png Graphic file (type png)
 <use img/admin/rvwtsk2.png>
 Package pdftex.def Info: img/admin/rvwtsk2.png  used on input line 1560.
-(pdftex.def)             Requested size: 346.89731pt x 223.19164pt.
+(pdftex.def)             Requested size: 346.89731pt x 211.12547pt.
  [74 <./img/admin/rvwtsk2.png>]
-<img/admin/rvwtsk3.png, id=407, 1165.35374pt x 749.80125pt>
+<img/admin/rvwtsk3.png, id=407, 727.21687pt x 433.62pt>
 File: img/admin/rvwtsk3.png Graphic file (type png)
 <use img/admin/rvwtsk3.png>
 Package pdftex.def Info: img/admin/rvwtsk3.png  used on input line 1569.
-(pdftex.def)             Requested size: 346.89731pt x 223.19164pt.
+(pdftex.def)             Requested size: 346.89731pt x 206.85162pt.
  [75 <./img/admin/rvwtsk3.png>]
 Chapter 5.
 
@@ -1900,16 +1900,87 @@ Chapter 8.
 Chapter 9.
 [84
 
-] (worklord(Feasibilitystudy)-1.aux)
+]
+<img/screenshots/git/1.png, id=440, 931.22906pt x 387.69844pt>
+File: img/screenshots/git/1.png Graphic file (type png)
+<use img/screenshots/git/1.png>
+Package pdftex.def Info: img/screenshots/git/1.png  used on input line 1729.
+(pdftex.def)             Requested size: 346.89731pt x 144.42227pt.
+<img/screenshots/git/2.png, id=441, 922.19531pt x 438.8897pt>
+File: img/screenshots/git/2.png Graphic file (type png)
+<use img/screenshots/git/2.png>
+Package pdftex.def Info: img/screenshots/git/2.png  used on input line 1730.
+(pdftex.def)             Requested size: 346.89731pt x 165.0922pt.
+<img/screenshots/git/3.png, id=442, 934.99312pt x 441.90094pt>
+File: img/screenshots/git/3.png Graphic file (type png)
+<use img/screenshots/git/3.png>
+Package pdftex.def Info: img/screenshots/git/3.png  used on input line 1734.
+(pdftex.def)             Requested size: 346.89731pt x 163.95256pt.
+<img/screenshots/git/4.png, id=443, 928.21782pt x 392.21532pt>
+File: img/screenshots/git/4.png Graphic file (type png)
+<use img/screenshots/git/4.png>
+Package pdftex.def Info: img/screenshots/git/4.png  used on input line 1735.
+(pdftex.def)             Requested size: 346.89731pt x 146.58365pt.
+<img/screenshots/git/5.png, id=444, 930.47626pt x 386.94562pt>
+File: img/screenshots/git/5.png Graphic file (type png)
+<use img/screenshots/git/5.png>
+Package pdftex.def Info: img/screenshots/git/5.png  used on input line 1736.
+(pdftex.def)             Requested size: 346.89731pt x 144.25993pt.
+<img/screenshots/git/6.png, id=445, 934.99312pt x 307.1475pt>
+File: img/screenshots/git/6.png Graphic file (type png)
+<use img/screenshots/git/6.png>
+Package pdftex.def Info: img/screenshots/git/6.png  used on input line 1740.
+(pdftex.def)             Requested size: 346.89731pt x 113.9568pt.
+<img/screenshots/git/7.png, id=446, 932.73468pt x 351.56343pt>
+File: img/screenshots/git/7.png Graphic file (type png)
+<use img/screenshots/git/7.png>
+Package pdftex.def Info: img/screenshots/git/7.png  used on input line 1741.
+(pdftex.def)             Requested size: 346.89731pt x 130.75233pt.
+<img/screenshots/git/8.png, id=447, 938.75719pt x 422.32782pt>
+File: img/screenshots/git/8.png Graphic file (type png)
+<use img/screenshots/git/8.png>
+Package pdftex.def Info: img/screenshots/git/8.png  used on input line 1742.
+(pdftex.def)             Requested size: 346.89731pt x 156.05907pt.
+<img/screenshots/git/9.png, id=448, 912.40875pt x 395.22656pt>
+File: img/screenshots/git/9.png Graphic file (type png)
+<use img/screenshots/git/9.png>
+Package pdftex.def Info: img/screenshots/git/9.png  used on input line 1743.
+(pdftex.def)             Requested size: 346.89731pt x 150.26001pt.
+<img/screenshots/git/10.png, id=449, 918.43124pt x 484.05844pt>
+File: img/screenshots/git/10.png Graphic file (type png)
+<use img/screenshots/git/10.png>
+Package pdftex.def Info: img/screenshots/git/10.png  used on input line 1747.
+(pdftex.def)             Requested size: 346.89731pt x 182.8362pt.
+<img/screenshots/git/11.png, id=450, 935.74594pt x 300.3722pt>
+File: img/screenshots/git/11.png Graphic file (type png)
+<use img/screenshots/git/11.png>
+Package pdftex.def Info: img/screenshots/git/11.png  used on input line 1748.
+(pdftex.def)             Requested size: 346.89731pt x 111.35596pt.
+<img/screenshots/git/12.png, id=451, 936.49875pt x 307.1475pt>
+File: img/screenshots/git/12.png Graphic file (type png)
+<use img/screenshots/git/12.png>
+Package pdftex.def Info: img/screenshots/git/12.png  used on input line 1749.
+(pdftex.def)             Requested size: 346.89731pt x 113.77402pt.
+<img/screenshots/git/13.png, id=452, 940.26282pt x 270.25969pt>
+File: img/screenshots/git/13.png Graphic file (type png)
+<use img/screenshots/git/13.png>
+Package pdftex.def Info: img/screenshots/git/13.png  used on input line 1750.
+(pdftex.def)             Requested size: 346.89731pt x 99.70584pt.
+ [85 <./img/screenshots/git/1.png> <./img/screenshots/git/2.png>] [86 <./img/sc
+reenshots/git/3.png> <./img/screenshots/git/4.png> <./img/screenshots/git/5.png
+>] [87 <./img/screenshots/git/6.png> <./img/screenshots/git/7.png> <./img/scree
+nshots/git/8.png> <./img/screenshots/git/9.png>] [88 <./img/screenshots/git/10.
+png> <./img/screenshots/git/11.png> <./img/screenshots/git/12.png> <./img/scree
+nshots/git/13.png>] (worklord(Feasibilitystudy)-1.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3799 strings out of 479799
- 68843 string characters out of 2869247
- 357078 words of memory out of 3000000
- 20706 multiletter control sequences out of 15000+200000
+ 3904 strings out of 479799
+ 71430 string characters out of 2869247
+ 357080 words of memory out of 3000000
+ 20797 multiletter control sequences out of 15000+200000
  550703 words of font info for 55 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,9n,72p,1628b,308s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1919,9 +1990,9 @@ i12.pfb><C:/Users/Althaf/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/ut
 mb8a.pfb><C:/Users/Althaf/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/u
 tmr8a.pfb><C:/Users/Althaf/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/
 utmri8a.pfb>
-Output written on worklord(Feasibilitystudy)-1.pdf (96 pages, 1882125 bytes).
+Output written on worklord(Feasibilitystudy)-1.pdf (100 pages, 2222486 bytes).
 PDF statistics:
- 458 PDF objects out of 1000 (max. 8388607)
+ 497 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 326 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 391 words of extra memory for PDF output out of 10000 (max. 10000000)
 
