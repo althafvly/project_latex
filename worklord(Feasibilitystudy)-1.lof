@@ -2,75 +2,106 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces User's Activity Diagram\relax }}{12}{}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Company's Activity Diagram\relax }}{13}{}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Admin's Activity Diagram\relax }}{14}{}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces UseCase Diagram\relax }}{15}{}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces User Story\relax }}{16}{}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Product Backlog\relax }}{18}{}%
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Project Plan\relax }}{19}{}%
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Sprint 1\relax }}{20}{}%
-\contentsline {figure}{\numberline {4.9}{\ignorespaces Sprint 2\relax }}{21}{}%
-\contentsline {figure}{\numberline {4.10}{\ignorespaces Sprint 3\relax }}{22}{}%
-\contentsline {figure}{\numberline {4.11}{\ignorespaces Sprint 4\relax }}{23}{}%
-\contentsline {figure}{\numberline {4.12}{\ignorespaces Sprint 1\relax }}{24}{}%
-\contentsline {figure}{\numberline {4.13}{\ignorespaces Sprint 2\relax }}{25}{}%
-\contentsline {figure}{\numberline {4.14}{\ignorespaces Sprint 3\relax }}{26}{}%
-\contentsline {figure}{\numberline {4.15}{\ignorespaces Sprint 4\relax }}{27}{}%
-\contentsline {figure}{\numberline {4.16}{\ignorespaces Sprint 4\relax }}{28}{}%
-\contentsline {figure}{\numberline {4.17}{\ignorespaces Homepage\relax }}{38}{}%
-\contentsline {figure}{\numberline {4.18}{\ignorespaces Login\relax }}{38}{}%
-\contentsline {figure}{\numberline {4.19}{\ignorespaces Job Search\relax }}{39}{}%
-\contentsline {figure}{\numberline {4.20}{\ignorespaces Jobs\relax }}{39}{}%
-\contentsline {figure}{\numberline {4.21}{\ignorespaces MailBox\relax }}{40}{}%
-\contentsline {figure}{\numberline {4.22}{\ignorespaces View MailBox\relax }}{40}{}%
-\contentsline {figure}{\numberline {4.23}{\ignorespaces Compose Message\relax }}{41}{}%
-\contentsline {figure}{\numberline {4.24}{\ignorespaces User Registration\relax }}{41}{}%
-\contentsline {figure}{\numberline {4.25}{\ignorespaces User Dashboard\relax }}{42}{}%
-\contentsline {figure}{\numberline {4.26}{\ignorespaces My Applications\relax }}{43}{}%
-\contentsline {figure}{\numberline {4.27}{\ignorespaces Update Profile\relax }}{43}{}%
-\contentsline {figure}{\numberline {4.28}{\ignorespaces User Exam Overview\relax }}{44}{}%
-\contentsline {figure}{\numberline {4.29}{\ignorespaces User view Examlist\relax }}{44}{}%
-\contentsline {figure}{\numberline {4.30}{\ignorespaces User Take Assessment\relax }}{45}{}%
-\contentsline {figure}{\numberline {4.31}{\ignorespaces User Attend Exam\relax }}{45}{}%
-\contentsline {figure}{\numberline {4.32}{\ignorespaces User View Tasks\relax }}{46}{}%
-\contentsline {figure}{\numberline {4.33}{\ignorespaces User Submit Task\relax }}{47}{}%
-\contentsline {figure}{\numberline {4.34}{\ignorespaces User View Exam Results\relax }}{48}{}%
-\contentsline {figure}{\numberline {4.35}{\ignorespaces User View Task Results\relax }}{48}{}%
-\contentsline {figure}{\numberline {4.36}{\ignorespaces Settings\relax }}{49}{}%
-\contentsline {figure}{\numberline {4.37}{\ignorespaces Company Registration\relax }}{49}{}%
-\contentsline {figure}{\numberline {4.38}{\ignorespaces Dashboard\relax }}{50}{}%
-\contentsline {figure}{\numberline {4.39}{\ignorespaces Edit Profile\relax }}{51}{}%
-\contentsline {figure}{\numberline {4.40}{\ignorespaces Create Job Post\relax }}{51}{}%
-\contentsline {figure}{\numberline {4.41}{\ignorespaces Job Posts\relax }}{52}{}%
-\contentsline {figure}{\numberline {4.42}{\ignorespaces Job Applications\relax }}{52}{}%
-\contentsline {figure}{\numberline {4.43}{\ignorespaces Download Resume\relax }}{53}{}%
-\contentsline {figure}{\numberline {4.44}{\ignorespaces Company View all Exam\relax }}{54}{}%
-\contentsline {figure}{\numberline {4.45}{\ignorespaces Company Exam Score\relax }}{55}{}%
-\contentsline {figure}{\numberline {4.46}{\ignorespaces Company View All Task \relax }}{56}{}%
-\contentsline {figure}{\numberline {4.47}{\ignorespaces Company View Task Scores \relax }}{57}{}%
-\contentsline {figure}{\numberline {4.48}{\ignorespaces Settings\relax }}{58}{}%
-\contentsline {figure}{\numberline {4.49}{\ignorespaces Admin Homepage\relax }}{59}{}%
-\contentsline {figure}{\numberline {4.50}{\ignorespaces Active Jobs\relax }}{60}{}%
-\contentsline {figure}{\numberline {4.51}{\ignorespaces Candidates\relax }}{60}{}%
-\contentsline {figure}{\numberline {4.52}{\ignorespaces Companies\relax }}{61}{}%
-\contentsline {figure}{\numberline {4.53}{\ignorespaces Admin Exam Dashboard\relax }}{62}{}%
-\contentsline {figure}{\numberline {4.54}{\ignorespaces Admin View Exams\relax }}{63}{}%
-\contentsline {figure}{\numberline {4.55}{\ignorespaces Admin Add Exams\relax }}{63}{}%
-\contentsline {figure}{\numberline {4.56}{\ignorespaces Add Questions\relax }}{64}{}%
-\contentsline {figure}{\numberline {4.57}{\ignorespaces View Exam Questions\relax }}{65}{}%
-\contentsline {figure}{\numberline {4.58}{\ignorespaces View Tasks\relax }}{66}{}%
-\contentsline {figure}{\numberline {4.59}{\ignorespaces Add Tasks\relax }}{67}{}%
-\contentsline {figure}{\numberline {4.60}{\ignorespaces View Task Question\relax }}{68}{}%
-\contentsline {figure}{\numberline {4.61}{\ignorespaces Admin View All Exam Scores\relax }}{69}{}%
-\contentsline {figure}{\numberline {4.62}{\ignorespaces Admin View Particular Exam Scores\relax }}{70}{}%
-\contentsline {figure}{\numberline {4.63}{\ignorespaces Admin View All Task Scores\relax }}{71}{}%
-\contentsline {figure}{\numberline {4.64}{\ignorespaces Admin View Particular Task Scores\relax }}{72}{}%
-\contentsline {figure}{\numberline {4.65}{\ignorespaces T View Tasks For Review\relax }}{73}{}%
-\contentsline {figure}{\numberline {4.66}{\ignorespaces Review Tasks\relax }}{74}{}%
-\contentsline {figure}{\numberline {4.67}{\ignorespaces Enter Task Score\relax }}{75}{}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces User's Activity Diagram\relax }}{11}{}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Company's Activity Diagram\relax }}{12}{}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Admin's Activity Diagram\relax }}{13}{}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces UseCase Diagram\relax }}{14}{}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces User Story\relax }}{15}{}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Product Backlog\relax }}{17}{}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Project Plan\relax }}{18}{}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Sprint 1\relax }}{19}{}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Sprint 2\relax }}{20}{}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Sprint 3\relax }}{21}{}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Sprint 4\relax }}{22}{}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Sprint 1\relax }}{23}{}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Sprint 2\relax }}{24}{}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Sprint 3\relax }}{25}{}%
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Sprint 4\relax }}{26}{}%
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Sprint 4\relax }}{27}{}%
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Homepage\relax }}{37}{}%
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Login\relax }}{37}{}%
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Job Search\relax }}{38}{}%
+\contentsline {figure}{\numberline {4.20}{\ignorespaces Jobs\relax }}{38}{}%
+\contentsline {figure}{\numberline {4.21}{\ignorespaces MailBox\relax }}{39}{}%
+\contentsline {figure}{\numberline {4.22}{\ignorespaces View MailBox\relax }}{39}{}%
+\contentsline {figure}{\numberline {4.23}{\ignorespaces Compose Message\relax }}{40}{}%
+\contentsline {figure}{\numberline {4.24}{\ignorespaces User Registration\relax }}{40}{}%
+\contentsline {figure}{\numberline {4.25}{\ignorespaces User Dashboard\relax }}{41}{}%
+\contentsline {figure}{\numberline {4.26}{\ignorespaces My Applications\relax }}{42}{}%
+\contentsline {figure}{\numberline {4.27}{\ignorespaces Update Profile\relax }}{42}{}%
+\contentsline {figure}{\numberline {4.28}{\ignorespaces User Exam Overview\relax }}{43}{}%
+\contentsline {figure}{\numberline {4.29}{\ignorespaces User view Examlist\relax }}{43}{}%
+\contentsline {figure}{\numberline {4.30}{\ignorespaces User Take Assessment\relax }}{44}{}%
+\contentsline {figure}{\numberline {4.31}{\ignorespaces User Attend Exam\relax }}{44}{}%
+\contentsline {figure}{\numberline {4.32}{\ignorespaces User View Tasks\relax }}{45}{}%
+\contentsline {figure}{\numberline {4.33}{\ignorespaces User Submit Task\relax }}{46}{}%
+\contentsline {figure}{\numberline {4.34}{\ignorespaces User View Exam Results\relax }}{47}{}%
+\contentsline {figure}{\numberline {4.35}{\ignorespaces User View Task Results\relax }}{47}{}%
+\contentsline {figure}{\numberline {4.36}{\ignorespaces Settings\relax }}{48}{}%
+\contentsline {figure}{\numberline {4.37}{\ignorespaces Company Registration\relax }}{48}{}%
+\contentsline {figure}{\numberline {4.38}{\ignorespaces Dashboard\relax }}{49}{}%
+\contentsline {figure}{\numberline {4.39}{\ignorespaces Edit Profile\relax }}{50}{}%
+\contentsline {figure}{\numberline {4.40}{\ignorespaces Create Job Post\relax }}{50}{}%
+\contentsline {figure}{\numberline {4.41}{\ignorespaces Job Posts\relax }}{51}{}%
+\contentsline {figure}{\numberline {4.42}{\ignorespaces Job Applications\relax }}{51}{}%
+\contentsline {figure}{\numberline {4.43}{\ignorespaces Download Resume\relax }}{52}{}%
+\contentsline {figure}{\numberline {4.44}{\ignorespaces Company View all Exam\relax }}{53}{}%
+\contentsline {figure}{\numberline {4.45}{\ignorespaces Company Exam Score\relax }}{54}{}%
+\contentsline {figure}{\numberline {4.46}{\ignorespaces Company View All Task \relax }}{55}{}%
+\contentsline {figure}{\numberline {4.47}{\ignorespaces Company View Task Scores \relax }}{56}{}%
+\contentsline {figure}{\numberline {4.48}{\ignorespaces Settings\relax }}{57}{}%
+\contentsline {figure}{\numberline {4.49}{\ignorespaces Admin Homepage\relax }}{58}{}%
+\contentsline {figure}{\numberline {4.50}{\ignorespaces Active Jobs\relax }}{59}{}%
+\contentsline {figure}{\numberline {4.51}{\ignorespaces Candidates\relax }}{59}{}%
+\contentsline {figure}{\numberline {4.52}{\ignorespaces Companies\relax }}{60}{}%
+\contentsline {figure}{\numberline {4.53}{\ignorespaces Admin Exam Dashboard\relax }}{61}{}%
+\contentsline {figure}{\numberline {4.54}{\ignorespaces Admin View Exams\relax }}{62}{}%
+\contentsline {figure}{\numberline {4.55}{\ignorespaces Admin Add Exams\relax }}{62}{}%
+\contentsline {figure}{\numberline {4.56}{\ignorespaces Add Questions\relax }}{63}{}%
+\contentsline {figure}{\numberline {4.57}{\ignorespaces View Exam Questions\relax }}{64}{}%
+\contentsline {figure}{\numberline {4.58}{\ignorespaces View Tasks\relax }}{65}{}%
+\contentsline {figure}{\numberline {4.59}{\ignorespaces Add Tasks\relax }}{66}{}%
+\contentsline {figure}{\numberline {4.60}{\ignorespaces View Task Question\relax }}{67}{}%
+\contentsline {figure}{\numberline {4.61}{\ignorespaces Admin View All Exam Scores\relax }}{68}{}%
+\contentsline {figure}{\numberline {4.62}{\ignorespaces Admin View Particular Exam Scores\relax }}{69}{}%
+\contentsline {figure}{\numberline {4.63}{\ignorespaces Admin View All Task Scores\relax }}{70}{}%
+\contentsline {figure}{\numberline {4.64}{\ignorespaces Admin View Particular Task Scores\relax }}{71}{}%
+\contentsline {figure}{\numberline {4.65}{\ignorespaces T View Tasks For Review\relax }}{72}{}%
+\contentsline {figure}{\numberline {4.66}{\ignorespaces Review Tasks\relax }}{73}{}%
+\contentsline {figure}{\numberline {4.67}{\ignorespaces Enter Task Score\relax }}{74}{}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Homepage\relax }}{93}{}%
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Jobs\relax }}{93}{}%
+\contentsline {figure}{\numberline {8.3}{\ignorespaces About\relax }}{94}{}%
+\contentsline {figure}{\numberline {8.4}{\ignorespaces Login\relax }}{94}{}%
+\contentsline {figure}{\numberline {8.5}{\ignorespaces Register - Company\relax }}{95}{}%
+\contentsline {figure}{\numberline {8.6}{\ignorespaces Register - User\relax }}{95}{}%
+\contentsline {figure}{\numberline {8.7}{\ignorespaces Users List\relax }}{96}{}%
+\contentsline {figure}{\numberline {8.8}{\ignorespaces Company Management\relax }}{96}{}%
+\contentsline {figure}{\numberline {8.9}{\ignorespaces Examinations\relax }}{97}{}%
+\contentsline {figure}{\numberline {8.10}{\ignorespaces Add Exam\relax }}{97}{}%
+\contentsline {figure}{\numberline {8.11}{\ignorespaces Tasks\relax }}{98}{}%
+\contentsline {figure}{\numberline {8.12}{\ignorespaces Add Tasks\relax }}{98}{}%
+\contentsline {figure}{\numberline {8.13}{\ignorespaces Tasks Review\relax }}{99}{}%
+\contentsline {figure}{\numberline {8.14}{\ignorespaces Review Task\relax }}{99}{}%
+\contentsline {figure}{\numberline {8.15}{\ignorespaces Jobs Posts\relax }}{100}{}%
+\contentsline {figure}{\numberline {8.16}{\ignorespaces Jobs Search\relax }}{100}{}%
+\contentsline {figure}{\numberline {8.17}{\ignorespaces Post Jobs\relax }}{101}{}%
+\contentsline {figure}{\numberline {8.18}{\ignorespaces Job Application Review\relax }}{101}{}%
+\contentsline {figure}{\numberline {8.19}{\ignorespaces Edit Profile\relax }}{102}{}%
+\contentsline {figure}{\numberline {8.20}{\ignorespaces Company Settings\relax }}{102}{}%
+\contentsline {figure}{\numberline {8.21}{\ignorespaces Edit Profile\relax }}{103}{}%
+\contentsline {figure}{\numberline {8.22}{\ignorespaces User Settings\relax }}{103}{}%
+\contentsline {figure}{\numberline {8.23}{\ignorespaces Job Application\relax }}{104}{}%
+\contentsline {figure}{\numberline {8.24}{\ignorespaces Applied Jobs\relax }}{104}{}%
+\contentsline {figure}{\numberline {8.25}{\ignorespaces Exam Terms\relax }}{105}{}%
+\contentsline {figure}{\numberline {8.26}{\ignorespaces Exam Assessment\relax }}{105}{}%
+\contentsline {figure}{\numberline {8.27}{\ignorespaces Task Assessment\relax }}{106}{}%
+\contentsline {figure}{\numberline {8.28}{\ignorespaces MailBox\relax }}{106}{}%
+\contentsline {figure}{\numberline {8.29}{\ignorespaces Create Mail\relax }}{107}{}%
+\contentsline {figure}{\numberline {8.30}{\ignorespaces Reply Mail\relax }}{107}{}%
+\contentsline {figure}{\numberline {8.31}{\ignorespaces Exam Results\relax }}{108}{}%
+\contentsline {figure}{\numberline {8.32}{\ignorespaces Task Results\relax }}{108}{}%

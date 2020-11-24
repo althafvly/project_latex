@@ -242,16 +242,6 @@ These old job seeking methods are too slow, stressful, challenging and also lack
 \hspace*{12pt}One of the ways to improve employment mobility is to provide online job offer services. Online job portals can help jobseekers as they contain all required information about available vacancies in a single point. Such portals enhance efficiency in job recruitment as applicants can match their qualifications and skills to the requirements of employers. Generally, searching for jobs on the internet involves a process of information collecting because the job seeker gathers information contained in the job portals, during the search. A good job portal shares information and experiences with its members/users. This save time and efforts and better decisions can be made. Job openings requirements can be matched to an applicant's qualification and skills. In this way, job portals return not only the precise matches but also return the most similar match. The members of the European Commission (EC) stated that online job portals should have quite similar characteristics that include an online searchable database of positions for job searcher, facilities to send CVs to the website, email alerts of jobs which match the users profile, extra instruction, for example, about working in foreign countries or career guidance, the capability to manage job applications, employers must have the ability to publish and manage job positions, search the CV database, and have online contact with potential jobseekers.\\
 \pagebreak
 
-\subsection{References}
-\hspace*{12pt}
-\subitem - M. Mansourvar and N. Y. Mohd, “Web portal as a knowledge management system in the universities,” World Academy of Science,Engineering and Technology, 2010.\\
-\subitem - S. Mauno, U. Kinnunen, and M. Ruokolainen, “Job demands and resources as antecedents of work engagement: A longitudinal study,” Journal of Vocational Behavior, 2007.\\
-\subitem - A. Doyle, Internet Your Way to a New Job: How to Really Find a Job Online, Happy about, 2008.\\
-\subitem - N. Sulaiman and M. Burke, “A case analysis of knowledge sharing implementation and job searching in Malaysia,” International Journal of Information Management, 2009.\\
-\subitem - M. Mansourvar, Development of a Job Web Portal to Capture Industry’s Needs, 2011.\\
-\subitem - M. Mansourvar and N. B. M. Yasin, “Knowledge portal: a tool to capture university requirements,” in Proc. 2011 International Conf. on Graphic and Image Processing, International Society for Optics and Photonics, October 2011.
-
-\pagebreak
 
 \chapter{SYSTEM ANALYSIS}
 \section{Existing system}
@@ -1151,7 +1141,7 @@ There is an option to make communication between user and company.This Table sto
 This form show Homepage of Worklord Website.From which we can go to all other activities.
 \begin{figure}[bph]
 	\centering
-	\includegraphics[width=.4\linewidth]{pencil/homepage}
+	\includegraphics[width=.4\linewidth]{img/homepage}
 	\caption{Homepage}
 \end{figure}
 \subsection {Login}
@@ -1697,20 +1687,32 @@ While implementing this system we only have few challenges. First challenge is t
 
 \pagebreak
 
-\chapter{RESULTS AND DISCUSSION}
-
-
-\pagebreak
-
 \chapter{CONCLUSION}
 
-
 \pagebreak
-
 
 \chapter{REFERENCES}
 
+\begin{enumerate}
+\item - M. Mansourvar and N. Y. Mohd, “Web portal as a knowledge management system in the universities,” World Academy of Science,Engineering and Technology, 2010.
+\item - S. Mauno, U. Kinnunen, and M. Ruokolainen, “Job demands and resources as antecedents of work engagement: A longitudinal study,” Journal of Vocational Behavior, 2007.
+\item - A. Doyle, Internet Your Way to a New Job: How to Really Find a Job Online, Happy about, 2008.
+\item - N. Sulaiman and M. Burke, “A case analysis of knowledge sharing implementation and job searching in Malaysia,” International Journal of Information Management, 2009.
+\item - M. Mansourvar, Development of a Job Web Portal to Capture Industry’s Needs, 2011.
+\item - M. Mansourvar and N. B. M. Yasin, “Knowledge portal: a tool to capture university requirements,” in Proc. 2011 International Conf. on Graphic and Image Processing, International Society for Optics and Photonics, October 2011.
 
+	\item - https://stackoverflow.com
+	\item - https://www.w3schools.com
+	\item - https://www.tutorialspoint.com/php/index.htm
+	\item - https://getbootstrap.com
+	\item - https://jqueryvalidation.org/documentation/
+	\item - https://www.php.net/manual/en/book.mysqli.php
+	\item - https://www.apachefriends.org/index.html
+	\item -	https://mariadb.com/kb/en/documentation/
+	\item -	https://www.000webhost.com/forum/
+	\item -	https://docs.github.com/en
+	\item -	https://git-scm.com/doc
+\end{enumerate} 
 \pagebreak
 
 \chapter{APPENDIX}
@@ -1718,11 +1720,697 @@ While implementing this system we only have few challenges. First challenge is t
 
 \section{Source Code}
 
+\subsection{Country, State and City Selection in Registration}
+\begin{verbatim}
+
+<div class="form-group">
+<select class="form-control  input-lg" id="country" name="country" 
+required>
+<option selected="" value="">Select Country</option>
+<?php
+$sql="SELECT * FROM countries";
+$result=$conn->query($sql);
+
+if($result->num_rows > 0) {
+	while($row = $result->fetch_assoc()) {
+		echo "<option value='".$row['name']."' 
+        data-id='".$row['id']."'>".$row['name']."</option>";
+	}
+}
+?>
+
+</select>
+</div>  
+<div id="stateDiv" class="form-group" style="display: none;">
+<select class="form-control  input-lg" id="state" name="state" 
+required>
+<option value="" selected="">Select State</option>
+</select>
+</div>   
+<div id="cityDiv" class="form-group" style="display: none;">
+<select class="form-control  input-lg" id="city" name="city" >
+<option selected="">Select City</option>
+</select>
+</div>
+
+<script>
+$("#country").on("change", function() {
+	var id = $(this).find(':selected').attr("data-id");
+	$("#state").find('option:not(:first)').remove();
+	if(id != '') {
+		$.post("state.php", {id: id}).done(function(data) {
+			$("#state").append(data);
+		});
+		$('#stateDiv').show();
+	} else {
+		$('#stateDiv').hide();
+		$('#cityDiv').hide();
+	}
+});
+</script>
+
+<script>
+$("#state").on("change", function() {
+	var id = $(this).find(':selected').attr("data-id");
+	$("#city").find('option:not(:first)').remove();
+	if(id != '') {
+		$.post("city.php", {id: id}).done(function(data) {
+			$("#city").append(data);
+		});
+		$('#cityDiv').show();
+	} else {
+		$('#cityDiv').hide();
+	}
+});
+</script>
+
+$sql = "SELECT * FROM states WHERE country_id='$_POST[id]'";
+$result = $conn->query($sql);
+
+if($result->num_rows > 0) {
+	while($row = $result->fetch_assoc()) {		
+		echo '<option value="'.$row["name"].'"
+        data-id="'.$row["id"].'">'.$row["name"].'</option>';		
+	}	
+}
+
+$sql = "SELECT * FROM cities WHERE state_id='$_POST[id]'";
+$result = $conn->query($sql);
+if($result->num_rows > 0) {
+	while($row = $result->fetch_assoc()) {	
+		echo '<option value="'.$row["name"].'"
+	    data-id="'.$row["id"].'">'.$row["name"].'</option>';	
+	}	
+}
+
+\end{verbatim}
+
+\subsection{Showing Random Job Posts in Homepage}
+
+\begin{verbatim}
+<section id="jobs" class="jobs">
+<div class="container" data-aos="fade-up">
+
+<div class="section-title">
+<h2>Jobs</h2>
+<div class="row">
+<div class="col-md-12 text-center index-head">
+<h1>“If you can <strong>DREAM</strong> it, you can DO it ”</h1>
+<p><a class="btn btn-success btn-lg" href="jobs.php"
+ role="button">Search Jobs</a></p>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12 latest-job margin-bottom-20">
+<?php 
+$today = (new DateTime())->format('Y-m-d');
+$sql = "SELECT * FROM job_post WHERE duedate<='$today'
+and active=1 Order By Rand() Limit 4";
+$result = $conn->query($sql);
+if($result->num_rows > 0) {
+	while($row = $result->fetch_assoc()) 
+	{
+		$sql1 = "SELECT * FROM company WHERE id_company='$row[id_company]'";
+		$result1 = $conn->query($sql1);
+		if($result1->num_rows > 0) {
+			while($row1 = $result1->fetch_assoc()) 
+			{
+				?>
+				<div class="clearfix">
+				<div>
+				<h4><a href="view-job-post.php?id=<?php echo $row['id_jobpost'];
+				?>"><?php echo $row['jobtitle']; ?></a> <span class="pull-right">
+				<?php echo $row['maximumsalary']; ?>/Month</span></h4>
+				<div>
+				<div><strong><?php echo $row1['companyname']; ?> | 
+				<?php echo $row1['city']; ?> | 
+				Experience <?php echo $row['experience']; ?> 
+				Years</strong></div>
+				</div></div></div>
+				<?php
+			}}}}
+?>
+</div></div></div></section>
+
+\end{verbatim}
+
+\subsection{User Registration}
+
+\begin{verbatim}
+<?php
+//To Handle Session Variables on This Page
+session_start();
+//Including Database Connection From db.php
+require_once("db.php");
+//If user Actually clicked register button
+if(isset($_POST)) {
+	//Escape Special Characters In String First
+	$firstname = mysqli_real_escape_string($conn, $_POST['fname']);
+	$lastname = mysqli_real_escape_string($conn, $_POST['lname']);
+	$address = mysqli_real_escape_string($conn, $_POST['address']);
+	$city = mysqli_real_escape_string($conn, $_POST['city']);
+	$state = mysqli_real_escape_string($conn, $_POST['state']);
+	$contactno = mysqli_real_escape_string($conn, $_POST['contactno']);
+	$qualification=
+	mysqli_real_escape_string($conn,$_POST['qualification']);
+	$stream = mysqli_real_escape_string($conn, $_POST['stream']);
+	$passingyear=mysqli_real_escape_string($conn, $_POST['passingyear']);
+	$dob = mysqli_real_escape_string($conn, $_POST['dob']);
+	$age = mysqli_real_escape_string($conn, $_POST['age']);
+	$designation=mysqli_real_escape_string($conn, $_POST['designation']);
+	$aboutme = mysqli_real_escape_string($conn, $_POST['aboutme']);
+	$skills = mysqli_real_escape_string($conn, $_POST['skills']);
+	$email = mysqli_real_escape_string($conn, $_POST['email']);
+	$password = mysqli_real_escape_string($conn, $_POST['password']);
+	//Encrypt Password
+	$password = base64_encode(strrev(md5($password)));
+	//sql query to check if email already exists or not
+	$sql = "SELECT email FROM users WHERE email='$email'";
+	$result = $conn->query($sql);
+	
+	//if email not found then we can insert new data
+	if($result->num_rows == 0) {
+		//This variable is used to catch errors doing upload process.
+		$uploadOk = true;
+		//Folder where you want to save your resume.
+		$folder_dir = "uploads/resume/";
+		//Getting Basename of file.
+		$base = basename($_FILES['resume']['name']); 
+		//This will get us extension of your file.
+		$resumeFileType = pathinfo($base, PATHINFO_EXTENSION); 
+		//Setting a random non repeatable file name. 
+		$file = uniqid() . "." . $resumeFileType;   
+		//This is where your files will be saved
+		$filename = $folder_dir .$file;  
+		//We check if file is saved to our temp location or not.
+		if(file_exists($_FILES['resume']['tmp_name'])) { 
+			//checks if file type is allowed or not.
+			if($resumeFileType == "pdf")  {
+				//check file size with our limit size.
+				if($_FILES['resume']['size'] < 500000) {
+					//If condition are met then copy file
+					move_uploaded_file($_FILES["resume"]["tmp_name"], $filename);
+				} else {
+					//Size Error
+					$_SESSION['uploadError'] = "Wrong Size. Max Size Allowed : 5MB";
+					$uploadOk = false;
+				}
+			} else {
+				//Format Error
+				$_SESSION['uploadError'] = "Wrong Format. Only PDF Allowed";
+				$uploadOk = false;
+			}
+		} else {
+			//File not copied to temp location error.
+			$_SESSION['uploadError'] = 
+			"Something Went Wrong. File Not Uploaded. Try Again.";
+			$uploadOk = false;
+		}
+		//If there is any error then redirect back.
+		if($uploadOk == false) {
+			header("Location: register-candidates.php");
+			exit();
+		}
+		//sql new registration insert query
+		$sql = "INSERT INTO users(firstname, lastname, email, address,
+		city, state, contactno, qualification, stream, 
+		passingyear, dob, age, designation, resume, aboutme, skills) 
+		VALUES ('$firstname', '$lastname', '$email', '$address', '$city',
+		'$state', '$contactno', '$qualification', '$stream',
+		 '$passingyear','$dob', '$age', '$designation', '$file',
+		  '$aboutme', '$skills')";
+		$sql2 = "INSERT INTO login(email,password,role) 
+		VALUES ('$email','$password','user')";
+		if(($conn->query($sql))&&($conn->query($sql2))===TRUE) {	
+			$_SESSION['uploadSuccess'] = "Registered Successfully";
+			header("Location: login.php");
+			exit();
+		} else {
+			//If data failed to insert then show that error.
+			echo "Error " . $sql . "<br>" . $conn->error;
+		}
+	} else {
+		//if email found in database then show email already exists error.
+		$_SESSION['uploadError'] = "Already registered.";
+		header("Location: register-candidates.php");
+		exit();
+	}
+	//Close database connection. Not compulsory but good practice.
+	$conn->close();
+} else {
+	header("Location: register-candidates.php");
+	exit();
+}
+?>
+
+\end{verbatim}
+
+\subsection{Take Assessment}
+
+\begin{verbatim}
+<?php 
+include '../../db.php';
+$sql = "SELECT * FROM questions WHERE exam_id = '$exam_id'";
+$result = $conn->query($sql);
+if ($result->num_rows > 0) {
+	while($row = $result->fetch_assoc()) {
+		$qsid = $row['question_id'];
+		$qs = $row['question'];
+		$type = $row['type'];
+		$op1 = $row['option1'];
+		$op2 = $row['option2'];
+		$op3 = $row['option3'];
+		$op4 = $row['option4'];
+		$ans = $row['answer'];
+		$enan = $row[$ans];
+		if ($type == "FB") {
+			if ($qno == "1") {
+				print '
+				<div role="tabpanel" class="tab-pane active fade in"
+				 id="tab'.$qno.'">
+				<p><b>'.$qno.'.</b> '.$qs.'</p>
+				<p><input type="text" name="an'.$qno.'"  class="form-control"
+				 placeholder="Enter your answer" autocomplete="off">
+				<input type="hidden" name="qst'.$qno.'"
+				 value="'.base64_encode($qs).'">
+				<input type="hidden" name="ran'.$qno.'"
+				 value="'.base64_encode($ans).'">
+				</div>
+				';	
+			}else{
+				print '
+				<div role="tabpanel" class="tab-pane fade in" id="tab'.$qno.'">
+				<p><b>'.$qno.'.</b> '.$qs.'</p>
+				<p><input type="text" name="an'.$qno.'"  class="form-control"
+				 placeholder="Enter your answer" autocomplete="off">
+				<input type="hidden" name="qst'.$qno.'"
+				 value="'.base64_encode($qs).'">
+				<input type="hidden" name="ran'.$qno.'"
+				 value="'.base64_encode($ans).'">
+				</div>
+				';		
+			}	
+			$qno = $qno + 1;	
+		}else{	
+			if ($qno == "1") {		
+				print '
+				<div role="tabpanel" class="tab-pane active fade in"
+				 id="tab'.$qno.'">
+				<p><b>'.$qno.'.</b> '.$qs.'</p>
+				<p><label class="container"><input type="radio" name="an'.$qno.'"
+				  class="form-control container" value="'.$op1.'">
+				   '.$op1.'</p></label>
+				<p><label class="container"><input type="radio" name="an'.$qno.'"
+				  class="form-control container" value="'.$op2.'">
+				   '.$op2.'</p></label>
+				<p><label class="container"><input type="radio" name="an'.$qno.'"
+				  class="form-control container" value="'.$op3.'">
+				   '.$op3.'</p></label>
+				<p><label class="container"><input type="radio" name="an'.$qno.'"
+				  class="form-control container" value="'.$op4.'">
+				   '.$op4.'</p></label>
+				<input type="hidden" name="qst'.$qno.'"
+				 value="'.base64_encode($qs).'">
+				<input type="hidden" name="ran'.$qno.'"
+				 value="'.base64_encode($enan).'">
+				</div>
+				';	
+			}else{
+				print '
+				<div role="tabpanel" class="tab-pane fade in" id="tab'.$qno.'">
+				<p><b>'.$qno.'.</b> '.$qs.'</p>
+				<p><label class="container"><input type="radio"
+				 name="an'.$qno.'"  class="form-control container"
+				  value="'.$op1.'"> '.$op1.'</p></label>
+				<p><label class="container"><input type="radio"
+				 name="an'.$qno.'"  class="form-control container"
+				  value="'.$op2.'"> '.$op2.'</p></label>
+				<p><label class="container"><input type="radio"
+				 name="an'.$qno.'"  class="form-control container"
+				  value="'.$op3.'"> '.$op3.'</p></label>
+				<p><label class="container"><input type="radio"
+				 name="an'.$qno.'"  class="form-control container"
+				  value="'.$op4.'"> '.$op4.'</p></label>
+				<input type="hidden" name="qst'.$qno.'"
+				 value="'.base64_encode($qs).'">
+				<input type="hidden" name="ran'.$qno.'"
+				 value="'.base64_encode($enan).'">
+				</div>
+				';		
+			}	
+			$qno = $qno + 1;		
+		}	}}
+?>
+
+\end{verbatim}
+
+\subsection{Job Search}
+
+\begin{verbatim}
+	
+<?php
+session_start();
+require_once("db.php");
+$limit = 4;
+if(isset($_GET["page"])) {
+	$page = $_GET['page'];
+} else {
+	$page = 1;
+}
+$start_from = ($page-1) * $limit;
+if(isset($_GET['filter']) && $_GET['filter']=='searchBar') {
+	$search = $_GET['search'];
+	$sql = "SELECT * FROM job_post WHERE jobtitle 
+	LIKE '%$search%' LIMIT $start_from, $limit";
+} else if(isset($_GET['filter']) 
+&& $_GET['filter']=='experience') {
+	$sql = "SELECT * FROM job_post WHERE active='1' 
+	&& experience>='$_GET[search]' LIMIT $start_from, $limit";	
+}
+$result = $conn->query($sql);
+if($result->num_rows > 0) {
+	while($row = $result->fetch_assoc()) {
+		$sql1 = "SELECT * FROM company WHERE id_company='$row[id_company]'";
+		$result1 = $conn->query($sql1);
+		if($result1->num_rows > 0) {
+			while($row1 = $result1->fetch_assoc()) 
+			{
+				?>
+				<div class="attachment-block clearfix">
+				<img class="attachment-img" src="uploads/logo/<?php 
+				echo $row1['logo']; ?>" alt="Attachment Image">
+				<div class="attachment-pushed">
+				<h4 class="attachment-heading"><a href="view-job-post.php?id=<?php 
+				echo $row['id_jobpost']; ?>"><?php echo $row['jobtitle']; ?></a> 
+				<span class="attachment-heading pull-right">
+				<?php echo $row['maximumsalary']; ?>/Month</span></h4>
+				<div class="attachment-text">
+				<div><strong><?php echo $row1['companyname']; ?> |
+				 <?php echo $row1['city']; ?> | Experience <?php 
+				 echo $row['experience']; ?> Years</strong></div>
+				</div></div></div>
+				<?php
+				}	}	}}
+
+\end{verbatim}
+\pagebreak
+
 \section{Screenshots}
+
+\subsection {Homepage}
+This is the main page user sees when accessing {\bf Worklord} Job Portal Website. There will options to Login, Signup, Job Search and About (Motive of this project)
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/homepage}
+	\caption{Homepage}
+\end{figure}
+
+\subsection {Jobs}
+This section shows random Jobs Posted by different companies. Which Users and Guests can check details and Apply. Also provides option to search jobs
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/jobs}
+	\caption{Jobs}
+\end{figure}
 
 \pagebreak
 
+\subsection {About}
+This section show the motive of this project, Importance of this project in our current scenario
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/about}
+	\caption{About}
+\end{figure}
+
+\subsection {Login}
+This is the login page for User, Company and Admin. This page checks the user's type and redirect to appropriate pages
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/login}
+	\caption{Login}
+\end{figure}
+
+\pagebreak
+
+\subsection {Register - Company}
+This is the Registration page for every companies who are searching for new employees. Companies can register here with their details like email, company name, logo, etc.
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/comp_reg}
+	\caption{Register - Company}
+\end{figure}
+
+\subsection {Register - User}
+This is the Registration page for every users who are seeking for jobs. Users can register here with their details like email, name, resume, etc.
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/user_reg}
+	\caption{Register - User}
+\end{figure}
+
+\pagebreak
+
+\subsection {Users List}
+This the page which admin can view all registered users in the Job Portal. Admin can check their profile details and view resumes
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/admin/users_list}
+	\caption{Users List}
+\end{figure}
+
+\subsection {Company Management}
+This the page which admin can view all registered companies in the Job Portal. Admin can check their profile details and Approve or Disapprove or Delete their registration request.
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/admin/company_mng}
+	\caption{Company Management}
+\end{figure}
+
+\pagebreak
+
+\subsection {Examinations}
+This is the list of examinations, which admin is added for assessment of the users. Admin can View or Edit exam, Add or Remove questions and Drop exams.
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/admin/examslist}
+	\caption{Examinations}
+\end{figure}
+
+\subsection {Add Exam}
+In this page Admin can add exams for the users. Including duration of the exam and passmark for this exam.
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/admin/addexams}
+	\caption{Add Exam}
+\end{figure}
+
+\pagebreak
+
+\subsection {Tasks}
+This is the list of Tasks, which admin is added for assessment of the users. Admin can view or edit tasks, view or change question and add drop tasks.
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/admin/tasks_list}
+	\caption{Tasks}
+\end{figure}
+
+\subsection {Add Tasks}
+In this page Admin can add Tasks for the users. Including question of the exam and passmark for this exam.
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/admin/addtasks}
+	\caption{Add Tasks}
+\end{figure}
+
+\pagebreak
+
+
+\subsection {Tasks Reviews List}
+This is the list of Tasks to reviewed by the admin
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/admin/task_review2}
+	\caption{Tasks Review}
+\end{figure}
+
+\subsection {Review Task}
+In this page Admin can assign scores for the work users submitted through github.
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/admin/task_review3}
+	\caption{Review Task}
+\end{figure}
+
+\pagebreak
+
+\subsection {Jobs Posts}
+In this page shows the list of Job Posts posted by the different companies registered in this Job Portal.
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/admin/task_review2}
+	\caption{Jobs Posts}
+\end{figure}
+
+\subsection {Jobs Search}
+In this page Users or Guests can search for job posts in this Job Portal for Applying and Knowing details about companies.
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/jobsearch}
+	\caption{Jobs Search}
+\end{figure}
+
+\pagebreak
+
+\subsection {Post Jobs}
+In this page company can post job vacancies in their company. Which includes Position, Qualifications, Salary, etc.
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/company/company_cre_post}
+	\caption{Post Jobs}
+\end{figure}
+
+\subsection {Job Application Review}
+In this page company can review the Applied users. Download resumes, mark them reviewed and reject options are present. 
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/company/job_app_review}
+	\caption{Job Application Review}
+\end{figure}
+
+\pagebreak
+
+\subsection {Edit Profile}
+In this page company can edit their profile. Including Name, Country, Contact No, Logo, etc.
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/company/company_prof_edit}
+	\caption{Edit Profile}
+\end{figure}
+
+\subsection {Company Settings}
+In this page company can change their password and change owner name. Also deactivate account if neccessary.
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/company/settings}
+	\caption{Company Settings}
+\end{figure}
+
+\pagebreak
+
+\subsection {Edit Profile}
+In this page user can edit their profile. Including Name, Country, Contact No, Resume, etc.
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/user/user_prof_Edit}
+	\caption{Edit Profile}
+\end{figure}
+
+\subsection {User Settings}
+In this page user can change their password and deactivate account if neccessary.
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/user/settings}
+	\caption{User Settings}
+\end{figure}
+
+\pagebreak
+
+\subsection {Job Application}
+In this page user can apply for Job Post. Which will be sent to the companies for review.
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/user/job_appl_pre}
+	\caption{Job Application}
+\end{figure}
+
+\subsection {Applied Jobs}
+In this page user can view the applied jobs and its status.
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/user/job_Applications}
+	\caption{Applied Jobs}
+\end{figure}
+
+\pagebreak
+
+\subsection {Exam Terms}
+In this page user can view the exam name, terms, passmark and duration.
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/user/assess_terms}
+	\caption{Exam Terms}
+\end{figure}
+
+\subsection {Exam Assessment}
+In this page user need to complete the assessment by answering the questions with options. 
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/user/assessment}
+	\caption{Exam Assessment}
+\end{figure}
+
+\pagebreak
+
+\subsection {Task Assessment}
+In this page user view a question. User need to complete the task and submit github link for that project they completed.
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/user/task_assessment}
+	\caption{Task Assessment}
+\end{figure}
+
+\subsection {MailBox}
+In this page user or company can contact with each other. Only if the user is applied to the jobs posted by the company and marked for review. View contacted messages here.
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/mailbox}
+	\caption{MailBox}
+\end{figure}
+
+\pagebreak
+
+\subsection {Create Mail}
+In this page user or companies can create mails with subject and selecting user or company to be send.
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/createmail}
+	\caption{Create Mail}
+\end{figure}
+
+\subsection {Reply Mail}
+In this page user or company can reply to messages send from company or users without creating new mails.
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/replymail}
+	\caption{Reply Mail}
+\end{figure}
+
+\pagebreak
+
+\subsection {Exam Results}
+In this page user/ company/ Admin can view results of the user's exams.
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/exams_results_pre}
+	\caption{Exam Results}
+\end{figure}
+
+\subsection {Task Results}
+In this page user/ company/ Admin can view results of the user's task assessments.
+\begin{figure}[bph]
+	\centering
+	\includegraphics[width=.7\linewidth ]{img/screenshots/exams_results_pre}
+	\caption{Task Results}
+\end{figure}
+
+\pagebreak
+
+
 \section{Git History}
+
+https://github.com/worklord
 
 \begin{figure}[bph]
 	\centering
