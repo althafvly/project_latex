@@ -1,130 +1,138 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.8.14)  26 NOV 2020 00:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.25)  26 NOV 2020 18:56
 entering extended mode
 **./worklord(Feasibilitystudy)-1.tex
 (worklord(Feasibilitystudy)-1.tex
-LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-06-18>
-(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
-Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
-(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
-File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-10-27> xparse <2020-03-03>
+("C:\Program Files\MiKTeX\tex/latex/base\report.cls"
+Document Class: report 2020/04/10 v1.4m Standard LaTeX document class
+("C:\Program Files\MiKTeX\tex/latex/base\size12.clo"
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
-\c@part=\count167
-\c@chapter=\count168
-\c@section=\count169
-\c@subsection=\count170
-\c@subsubsection=\count171
-\c@paragraph=\count172
-\c@subparagraph=\count173
-\c@figure=\count174
-\c@table=\count175
+\c@part=\count175
+\c@chapter=\count176
+\c@section=\count177
+\c@subsection=\count178
+\c@subsubsection=\count179
+\c@paragraph=\count180
+\c@subparagraph=\count181
+\c@figure=\count182
+\c@table=\count183
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen134
+\bibindent=\dimen138
 )
-(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
-Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+("C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+("C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
 )
-(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
-Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+("C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty"
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+("C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
-(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+
+("C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen135
-\Gin@req@width=\dimen136
-) ("C:\Users\HP\Downloads\New folder\tex/latex/psnfss\times.sty"
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+("C:\Program Files\MiKTeX\tex/latex/psnfss\times.sty"
 Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
 )
-("C:\Users\HP\Downloads\New folder\tex/latex/geometry\geometry.sty"
+("C:\Program Files\MiKTeX\tex/latex/geometry\geometry.sty"
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+("C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty"
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+("C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty"
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count176
-\Gm@cntv=\count177
-\c@Gm@tempcnt=\count178
-\Gm@bindingoffset=\dimen137
-\Gm@wd@mp=\dimen138
-\Gm@odd@mp=\dimen139
-\Gm@even@mp=\dimen140
-\Gm@layoutwidth=\dimen141
-\Gm@layoutheight=\dimen142
-\Gm@layouthoffset=\dimen143
-\Gm@layoutvoffset=\dimen144
+\Gm@cnth=\count184
+\Gm@cntv=\count185
+\c@Gm@tempcnt=\count186
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
 \Gm@dimlist=\toks16
 
-("C:\Users\HP\Downloads\New folder\tex/latex/geometry\geometry.cfg"))
-("C:\Users\HP\Downloads\New folder\tex/latex/multirow\multirow.sty"
+("C:\Program Files\MiKTeX\tex/latex/geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX\tex/latex/multirow\multirow.sty"
 Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
 \multirow@colwidth=\skip49
-\multirow@cntb=\count179
+\multirow@cntb=\count187
 \multirow@dima=\skip50
-\bigstrutjot=\dimen145
+\bigstrutjot=\dimen149
 )
-("C:\Users\HP\Downloads\New folder\tex/latex/caption\caption.sty"
-Package: caption 2020/09/02 v3.5a Customizing captions (AR)
+("C:\Program Files\MiKTeX\tex/latex/caption\caption.sty"
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
 
-("C:\Users\HP\Downloads\New folder\tex/latex/caption\caption3.sty"
-Package: caption3 2020/08/30 v2.0 caption3 kernel (AR)
-\captionmargin=\dimen146
-\captionmargin@=\dimen147
-\captionwidth=\dimen148
-\caption@tempdima=\dimen149
-\caption@indent=\dimen150
-\caption@parindent=\dimen151
-\caption@hangindent=\dimen152
+("C:\Program Files\MiKTeX\tex/latex/caption\caption3.sty"
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen150
+\captionmargin@=\dimen151
+\captionwidth=\dimen152
+\caption@tempdima=\dimen153
+\caption@indent=\dimen154
+\caption@parindent=\dimen155
+\caption@hangindent=\dimen156
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count180
-\c@continuedfloat=\count181
+\c@caption@flags=\count188
+\c@continuedfloat=\count189
 )
-(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blindtext.sty
+("C:\Program Files\MiKTeX\tex/latex/blindtext\blindtext.sty"
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
 
-(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
+("C:\Program Files\MiKTeX\tex/latex/tools\xspace.sty"
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count182
-\c@Blindtext=\count183
-\c@blind@countparstart=\count184
-\blind@countxx=\count185
-\blindtext@numBlindtext=\count186
-\blind@countyy=\count187
-\c@blindlist=\count188
-\c@blindlistlevel=\count189
-\c@blindlist@level=\count190
-\blind@listitem=\count191
-\c@blind@listcount=\count192
-\c@blind@levelcount=\count193
-\blind@mathformula=\count194
-\blind@Mathformula=\count195
-\c@blind@randomcount=\count196
-\c@blind@randommax=\count197
-\c@blind@pangramcount=\count198
-\c@blind@pangrammax=\count199
+\c@blindtext=\count190
+\c@Blindtext=\count191
+\c@blind@countparstart=\count192
+\blind@countxx=\count193
+\blindtext@numBlindtext=\count194
+\blind@countyy=\count195
+\c@blindlist=\count196
+\c@blindlistlevel=\count197
+\c@blindlist@level=\count198
+\blind@listitem=\count199
+\c@blind@listcount=\count266
+\c@blind@levelcount=\count267
+\blind@mathformula=\count268
+\blind@Mathformula=\count269
+\c@blind@randomcount=\count270
+\c@blind@randommax=\count271
+\c@blind@pangramcount=\count272
+\c@blind@pangrammax=\count273
 )
-(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdfmod
-e.def
-File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count266
-\l__pdf_internal_box=\box45
-) (worklord(Feasibilitystudy)-1.aux
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 9
+.
+
+("C:\Program Files\MiKTeX\tex/latex/psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def"
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count274
+\l__pdf_internal_box=\box47
+)
+(worklord(Feasibilitystudy)-1.aux
 
 LaTeX Warning: Label `fig:ksblogo' multiply defined.
 
@@ -145,27 +153,20 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 9
-.
- ("C:\Users\HP\Downloads\New folder\tex/latex/psnfss\ot1ptm.fd"
-File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-)
-(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+ ("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count267
-\scratchdimen=\dimen153
-\scratchbox=\box46
-\nofMPsegments=\count268
-\nofMParguments=\count269
+\scratchcounter=\count275
+\scratchdimen=\dimen157
+\scratchbox=\box48
+\nofMPsegments=\count276
+\nofMParguments=\count277
 \everyMPshowfont=\toks17
-\MPscratchCnt=\count270
-\MPscratchDim=\dimen154
-\MPnumerator=\count271
-\makeMPintoPDFobject=\count272
+\MPscratchCnt=\count278
+\MPscratchDim=\dimen158
+\MPnumerator=\count279
+\makeMPintoPDFobject=\count280
 \everyMPtoPDFconversion=\toks18
-)
-(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base
-.sty
+) ("C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
@@ -213,7 +214,7 @@ Package pdftex.def Info: kmct.png  used on input line 34.
 (pdftex.def)             Requested size: 131.08641pt x 128.20248pt.
 [1
 
-{C:/Users/HP/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./kmct.png>]
+{C:/Users/Althaf/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./kmct.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 58--68
 
  []
@@ -691,13 +692,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 528--528
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-[]\OT1/ptm/m/n/12 Update Pro-
+Underfull \hbox (badness 5893) in paragraph at lines 530--530
+[]\OT1/ptm/m/n/12 Update Pro-file,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 530--530
-\OT1/ptm/m/n/12 file, Change
+\OT1/ptm/m/n/12 Change pass-
  []
 
 
@@ -1680,7 +1681,7 @@ Overfull \hbox (3.43759pt too wide) in paragraph at lines 1638--1638
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1646--1646
-[]\OT1/ptm/m/n/12 View
+[]\OT1/ptm/m/n/12 View can-
  []
 
 
@@ -1769,8 +1770,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 1652--1652
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1652--1652
-\OT1/ptm/m/n/12 can send or
+Underfull \hbox (badness 1888) in paragraph at lines 1652--1652
+\OT1/ptm/m/n/12 can send or re-
  []
 
 
@@ -1779,8 +1780,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 1652--1652
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1652--1652
-\OT1/ptm/m/n/12 can send or
+Underfull \hbox (badness 1888) in paragraph at lines 1652--1652
+\OT1/ptm/m/n/12 can send or re-
  []
 
 
@@ -1840,6 +1841,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 1668--1669
 
 [68]
 Chapter 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1674--1675
+
+ []
+
 [69
 
 ]
@@ -1847,17 +1853,17 @@ Chapter 5.
 File: img/screenshots/exams_results_pre.png Graphic file (type png)
 <use img/screenshots/exams_results_pre.png>
 Package pdftex.def Info: img/screenshots/exams_results_pre.png  used on input l
-ine 1686.
+ine 1687.
 (pdftex.def)             Requested size: 303.53267pt x 161.09798pt.
 File: img/screenshots/exams_results_pre.png Graphic file (type png)
 <use img/screenshots/exams_results_pre.png>
 Package pdftex.def Info: img/screenshots/exams_results_pre.png  used on input l
-ine 1694.
+ine 1695.
 (pdftex.def)             Requested size: 303.53267pt x 161.09798pt.
  [70 <./img/screenshots/exams_results_pre.png>]
 Chapter 6.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1703--1704
+Underfull \hbox (badness 10000) in paragraph at lines 1704--1705
 
  []
 
@@ -1870,23 +1876,23 @@ Chapter 7.
 ] [73]
 Chapter 8.
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 1
-739.
-("C:\Users\HP\Downloads\New folder\tex/latex/psnfss\ot1pcr.fd"
+740.
+("C:\Program Files\MiKTeX\tex/latex/psnfss\ot1pcr.fd"
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-Overfull \hbox (41.5798pt too wide) in paragraph at lines 1821--1821
+Overfull \hbox (41.5798pt too wide) in paragraph at lines 1822--1822
 []\OT1/pcr/m/n/12 <select class="form-control  input-lg" id="country" name="cou
 ntry"[] 
  []
 
 
-Overfull \hbox (5.57982pt too wide) in paragraph at lines 1821--1821
+Overfull \hbox (5.57982pt too wide) in paragraph at lines 1822--1822
 []\OT1/pcr/m/n/12 <div id="stateDiv" class="form-group" style="display: none;">
 [] 
  []
 
 
-Overfull \hbox (12.77982pt too wide) in paragraph at lines 1821--1821
+Overfull \hbox (12.77982pt too wide) in paragraph at lines 1822--1822
 []\OT1/pcr/m/n/12 <select class="form-control  input-lg" id="state" name="state
 "[] 
  []
@@ -1894,205 +1900,205 @@ Overfull \hbox (12.77982pt too wide) in paragraph at lines 1821--1821
 [74
 
 ]
-Overfull \hbox (12.77982pt too wide) in paragraph at lines 1821--1821
+Overfull \hbox (12.77982pt too wide) in paragraph at lines 1822--1822
 []\OT1/pcr/m/n/12 <select class="form-control  input-lg" id="city" name="city" 
 >[] 
  []
 
 [75]
-Overfull \hbox (5.57982pt too wide) in paragraph at lines 1821--1821
+Overfull \hbox (5.57982pt too wide) in paragraph at lines 1822--1822
 []        \OT1/pcr/m/n/12 data-id="'.$row["id"].'">'.$row["name"].'</option>'; 
 [] 
  []
 
 
-Overfull \hbox (19.97981pt too wide) in paragraph at lines 1871--1871
+Overfull \hbox (19.97981pt too wide) in paragraph at lines 1872--1872
 []\OT1/pcr/m/n/12 <h1>\If you can <strong>DREAM</strong> it, you can DO it "</h
 1>[] 
  []
 
 [76]
-Overfull \hbox (55.9798pt too wide) in paragraph at lines 1871--1871
+Overfull \hbox (55.9798pt too wide) in paragraph at lines 1872--1872
 []\OT1/pcr/m/n/12 $sql1 = "SELECT * FROM company WHERE id_company='$row[id_comp
 any]'";[] 
  []
 
 
-Overfull \hbox (27.17981pt too wide) in paragraph at lines 1871--1871
+Overfull \hbox (27.17981pt too wide) in paragraph at lines 1872--1872
 []\OT1/pcr/m/n/12 <h4><a href="view-job-post.php?id=<?php echo $row['id_jobpost
 '];[] 
  []
 
 
-Overfull \hbox (34.3798pt too wide) in paragraph at lines 1871--1871
+Overfull \hbox (34.3798pt too wide) in paragraph at lines 1872--1872
 []\OT1/pcr/m/n/12 ?>"><?php echo $row['jobtitle']; ?></a> <span class="pull-rig
 ht">[] 
  []
 
 
-Overfull \hbox (19.97981pt too wide) in paragraph at lines 1982--1982
+Overfull \hbox (19.97981pt too wide) in paragraph at lines 1983--1983
 []\OT1/pcr/m/n/12 $firstname = mysqli_real_escape_string($conn, $_POST['fname']
 );[] 
  []
 
 
-Overfull \hbox (12.77982pt too wide) in paragraph at lines 1982--1982
+Overfull \hbox (12.77982pt too wide) in paragraph at lines 1983--1983
 []\OT1/pcr/m/n/12 $lastname = mysqli_real_escape_string($conn, $_POST['lname'])
 ;[] 
  []
 
 
-Overfull \hbox (19.97981pt too wide) in paragraph at lines 1982--1982
+Overfull \hbox (19.97981pt too wide) in paragraph at lines 1983--1983
 []\OT1/pcr/m/n/12 $address = mysqli_real_escape_string($conn, $_POST['address']
 );[] 
  []
 
 [77]
-Overfull \hbox (48.7798pt too wide) in paragraph at lines 1982--1982
+Overfull \hbox (48.7798pt too wide) in paragraph at lines 1983--1983
 []\OT1/pcr/m/n/12 $contactno = mysqli_real_escape_string($conn, $_POST['contact
 no']);[] 
  []
 
 
-Overfull \hbox (5.57982pt too wide) in paragraph at lines 1982--1982
+Overfull \hbox (5.57982pt too wide) in paragraph at lines 1983--1983
 []\OT1/pcr/m/n/12 $stream = mysqli_real_escape_string($conn, $_POST['stream']);
 [] 
  []
 
 
-Overfull \hbox (63.1798pt too wide) in paragraph at lines 1982--1982
+Overfull \hbox (63.1798pt too wide) in paragraph at lines 1983--1983
 []\OT1/pcr/m/n/12 $passingyear=mysqli_real_escape_string($conn, $_POST['passing
 year']);[] 
  []
 
 
-Overfull \hbox (63.1798pt too wide) in paragraph at lines 1982--1982
+Overfull \hbox (63.1798pt too wide) in paragraph at lines 1983--1983
 []\OT1/pcr/m/n/12 $designation=mysqli_real_escape_string($conn, $_POST['designa
 tion']);[] 
  []
 
 
-Overfull \hbox (19.97981pt too wide) in paragraph at lines 1982--1982
+Overfull \hbox (19.97981pt too wide) in paragraph at lines 1983--1983
 []\OT1/pcr/m/n/12 $aboutme = mysqli_real_escape_string($conn, $_POST['aboutme']
 );[] 
  []
 
 
-Overfull \hbox (5.57982pt too wide) in paragraph at lines 1982--1982
+Overfull \hbox (5.57982pt too wide) in paragraph at lines 1983--1983
 []\OT1/pcr/m/n/12 $skills = mysqli_real_escape_string($conn, $_POST['skills']);
 [] 
  []
 
 
-Overfull \hbox (34.3798pt too wide) in paragraph at lines 1982--1982
+Overfull \hbox (34.3798pt too wide) in paragraph at lines 1983--1983
 []\OT1/pcr/m/n/12 $password = mysqli_real_escape_string($conn, $_POST['password
 ']);[] 
  []
 
 
-Overfull \hbox (5.57982pt too wide) in paragraph at lines 1982--1982
+Overfull \hbox (5.57982pt too wide) in paragraph at lines 1983--1983
 []\OT1/pcr/m/n/12 //This variable is used to catch errors doing upload process.
 [] 
  []
 
 [78]
-Overfull \hbox (5.57982pt too wide) in paragraph at lines 1982--1982
+Overfull \hbox (5.57982pt too wide) in paragraph at lines 1983--1983
 []\OT1/pcr/m/n/12 move_uploaded_file($_FILES["resume"]["tmp_name"], $filename);
 [] 
  []
 
 
-Overfull \hbox (27.17981pt too wide) in paragraph at lines 1982--1982
+Overfull \hbox (27.17981pt too wide) in paragraph at lines 1983--1983
 []\OT1/pcr/m/n/12 $_SESSION['uploadError'] = "Wrong Size. Max Size Allowed : 5M
 B";[] 
  []
 
 
-Overfull \hbox (12.77982pt too wide) in paragraph at lines 1982--1982
+Overfull \hbox (12.77982pt too wide) in paragraph at lines 1983--1983
 []\OT1/pcr/m/n/12 $sql = "INSERT INTO users(firstname, lastname, email, address
 ,[] 
  []
 
 
-Overfull \hbox (34.3798pt too wide) in paragraph at lines 1982--1982
+Overfull \hbox (34.3798pt too wide) in paragraph at lines 1983--1983
 []\OT1/pcr/m/n/12 VALUES ('$firstname', '$lastname', '$email', '$address', '$ci
 ty',[] 
  []
 
 [79]
-Overfull \hbox (41.5798pt too wide) in paragraph at lines 1982--1982
+Overfull \hbox (41.5798pt too wide) in paragraph at lines 1983--1983
 []\OT1/pcr/m/n/12 //if email found in database then show email already exists e
 rror.[] 
  []
 
 
-Overfull \hbox (12.77982pt too wide) in paragraph at lines 1982--1982
+Overfull \hbox (12.77982pt too wide) in paragraph at lines 1983--1983
 []\OT1/pcr/m/n/12 //Close database connection. Not compulsory but good practice
 .[] 
  []
 
 
-Overfull \hbox (5.57982pt too wide) in paragraph at lines 2081--2081
+Overfull \hbox (5.57982pt too wide) in paragraph at lines 2082--2082
 []\OT1/pcr/m/n/12 <p><input type="text" name="an'.$qno.'"  class="form-control"
 [] 
  []
 
 [80]
-Overfull \hbox (19.97981pt too wide) in paragraph at lines 2081--2081
+Overfull \hbox (19.97981pt too wide) in paragraph at lines 2082--2082
 []\OT1/pcr/m/n/12 <div role="tabpanel" class="tab-pane fade in" id="tab'.$qno.'
 ">[] 
  []
 
 
-Overfull \hbox (5.57982pt too wide) in paragraph at lines 2081--2081
+Overfull \hbox (5.57982pt too wide) in paragraph at lines 2082--2082
 []\OT1/pcr/m/n/12 <p><input type="text" name="an'.$qno.'"  class="form-control"
 [] 
  []
 
 
-Overfull \hbox (34.3798pt too wide) in paragraph at lines 2081--2081
+Overfull \hbox (34.3798pt too wide) in paragraph at lines 2082--2082
 []\OT1/pcr/m/n/12 <p><label class="container"><input type="radio" name="an'.$qn
 o.'"[] 
  []
 
 
-Overfull \hbox (34.3798pt too wide) in paragraph at lines 2081--2081
+Overfull \hbox (34.3798pt too wide) in paragraph at lines 2082--2082
 []\OT1/pcr/m/n/12 <p><label class="container"><input type="radio" name="an'.$qn
 o.'"[] 
  []
 
 
-Overfull \hbox (34.3798pt too wide) in paragraph at lines 2081--2081
+Overfull \hbox (34.3798pt too wide) in paragraph at lines 2082--2082
 []\OT1/pcr/m/n/12 <p><label class="container"><input type="radio" name="an'.$qn
 o.'"[] 
  []
 
 
-Overfull \hbox (34.3798pt too wide) in paragraph at lines 2081--2081
+Overfull \hbox (34.3798pt too wide) in paragraph at lines 2082--2082
 []\OT1/pcr/m/n/12 <p><label class="container"><input type="radio" name="an'.$qn
 o.'"[] 
  []
 
 [81]
-Overfull \hbox (19.97981pt too wide) in paragraph at lines 2081--2081
+Overfull \hbox (19.97981pt too wide) in paragraph at lines 2082--2082
 []\OT1/pcr/m/n/12 <div role="tabpanel" class="tab-pane fade in" id="tab'.$qno.'
 ">[] 
  []
 
 [82]
-Overfull \hbox (55.9798pt too wide) in paragraph at lines 2131--2131
+Overfull \hbox (55.9798pt too wide) in paragraph at lines 2132--2132
 []\OT1/pcr/m/n/12 $sql1 = "SELECT * FROM company WHERE id_company='$row[id_comp
 any]'";[] 
  []
 
 
-Overfull \hbox (41.5798pt too wide) in paragraph at lines 2131--2131
+Overfull \hbox (41.5798pt too wide) in paragraph at lines 2132--2132
 []\OT1/pcr/m/n/12 <h4 class="attachment-heading"><a href="view-job-post.php?id=
 <?php[] 
  []
 
 
-Overfull \hbox (27.17981pt too wide) in paragraph at lines 2131--2131
+Overfull \hbox (27.17981pt too wide) in paragraph at lines 2132--2132
 []\OT1/pcr/m/n/12 echo $row['id_jobpost']; ?>"><?php echo $row['jobtitle']; ?><
 /a>[] 
  []
@@ -2101,37 +2107,37 @@ Overfull \hbox (27.17981pt too wide) in paragraph at lines 2131--2131
 <img/screenshots/homepage.png, id=447, 1028.34187pt x 548.80031pt>
 File: img/screenshots/homepage.png Graphic file (type png)
 <use img/screenshots/homepage.png>
-Package pdftex.def Info: img/screenshots/homepage.png  used on input line 2140.
+Package pdftex.def Info: img/screenshots/homepage.png  used on input line 2141.
 
 (pdftex.def)             Requested size: 303.53267pt x 161.98679pt.
 <img/screenshots/jobs.png, id=448, 1020.06094pt x 513.41812pt>
 File: img/screenshots/jobs.png Graphic file (type png)
 <use img/screenshots/jobs.png>
-Package pdftex.def Info: img/screenshots/jobs.png  used on input line 2148.
+Package pdftex.def Info: img/screenshots/jobs.png  used on input line 2149.
 (pdftex.def)             Requested size: 303.53267pt x 152.77316pt.
  [84 <./img/screenshots/homepage.png> <./img/screenshots/jobs.png>]
 <img/screenshots/about.png, id=454, 1028.34187pt x 545.03625pt>
 File: img/screenshots/about.png Graphic file (type png)
 <use img/screenshots/about.png>
-Package pdftex.def Info: img/screenshots/about.png  used on input line 2158.
+Package pdftex.def Info: img/screenshots/about.png  used on input line 2159.
 (pdftex.def)             Requested size: 303.53267pt x 160.87578pt.
 <img/screenshots/login.png, id=455, 1028.34187pt x 550.30594pt>
 File: img/screenshots/login.png Graphic file (type png)
 <use img/screenshots/login.png>
-Package pdftex.def Info: img/screenshots/login.png  used on input line 2166.
+Package pdftex.def Info: img/screenshots/login.png  used on input line 2167.
 (pdftex.def)             Requested size: 303.53267pt x 162.43121pt.
 
 [85 <./img/screenshots/about.png> <./img/screenshots/login.png>]
 <img/screenshots/comp_reg.png, id=461, 1028.34187pt x 545.78906pt>
 File: img/screenshots/comp_reg.png Graphic file (type png)
 <use img/screenshots/comp_reg.png>
-Package pdftex.def Info: img/screenshots/comp_reg.png  used on input line 2176.
+Package pdftex.def Info: img/screenshots/comp_reg.png  used on input line 2177.
 
 (pdftex.def)             Requested size: 303.53267pt x 161.09798pt.
 <img/screenshots/user_reg.png, id=462, 1028.34187pt x 546.54187pt>
 File: img/screenshots/user_reg.png Graphic file (type png)
 <use img/screenshots/user_reg.png>
-Package pdftex.def Info: img/screenshots/user_reg.png  used on input line 2184.
+Package pdftex.def Info: img/screenshots/user_reg.png  used on input line 2185.
 
 (pdftex.def)             Requested size: 303.53267pt x 161.32018pt.
  [86 <./img/screenshots/comp_reg.png> <./img/screenshots/user_reg.png>]
@@ -2139,13 +2145,13 @@ Package pdftex.def Info: img/screenshots/user_reg.png  used on input line 2184.
 File: img/screenshots/admin/users_list.png Graphic file (type png)
 <use img/screenshots/admin/users_list.png>
 Package pdftex.def Info: img/screenshots/admin/users_list.png  used on input li
-ne 2194.
+ne 2195.
 (pdftex.def)             Requested size: 303.53267pt x 154.87627pt.
 <img/screenshots/admin/company_mng.png, id=469, 1028.34187pt x 548.0475pt>
 File: img/screenshots/admin/company_mng.png Graphic file (type png)
 <use img/screenshots/admin/company_mng.png>
 Package pdftex.def Info: img/screenshots/admin/company_mng.png  used on input l
-ine 2202.
+ine 2203.
 (pdftex.def)             Requested size: 303.53267pt x 161.76459pt.
  [87 <./img/screenshots/admin/users_list.png> <./img/screenshots/admin/company_
 mng.png>]
@@ -2153,13 +2159,13 @@ mng.png>]
 File: img/screenshots/admin/examslist.png Graphic file (type png)
 <use img/screenshots/admin/examslist.png>
 Package pdftex.def Info: img/screenshots/admin/examslist.png  used on input lin
-e 2212.
+e 2213.
 (pdftex.def)             Requested size: 303.53267pt x 161.32018pt.
 <img/screenshots/admin/addexams.png, id=476, 1028.34187pt x 547.2947pt>
 File: img/screenshots/admin/addexams.png Graphic file (type png)
 <use img/screenshots/admin/addexams.png>
 Package pdftex.def Info: img/screenshots/admin/addexams.png  used on input line
- 2220.
+ 2221.
 (pdftex.def)             Requested size: 303.53267pt x 161.54239pt.
  [88 <./img/screenshots/admin/examslist.png> <./img/screenshots/admin/addexams.
 png>]
@@ -2167,13 +2173,13 @@ png>]
 File: img/screenshots/admin/tasks_list.png Graphic file (type png)
 <use img/screenshots/admin/tasks_list.png>
 Package pdftex.def Info: img/screenshots/admin/tasks_list.png  used on input li
-ne 2230.
+ne 2231.
 (pdftex.def)             Requested size: 303.53267pt x 162.209pt.
 <img/screenshots/admin/addtasks.png, id=483, 1028.34187pt x 548.0475pt>
 File: img/screenshots/admin/addtasks.png Graphic file (type png)
 <use img/screenshots/admin/addtasks.png>
 Package pdftex.def Info: img/screenshots/admin/addtasks.png  used on input line
- 2238.
+ 2239.
 (pdftex.def)             Requested size: 303.53267pt x 161.76459pt.
  [89 <./img/screenshots/admin/tasks_list.png> <./img/screenshots/admin/addtasks
 .png>]
@@ -2181,13 +2187,13 @@ Package pdftex.def Info: img/screenshots/admin/addtasks.png  used on input line
 File: img/screenshots/admin/task_review2.png Graphic file (type png)
 <use img/screenshots/admin/task_review2.png>
 Package pdftex.def Info: img/screenshots/admin/task_review2.png  used on input 
-line 2249.
+line 2250.
 (pdftex.def)             Requested size: 303.53267pt x 161.98679pt.
 <img/screenshots/admin/task_review3.png, id=491, 1028.34187pt x 549.55313pt>
 File: img/screenshots/admin/task_review3.png Graphic file (type png)
 <use img/screenshots/admin/task_review3.png>
 Package pdftex.def Info: img/screenshots/admin/task_review3.png  used on input 
-line 2257.
+line 2258.
 (pdftex.def)             Requested size: 303.53267pt x 162.209pt.
 
 [90 <./img/screenshots/admin/task_review2.png> <./img/screenshots/admin/task_re
@@ -2195,12 +2201,12 @@ view3.png>]
 File: img/screenshots/admin/task_review2.png Graphic file (type png)
 <use img/screenshots/admin/task_review2.png>
 Package pdftex.def Info: img/screenshots/admin/task_review2.png  used on input 
-line 2267.
+line 2268.
 (pdftex.def)             Requested size: 303.53267pt x 161.98679pt.
 <img/screenshots/jobsearch.png, id=497, 1028.34187pt x 545.78906pt>
 File: img/screenshots/jobsearch.png Graphic file (type png)
 <use img/screenshots/jobsearch.png>
-Package pdftex.def Info: img/screenshots/jobsearch.png  used on input line 2275
+Package pdftex.def Info: img/screenshots/jobsearch.png  used on input line 2276
 .
 (pdftex.def)             Requested size: 303.53267pt x 161.09798pt.
  [91 <./img/screenshots/jobsearch.png>]
@@ -2209,14 +2215,14 @@ pt>
 File: img/screenshots/company/company_cre_post.png Graphic file (type png)
 <use img/screenshots/company/company_cre_post.png>
 Package pdftex.def Info: img/screenshots/company/company_cre_post.png  used on 
-input line 2285.
+input line 2286.
 (pdftex.def)             Requested size: 303.53267pt x 161.98679pt.
 <img/screenshots/company/job_app_review.png, id=503, 1028.34187pt x 536.0025pt>
 
 File: img/screenshots/company/job_app_review.png Graphic file (type png)
 <use img/screenshots/company/job_app_review.png>
 Package pdftex.def Info: img/screenshots/company/job_app_review.png  used on in
-put line 2293.
+put line 2294.
 (pdftex.def)             Requested size: 303.53267pt x 158.20934pt.
  [92 <./img/screenshots/company/company_cre_post.png> <./img/screenshots/compan
 y/job_app_review.png>]
@@ -2225,13 +2231,13 @@ y/job_app_review.png>]
 File: img/screenshots/company/company_prof_edit.png Graphic file (type png)
 <use img/screenshots/company/company_prof_edit.png>
 Package pdftex.def Info: img/screenshots/company/company_prof_edit.png  used on
- input line 2303.
+ input line 2304.
 (pdftex.def)             Requested size: 303.53267pt x 161.98679pt.
 <img/screenshots/company/settings.png, id=510, 1028.34187pt x 528.47438pt>
 File: img/screenshots/company/settings.png Graphic file (type png)
 <use img/screenshots/company/settings.png>
 Package pdftex.def Info: img/screenshots/company/settings.png  used on input li
-ne 2311.
+ne 2312.
 (pdftex.def)             Requested size: 303.53267pt x 155.98729pt.
 
 [93 <./img/screenshots/company/company_prof_edit.png> <./img/screenshots/compan
@@ -2240,13 +2246,13 @@ y/settings.png>]
 File: img/screenshots/user/user_prof_Edit.png Graphic file (type png)
 <use img/screenshots/user/user_prof_Edit.png>
 Package pdftex.def Info: img/screenshots/user/user_prof_Edit.png  used on input
- line 2321.
+ line 2322.
 (pdftex.def)             Requested size: 303.53267pt x 161.09798pt.
 <img/screenshots/user/settings.png, id=517, 1028.34187pt x 536.75531pt>
 File: img/screenshots/user/settings.png Graphic file (type png)
 <use img/screenshots/user/settings.png>
 Package pdftex.def Info: img/screenshots/user/settings.png  used on input line 
-2329.
+2330.
 (pdftex.def)             Requested size: 303.53267pt x 158.43153pt.
  [94 <./img/screenshots/user/user_prof_Edit.png> <./img/screenshots/user/settin
 gs.png>]
@@ -2254,14 +2260,14 @@ gs.png>]
 File: img/screenshots/user/job_appl_pre.png Graphic file (type png)
 <use img/screenshots/user/job_appl_pre.png>
 Package pdftex.def Info: img/screenshots/user/job_appl_pre.png  used on input l
-ine 2339.
+ine 2340.
 (pdftex.def)             Requested size: 303.53267pt x 161.09798pt.
 <img/screenshots/user/job_Applications.png, id=524, 1028.34187pt x 545.78906pt>
 
 File: img/screenshots/user/job_Applications.png Graphic file (type png)
 <use img/screenshots/user/job_Applications.png>
 Package pdftex.def Info: img/screenshots/user/job_Applications.png  used on inp
-ut line 2347.
+ut line 2348.
 (pdftex.def)             Requested size: 303.53267pt x 161.09798pt.
  [95 <./img/screenshots/user/job_appl_pre.png> <./img/screenshots/user/job_Appl
 ications.png>]
@@ -2269,13 +2275,13 @@ ications.png>]
 File: img/screenshots/user/assess_terms.png Graphic file (type png)
 <use img/screenshots/user/assess_terms.png>
 Package pdftex.def Info: img/screenshots/user/assess_terms.png  used on input l
-ine 2357.
+ine 2358.
 (pdftex.def)             Requested size: 303.53267pt x 161.09798pt.
 <img/screenshots/user/assessment.png, id=532, 1028.34187pt x 575.14874pt>
 File: img/screenshots/user/assessment.png Graphic file (type png)
 <use img/screenshots/user/assessment.png>
 Package pdftex.def Info: img/screenshots/user/assessment.png  used on input lin
-e 2365.
+e 2366.
 (pdftex.def)             Requested size: 303.53267pt x 169.76395pt.
  [96 <./img/screenshots/user/assess_terms.png> <./img/screenshots/user/assessme
 nt.png>]
@@ -2283,12 +2289,12 @@ nt.png>]
 File: img/screenshots/user/task_assessment.png Graphic file (type png)
 <use img/screenshots/user/task_assessment.png>
 Package pdftex.def Info: img/screenshots/user/task_assessment.png  used on inpu
-t line 2375.
+t line 2376.
 (pdftex.def)             Requested size: 303.53267pt x 159.32034pt.
 <img/screenshots/mailbox.png, id=539, 1028.34187pt x 532.99126pt>
 File: img/screenshots/mailbox.png Graphic file (type png)
 <use img/screenshots/mailbox.png>
-Package pdftex.def Info: img/screenshots/mailbox.png  used on input line 2383.
+Package pdftex.def Info: img/screenshots/mailbox.png  used on input line 2384.
 (pdftex.def)             Requested size: 303.53267pt x 157.32051pt.
  [97 <./img/screenshots/user/task_assessment.png> <./img/screenshots/mailbox.pn
 g>]
@@ -2296,90 +2302,90 @@ g>]
 File: img/screenshots/createmail.png Graphic file (type png)
 <use img/screenshots/createmail.png>
 Package pdftex.def Info: img/screenshots/createmail.png  used on input line 239
-3.
+4.
 (pdftex.def)             Requested size: 303.53267pt x 155.98729pt.
 <img/screenshots/replymail.png, id=546, 1028.34187pt x 537.50812pt>
 File: img/screenshots/replymail.png Graphic file (type png)
 <use img/screenshots/replymail.png>
-Package pdftex.def Info: img/screenshots/replymail.png  used on input line 2401
+Package pdftex.def Info: img/screenshots/replymail.png  used on input line 2402
 .
 (pdftex.def)             Requested size: 303.53267pt x 158.65373pt.
  [98 <./img/screenshots/createmail.png> <./img/screenshots/replymail.png>]
 File: img/screenshots/exams_results_pre.png Graphic file (type png)
 <use img/screenshots/exams_results_pre.png>
 Package pdftex.def Info: img/screenshots/exams_results_pre.png  used on input l
-ine 2411.
+ine 2412.
 (pdftex.def)             Requested size: 303.53267pt x 161.09798pt.
 File: img/screenshots/exams_results_pre.png Graphic file (type png)
 <use img/screenshots/exams_results_pre.png>
 Package pdftex.def Info: img/screenshots/exams_results_pre.png  used on input l
-ine 2419.
+ine 2420.
 (pdftex.def)             Requested size: 303.53267pt x 161.09798pt.
  [99]
 <img/screenshots/git/1.png, id=555, 931.22906pt x 387.69844pt>
 File: img/screenshots/git/1.png Graphic file (type png)
 <use img/screenshots/git/1.png>
-Package pdftex.def Info: img/screenshots/git/1.png  used on input line 2432.
+Package pdftex.def Info: img/screenshots/git/1.png  used on input line 2433.
 (pdftex.def)             Requested size: 346.89731pt x 144.42227pt.
 <img/screenshots/git/2.png, id=556, 922.19531pt x 438.8897pt>
 File: img/screenshots/git/2.png Graphic file (type png)
 <use img/screenshots/git/2.png>
-Package pdftex.def Info: img/screenshots/git/2.png  used on input line 2433.
+Package pdftex.def Info: img/screenshots/git/2.png  used on input line 2434.
 (pdftex.def)             Requested size: 346.89731pt x 165.0922pt.
 <img/screenshots/git/3.png, id=557, 934.99312pt x 441.90094pt>
 File: img/screenshots/git/3.png Graphic file (type png)
 <use img/screenshots/git/3.png>
-Package pdftex.def Info: img/screenshots/git/3.png  used on input line 2437.
+Package pdftex.def Info: img/screenshots/git/3.png  used on input line 2438.
 (pdftex.def)             Requested size: 346.89731pt x 163.95256pt.
 <img/screenshots/git/4.png, id=558, 928.21782pt x 392.21532pt>
 File: img/screenshots/git/4.png Graphic file (type png)
 <use img/screenshots/git/4.png>
-Package pdftex.def Info: img/screenshots/git/4.png  used on input line 2438.
+Package pdftex.def Info: img/screenshots/git/4.png  used on input line 2439.
 (pdftex.def)             Requested size: 346.89731pt x 146.58365pt.
 <img/screenshots/git/5.png, id=559, 930.47626pt x 386.94562pt>
 File: img/screenshots/git/5.png Graphic file (type png)
 <use img/screenshots/git/5.png>
-Package pdftex.def Info: img/screenshots/git/5.png  used on input line 2439.
+Package pdftex.def Info: img/screenshots/git/5.png  used on input line 2440.
 (pdftex.def)             Requested size: 346.89731pt x 144.25993pt.
 <img/screenshots/git/6.png, id=560, 934.99312pt x 307.1475pt>
 File: img/screenshots/git/6.png Graphic file (type png)
 <use img/screenshots/git/6.png>
-Package pdftex.def Info: img/screenshots/git/6.png  used on input line 2443.
+Package pdftex.def Info: img/screenshots/git/6.png  used on input line 2444.
 (pdftex.def)             Requested size: 346.89731pt x 113.9568pt.
 <img/screenshots/git/7.png, id=561, 932.73468pt x 351.56343pt>
 File: img/screenshots/git/7.png Graphic file (type png)
 <use img/screenshots/git/7.png>
-Package pdftex.def Info: img/screenshots/git/7.png  used on input line 2444.
+Package pdftex.def Info: img/screenshots/git/7.png  used on input line 2445.
 (pdftex.def)             Requested size: 346.89731pt x 130.75233pt.
 <img/screenshots/git/8.png, id=562, 938.75719pt x 422.32782pt>
 File: img/screenshots/git/8.png Graphic file (type png)
 <use img/screenshots/git/8.png>
-Package pdftex.def Info: img/screenshots/git/8.png  used on input line 2445.
+Package pdftex.def Info: img/screenshots/git/8.png  used on input line 2446.
 (pdftex.def)             Requested size: 346.89731pt x 156.05907pt.
 <img/screenshots/git/9.png, id=563, 912.40875pt x 395.22656pt>
 File: img/screenshots/git/9.png Graphic file (type png)
 <use img/screenshots/git/9.png>
-Package pdftex.def Info: img/screenshots/git/9.png  used on input line 2446.
+Package pdftex.def Info: img/screenshots/git/9.png  used on input line 2447.
 (pdftex.def)             Requested size: 346.89731pt x 150.26001pt.
 <img/screenshots/git/10.png, id=564, 918.43124pt x 484.05844pt>
 File: img/screenshots/git/10.png Graphic file (type png)
 <use img/screenshots/git/10.png>
-Package pdftex.def Info: img/screenshots/git/10.png  used on input line 2450.
+Package pdftex.def Info: img/screenshots/git/10.png  used on input line 2451.
 (pdftex.def)             Requested size: 346.89731pt x 182.8362pt.
 <img/screenshots/git/11.png, id=565, 935.74594pt x 300.3722pt>
 File: img/screenshots/git/11.png Graphic file (type png)
 <use img/screenshots/git/11.png>
-Package pdftex.def Info: img/screenshots/git/11.png  used on input line 2451.
+Package pdftex.def Info: img/screenshots/git/11.png  used on input line 2452.
 (pdftex.def)             Requested size: 346.89731pt x 111.35596pt.
 <img/screenshots/git/12.png, id=566, 936.49875pt x 307.1475pt>
 File: img/screenshots/git/12.png Graphic file (type png)
 <use img/screenshots/git/12.png>
-Package pdftex.def Info: img/screenshots/git/12.png  used on input line 2452.
+Package pdftex.def Info: img/screenshots/git/12.png  used on input line 2453.
 (pdftex.def)             Requested size: 346.89731pt x 113.77402pt.
 <img/screenshots/git/13.png, id=567, 940.26282pt x 270.25969pt>
 File: img/screenshots/git/13.png Graphic file (type png)
 <use img/screenshots/git/13.png>
-Package pdftex.def Info: img/screenshots/git/13.png  used on input line 2453.
+Package pdftex.def Info: img/screenshots/git/13.png  used on input line 2454.
 (pdftex.def)             Requested size: 346.89731pt x 99.70584pt.
  [100 <./img/screenshots/git/1.png> <./img/screenshots/git/2.png>] [101 <./img/
 screenshots/git/3.png> <./img/screenshots/git/4.png> <./img/screenshots/git/5.p
@@ -2393,20 +2399,19 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4111 strings out of 480790
- 77973 string characters out of 2898708
- 309765 words of memory out of 3000000
- 19989 multiletter control sequences out of 15000+200000
- 548468 words of font info for 52 fonts, out of 3000000 for 9000
+ 4181 strings out of 479799
+ 78812 string characters out of 2879595
+ 357080 words of memory out of 3000000
+ 21039 multiletter control sequences out of 15000+200000
+ 551218 words of font info for 57 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,9n,43p,1628b,306s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Us
-ers/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
-<C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><
-C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/
-Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Use
-rs/HP/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on worklord(Feasibilitystudy)-1.pdf (117 pages, 3712985 bytes).
+ 66i,9n,72p,1628b,308s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1
+/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.p
+fb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/
+MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on worklord(Feasibilitystudy)-1.pdf (117 pages, 3713409 bytes).
 PDF statistics:
  616 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
